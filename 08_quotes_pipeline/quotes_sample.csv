@@ -1,0 +1,16 @@
+Quote_ID,Company_Name,Email,State,Subtotal,Stage,Rep,Expiry_Date
+QTE0001,Summit Solutions,ar@summitsolutions.com,CA,1250.00,Won,Alice Chen,2025-01-15
+QTE0002,Pinnacle Systems,ar@pinnaclesystems.com,TX,850.50,Won,Bob Martinez,2025-01-18
+QTE0003,Vertex Corp,ar@vertexcorp.com,NY,2400.00,Won,Carol Kim,2025-01-20
+QTE0004,Delta Partners,ar@deltapartners.com,FL,3100.00,Sent,David Park,2025-01-22
+QTE0005,Sigma LLC,ar@sigmallc.com,IL,950.00,Won,Alice Chen,2025-01-25
+QTE0006,Allied Industries,ar@alliedindustries.com,OH,4300.00,Sent,Bob Martinez,2025-01-28
+QTE0007,Horizon Group,ar@horizongroup.com,GA,1800.00,Won,Carol Kim,2025-02-02
+QTE0008,Prime Systems,ar@primesystems.com,WA,150.00,Won,David Park,2025-02-05
+QTE0009,Sterling Corp,ar@sterlingcorp.com,MI,3500.00,Won,Alice Chen,2025-02-10
+QTE0010,Valor LLC,ar@valorllc.com,CO,5200.00,Won,Bob Martinez,2025-02-12
+QTE0011,Frontier Partners,ar@frontierpartners.com,CA,620.00,Lost,Carol Kim,2025-02-15
+QTE0012,Vantage Systems,ar@vantagesystems.com,TX,1750.00,Draft,David Park,2025-02-18
+QTE0013,Merit Corp,ar@meritcorp.com,NY,410.00,Won,Alice Chen,2025-02-20
+QTE0014,Noble LLC,ar@noblellc.com,FL,2800.00,Won,Bob Martinez,2025-02-22
+QTE0015,Crest Group,ar@crestgroup.com,IL,3900.00,Won,Carol Kim,2025-02-25

@@ -1,0 +1,110 @@
+<svg width="100%" viewBox="0 0 700 350" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <!-- Arrow marker -->
+    <marker id="arrow" viewBox="0 0 10 10" refX="6" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+      <path d="M 0 1 L 10 5 L 0 9 z" fill="#A0AEC0" />
+    </marker>
+    <!-- Drop Shadow filter -->
+    <filter id="shadow" x="-5%" y="-5%" width="110%" height="110%">
+      <feDropShadow dx="1" dy="2" stdDeviation="2" flood-opacity="0.15"/>
+    </filter>
+  </defs>
+
+  <style>
+    .text-title { font-family: 'Segoe UI', Calibri, Arial, sans-serif; font-size: 15px; font-weight: bold; fill: #1B3A6B; }
+    .text-subtitle { font-family: 'Segoe UI', Calibri, Arial, sans-serif; font-size: 11px; fill: #718096; }
+    .text-box-title { font-family: 'Segoe UI', Calibri, Arial, sans-serif; font-size: 11px; font-weight: bold; fill: #FFFFFF; }
+    .text-box-sub { font-family: 'Segoe UI', Calibri, Arial, sans-serif; font-size: 9px; fill: #E2E8F0; }
+    .text-output { font-family: 'Segoe UI', Calibri, Arial, sans-serif; font-size: 11px; font-weight: bold; fill: #1B3A6B; }
+    .line-arrow { stroke: #A0AEC0; stroke-width: 1.5; fill: none; }
+  </style>
+
+  <!-- Title -->
+  <text class="text-title" x="20" y="30">Nexoria Commerce Inc. — Finance Automation Architecture</text>
+  <text class="text-subtitle" x="20" y="48">Central SQLite Data Warehouse feeding process automation layers to produce executive financial reports.</text>
+
+  <!-- 1. DATA LAYER (Top Row) -->
+  <g filter="url(#shadow)">
+    <rect x="20" y="75" width="660" height="55" rx="8" fill="#1B3A6B" />
+    <text class="text-box-title" x="350" y="98" text-anchor="middle" font-size="13px">Relational Data Warehouse Layer (SQLite — nexoria.db)</text>
+    <text class="text-box-sub" x="350" y="115" text-anchor="middle">orders (32K+ rows) · customers · products · state_tax_rates · shipments · gl_journal_entries · budget · actuals</text>
+  </g>
+
+  <!-- Trunk arrows from Data Layer to Modules -->
+  <path class="line-arrow" d="M 350 130 L 350 155" marker-end="url(#arrow)" />
+  <path class="line-arrow" d="M 90 155 L 610 155" />
+  
+  <path class="line-arrow" d="M 90 155 L 90 175" marker-end="url(#arrow)" />
+  <path class="line-arrow" d="M 220 155 L 220 175" marker-end="url(#arrow)" />
+  <path class="line-arrow" d="M 350 155 L 350 175" marker-end="url(#arrow)" />
+  <path class="line-arrow" d="M 480 155 L 480 175" marker-end="url(#arrow)" />
+  <path class="line-arrow" d="M 610 155 L 610 175" marker-end="url(#arrow)" />
+
+  <!-- 2. PROCESSING MODULES (Middle Row) -->
+  <!-- Module 1: Invoicing (VBA/Python) -->
+  <g filter="url(#shadow)">
+    <rect x="30" y="175" width="120" height="60" rx="6" fill="#2E86AB" />
+    <text class="text-box-title" x="90" y="195" text-anchor="middle">01. Invoicing</text>
+    <text class="text-box-sub" x="90" y="212" text-anchor="middle">VBA Macro /</text>
+    <text class="text-box-sub" x="90" y="224" text-anchor="middle">ReportLab PDF</text>
+  </g>
+
+  <!-- Module 2: Tax Engine (Power Query) -->
+  <g filter="url(#shadow)">
+    <rect x="160" y="175" width="120" height="60" rx="6" fill="#2E86AB" />
+    <text class="text-box-title" x="220" y="195" text-anchor="middle">02. Tax Engine</text>
+    <text class="text-box-sub" x="220" y="212" text-anchor="middle">Power Query &amp;</text>
+    <text class="text-box-sub" x="220" y="224" text-anchor="middle">Excel Formulas</text>
+  </g>
+
+  <!-- Module 3: Shipping (Python) -->
+  <g filter="url(#shadow)">
+    <rect x="290" y="175" width="120" height="60" rx="6" fill="#2E86AB" />
+    <text class="text-box-title" x="350" y="195" text-anchor="middle">03. Reconciler</text>
+    <text class="text-box-sub" x="350" y="212" text-anchor="middle">Python</text>
+    <text class="text-box-sub" x="350" y="224" text-anchor="middle">(Pandas Engine)</text>
+  </g>
+
+  <!-- Module 4: BI Dashboard (Power BI) -->
+  <g filter="url(#shadow)">
+    <rect x="420" y="175" width="120" height="60" rx="6" fill="#7C3AED" />
+    <text class="text-box-title" x="480" y="195" text-anchor="middle">04. BI Dashboard</text>
+    <text class="text-box-sub" x="480" y="212" text-anchor="middle">Power BI / DAX</text>
+    <text class="text-box-sub" x="480" y="224" text-anchor="middle">Midnight Theme</text>
+  </g>
+
+  <!-- Module 5: P&L & AR (Python/COM) -->
+  <g filter="url(#shadow)">
+    <rect x="550" y="175" width="120" height="60" rx="6" fill="#D97706" />
+    <text class="text-box-title" x="610" y="195" text-anchor="middle">05-07. FP&amp;A Pack</text>
+    <text class="text-box-sub" x="610" y="212" text-anchor="middle">openpyxl &amp; COM</text>
+    <text class="text-box-sub" x="610" y="224" text-anchor="middle">SARIMA Forecast</text>
+  </g>
+
+  <!-- Output arrows from Modules to Deliverables -->
+  <path class="line-arrow" d="M 90 235 L 120 280" marker-end="url(#arrow)" />
+  <path class="line-arrow" d="M 220 235 L 130 280" marker-end="url(#arrow)" />
+  <path class="line-arrow" d="M 350 235 L 350 280" marker-end="url(#arrow)" />
+  <path class="line-arrow" d="M 480 235 L 480 280" marker-end="url(#arrow)" />
+  <path class="line-arrow" d="M 610 235 L 590 280" marker-end="url(#arrow)" />
+
+  <!-- 3. DELIVERABLE OUTPUTS (Bottom Row) -->
+  <!-- PDF invoices -->
+  <g filter="url(#shadow)">
+    <rect x="40" y="280" width="130" height="40" rx="4" fill="#F8FAFC" stroke="#2E86AB" stroke-width="1" />
+    <text class="text-output" x="105" y="305" text-anchor="middle">PDF Invoice Batches</text>
+  </g>
+
+  <!-- Reconciled shipping and tax sheets -->
+  <g filter="url(#shadow)">
+    <rect x="210" y="280" width="220" height="40" rx="4" fill="#F8FAFC" stroke="#2E86AB" stroke-width="1" />
+    <text class="text-output" x="320" y="305" text-anchor="middle">Shipping, Tax &amp; P&amp;L Statements</text>
+  </g>
+
+  <!-- Power BI Service -->
+  <g filter="url(#shadow)">
+    <rect x="460" y="280" width="200" height="40" rx="4" fill="#F8FAFC" stroke="#7C3AED" stroke-width="1" />
+    <text class="text-output" x="560" y="305" text-anchor="middle">Interactive Power BI Service</text>
+  </g>
+
+</svg>

@@ -1,0 +1,56 @@
+table dim_date
+	lineageTag: e14c6fb7-b4d0-42f2-8926-78ab318d1a1b
+	dataCategory: Time
+
+	column Date
+		isKey
+		formatString: General Date
+		lineageTag: c7f64264-9989-4d69-80fb-66de1ff56bb3
+		summarizeBy: none
+		isNameInferred
+		sourceColumn: [Date]
+
+	column Year
+		formatString: 0
+		lineageTag: f4a8a58a-364e-4b47-b50a-81f185f4039b
+		summarizeBy: none
+		isNameInferred
+		sourceColumn: [Year]
+
+	column 'Month Number'
+		formatString: 0
+		lineageTag: e6531eb3-2287-43cf-bc08-b83c59f07a7e
+		summarizeBy: none
+		isNameInferred
+		sourceColumn: [Month Number]
+
+	column 'Month Name'
+		lineageTag: c7f8a18c-3c46-4e5b-b9d0-1fa5a73e1679
+		summarizeBy: none
+		isNameInferred
+		sourceColumn: [Month Name]
+
+	column Quarter
+		lineageTag: d0220e89-1fc5-4c23-86f2-bb3457a149fb
+		summarizeBy: none
+		isNameInferred
+		sourceColumn: [Quarter]
+
+	column 'Year Month'
+		lineageTag: b5ab0399-52e0-47e2-8ea5-66795f515c0e
+		summarizeBy: none
+		isNameInferred
+		sourceColumn: [Year Month]
+
+	partition dim_date = calculated
+		mode: import
+		source =
+				ADDCOLUMNS (
+				    CALENDAR (DATE(2023, 1, 1), DATE(2025, 12, 31)),
+				    "Year", YEAR([Date]),
+				    "Month Number", MONTH([Date]),
+				    "Month Name", FORMAT([Date], "MMM"),
+				    "Quarter", "Q" & FORMAT([Date], "Q"),
+				    "Year Month", FORMAT([Date], "YYYY-MM")
+				)
+

@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "Report",
+    "displayName": "Nexoria_BVA_Dashboard"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "31003d4f-02c6-4b21-a103-b004c3d8436a"
+  }
+}

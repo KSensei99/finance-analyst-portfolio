@@ -1,0 +1,31 @@
+table dim_department
+	lineageTag: bd45469d-c6e9-4c42-94c9-108c24b5c917
+
+	column department
+		dataType: string
+		lineageTag: 22b62aa3-c52c-46e3-b864-19d2f90d40af
+		summarizeBy: none
+		sourceColumn: department
+
+		annotation SummarizationSetBy = Automatic
+
+	column department_head
+		dataType: string
+		lineageTag: a7ea23e5-5c4e-482a-8462-3806839ed7ed
+		summarizeBy: none
+		sourceColumn: department_head
+
+		annotation SummarizationSetBy = Automatic
+
+	partition dim_department = m
+		mode: import
+		source =
+				let
+				    Source = Csv.Document(File.Contents("C:\Users\marsh\Downloads\Upwork\finance-analyst-portfolio\04_budget_vs_actual\dim_department.csv"),[Delimiter=",", Columns=2, Encoding=1252, QuoteStyle=QuoteStyle.None]),
+				    #"Promoted Headers" = Table.PromoteHeaders(Source, [PromoteAllScalars=true]),
+				    #"Changed Type" = Table.TransformColumnTypes(#"Promoted Headers",{{"department", type text}, {"department_head", type text}})
+				in
+				    #"Changed Type"
+
+	annotation PBI_ResultType = Table
+

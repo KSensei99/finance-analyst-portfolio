@@ -1,0 +1,33 @@
+table dim_account
+	lineageTag: 78631fed-d611-45a7-a1b5-d71a17c35383
+
+	column gl_category
+		dataType: string
+		lineageTag: a8ad4adf-d689-4382-a80d-738925cde968
+		summarizeBy: none
+		sourceColumn: gl_category
+
+		annotation SummarizationSetBy = Automatic
+
+	column gl_account
+		dataType: string
+		lineageTag: 4565b832-bae7-431d-8ba6-9a16369908d1
+		summarizeBy: none
+		sourceColumn: gl_account
+
+		annotation SummarizationSetBy = Automatic
+
+	partition dim_account = m
+		mode: import
+		source =
+				let
+				    Source = Csv.Document(File.Contents("C:\Users\marsh\Downloads\Upwork\finance-analyst-portfolio\04_budget_vs_actual\dim_account.csv"),[Delimiter=",", Columns=2, Encoding=1252, QuoteStyle=QuoteStyle.None]),
+				    #"Promoted Headers" = Table.PromoteHeaders(Source, [PromoteAllScalars=true]),
+				    #"Changed Type" = Table.TransformColumnTypes(#"Promoted Headers",{{"gl_category", type text}, {"gl_account", type text}})
+				in
+				    #"Changed Type"
+
+	annotation PBI_NavigationStepName = Navigation
+
+	annotation PBI_ResultType = Table
+

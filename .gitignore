@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.ipynb_checkpoints
+.pytest_cache/
+
+# Office / Excel temporary files
+~$*
+*.tmp
+
+# Local system files
+.DS_Store
+Thumbs.db

@@ -1,0 +1,132 @@
+{
+  "config": "{\"version\":\"5.59\",\"themeCollection\":{\"baseTheme\":{\"name\":\"CY24SU10\",\"version\":\"5.60\",\"type\":2},\"customTheme\":{\"name\":\"Nexoria_Midnight_Executive8801407932480914.json\",\"version\":\"5.60\",\"type\":1}},\"activeSectionIndex\":0,\"defaultDrillFilterOtherVisuals\":true,\"linguisticSchemaSyncVersion\":2,\"settings\":{\"useNewFilterPaneExperience\":true,\"allowChangeFilterTypes\":true,\"useStylableVisualContainerHeader\":true,\"queryLimitOption\":6,\"exportDataMode\":1,\"useDefaultAggregateDisplayName\":true,\"useEnhancedTooltips\":true},\"objects\":{\"section\":[{\"properties\":{\"verticalAlignment\":{\"expr\":{\"Literal\":{\"Value\":\"'Top'\"}}}}}],\"outspacePane\":[{\"properties\":{\"expanded\":{\"expr\":{\"Literal\":{\"Value\":\"false\"}}}}}]}}",
+  "layoutOptimization": 0,
+  "resourcePackages": [
+    {
+      "resourcePackage": {
+        "disabled": false,
+        "items": [
+          {
+            "name": "CY24SU10",
+            "path": "BaseThemes/CY24SU10.json",
+            "type": 202
+          }
+        ],
+        "name": "SharedResources",
+        "type": 2
+      }
+    },
+    {
+      "resourcePackage": {
+        "disabled": false,
+        "items": [
+          {
+            "name": "Nexoria_Midnight_Executive8801407932480914.json",
+            "path": "Nexoria_Midnight_Executive8801407932480914.json",
+            "type": 201
+          }
+        ],
+        "name": "RegisteredResources",
+        "type": 1
+      }
+    }
+  ],
+  "sections": [
+    {
+      "config": "{}",
+      "displayName": "Department Drill-Dow",
+      "displayOption": 1,
+      "filters": "[]",
+      "height": 720.00,
+      "name": "75220a7056b4b70c94eb",
+      "ordinal": 1,
+      "visualContainers": [
+        {
+          "config": "{\"name\":\"172c5ed0a62c803aaa06\",\"layouts\":[{\"id\":0,\"position\":{\"x\":357,\"y\":0,\"z\":0,\"width\":566,\"height\":409,\"tabOrder\":0}}],\"singleVisual\":{\"visualType\":\"pivotTable\",\"projections\":{\"Rows\":[{\"queryRef\":\"dim_department.department\",\"active\":true},{\"queryRef\":\"dim_account.gl_account\"},{\"queryRef\":\"dim_account.gl_category\"}],\"Values\":[{\"queryRef\":\"_Measures.Total Actuals\"},{\"queryRef\":\"_Measures.Total Budget\"},{\"queryRef\":\"_Measures.Variance ($)\"},{\"queryRef\":\"_Measures.Variance (%)\"}]},\"prototypeQuery\":{\"Version\":2,\"From\":[{\"Name\":\"d\",\"Entity\":\"dim_department\",\"Type\":0},{\"Name\":\"d1\",\"Entity\":\"dim_account\",\"Type\":0},{\"Name\":\"_\",\"Entity\":\"_Measures\",\"Type\":0}],\"Select\":[{\"Column\":{\"Expression\":{\"SourceRef\":{\"Source\":\"d\"}},\"Property\":\"department\"},\"Name\":\"dim_department.department\",\"NativeReferenceName\":\"department\"},{\"Column\":{\"Expression\":{\"SourceRef\":{\"Source\":\"d1\"}},\"Property\":\"gl_account\"},\"Name\":\"dim_account.gl_account\",\"NativeReferenceName\":\"gl_account\"},{\"Column\":{\"Expression\":{\"SourceRef\":{\"Source\":\"d1\"}},\"Property\":\"gl_category\"},\"Name\":\"dim_account.gl_category\",\"NativeReferenceName\":\"gl_category\"},{\"Measure\":{\"Expression\":{\"SourceRef\":{\"Source\":\"_\"}},\"Property\":\"Total Actuals\"},\"Name\":\"_Measures.Total Actuals\",\"NativeReferenceName\":\"Total Actuals\"},{\"Measure\":{\"Expression\":{\"SourceRef\":{\"Source\":\"_\"}},\"Property\":\"Total Budget\"},\"Name\":\"_Measures.Total Budget\",\"NativeReferenceName\":\"Total Budget\"},{\"Measure\":{\"Expression\":{\"SourceRef\":{\"Source\":\"_\"}},\"Property\":\"Variance ($)\"},\"Name\":\"_Measures.Variance ($)\",\"NativeReferenceName\":\"Variance ($)\"},{\"Measure\":{\"Expression\":{\"SourceRef\":{\"Source\":\"_\"}},\"Property\":\"Variance (%)\"},\"Name\":\"_Measures.Variance (%)\",\"NativeReferenceName\":\"Variance (%)\"}]},\"expansionStates\":[{\"roles\":[\"Rows\"],\"levels\":[{\"queryRefs\":[\"dim_department.department\"],\"isCollapsed\":true,\"identityKeys\":[{\"Column\":{\"Expression\":{\"SourceRef\":{\"Entity\":\"dim_department\"}},\"Property\":\"department\"}}],\"isPinned\":true},{\"queryRefs\":[\"dim_account.gl_account\"],\"isCollapsed\":true,\"identityKeys\":[{\"Column\":{\"Expression\":{\"SourceRef\":{\"Entity\":\"dim_account\"}},\"Property\":\"gl_account\"}}],\"isPinned\":true},{\"queryRefs\":[\"dim_account.gl_category\"],\"isCollapsed\":true,\"isPinned\":true}],\"root\":{\"identityValues\":null}}],\"drillFilterOtherVisuals\":true,\"objects\":{\"values\":[{\"properties\":{},\"selector\":{\"data\":[{\"dataViewWildcard\":{\"matchingOption\":1}}],\"metadata\":\"_Measures.Variance ($)\"}},{\"properties\":{\"backColor\":{\"solid\":{\"color\":{\"expr\":{\"Conditional\":{\"Cases\":[{\"Condition\":{\"And\":{\"Left\":{\"Comparison\":{\"ComparisonKind\":2,\"Left\":{\"Measure\":{\"Expression\":{\"SourceRef\":{\"Entity\":\"_Measures\"}},\"Property\":\"Variance (%)\"}},\"Right\":{\"Literal\":{\"Value\":\"-1000000D\"}}}},\"Right\":{\"Comparison\":{\"ComparisonKind\":3,\"Left\":{\"Measure\":{\"Expression\":{\"SourceRef\":{\"Entity\":\"_Measures\"}},\"Property\":\"Variance (%)\"}},\"Right\":{\"Literal\":{\"Value\":\"0D\"}}}}}},\"Value\":{\"Literal\":{\"Value\":\"'#47B39D'\"}}},{\"Condition\":{\"And\":{\"Left\":{\"Comparison\":{\"ComparisonKind\":2,\"Left\":{\"Measure\":{\"Expression\":{\"SourceRef\":{\"Entity\":\"_Measures\"}},\"Property\":\"Variance (%)\"}},\"Right\":{\"Literal\":{\"Value\":\"0D\"}}}},\"Right\":{\"Comparison\":{\"ComparisonKind\":3,\"Left\":{\"Measure\":{\"Expression\":{\"SourceRef\":{\"Entity\":\"_Measures\"}},\"Property\":\"Variance (%)\"}},\"Right\":{\"Literal\":{\"Value\":\"1000000D\"}}}}}},\"Value\":{\"Literal\":{\"Value\":\"'#E05252'\"}}}]}}}}}},\"selector\":{\"data\":[{\"dataViewWildcard\":{\"matchingOption\":1}}],\"metadata\":\"_Measures.Variance (%)\"}}]}}}",
+          "filters": "[]",
+          "height": 409.00,
+          "width": 566.00,
+          "x": 357.00,
+          "y": 0.00,
+          "z": 0.00
+        }
+      ],
+      "width": 1280.00
+    },
+    {
+      "config": "{}",
+      "displayName": "Executive Summary",
+      "displayOption": 1,
+      "filters": "[]",
+      "height": 720.00,
+      "name": "dc1d8d95781da6944ca9",
+      "visualContainers": [
+        {
+          "config": "{\"name\":\"1cd60291361939951418\",\"layouts\":[{\"id\":0,\"position\":{\"x\":383,\"y\":8,\"z\":4000,\"width\":664,\"height\":272,\"tabOrder\":4000}}],\"singleVisual\":{\"visualType\":\"waterfallChart\",\"projections\":{\"Category\":[{\"queryRef\":\"dim_department.department\",\"active\":true}],\"Y\":[{\"queryRef\":\"_Measures.Variance ($)\"}]},\"prototypeQuery\":{\"Version\":2,\"From\":[{\"Name\":\"d\",\"Entity\":\"dim_department\",\"Type\":0},{\"Name\":\"_\",\"Entity\":\"_Measures\",\"Type\":0}],\"Select\":[{\"Column\":{\"Expression\":{\"SourceRef\":{\"Source\":\"d\"}},\"Property\":\"department\"},\"Name\":\"dim_department.department\",\"NativeReferenceName\":\"department\"},{\"Measure\":{\"Expression\":{\"SourceRef\":{\"Source\":\"_\"}},\"Property\":\"Variance ($)\"},\"Name\":\"_Measures.Variance ($)\",\"NativeReferenceName\":\"Variance ($)\"}],\"OrderBy\":[{\"Direction\":2,\"Expression\":{\"Measure\":{\"Expression\":{\"SourceRef\":{\"Source\":\"_\"}},\"Property\":\"Variance ($)\"}}}]},\"drillFilterOtherVisuals\":true,\"hasDefaultSort\":true}}",
+          "filters": "[]",
+          "height": 272.00,
+          "width": 664.00,
+          "x": 383.00,
+          "y": 8.00,
+          "z": 4000.00
+        },
+        {
+          "config": "{\"name\":\"1cee5b61761bc4e04855\",\"layouts\":[{\"id\":0,\"position\":{\"x\":161,\"y\":290,\"z\":5000,\"width\":1108,\"height\":422,\"tabOrder\":5000}}],\"singleVisual\":{\"visualType\":\"lineClusteredColumnComboChart\",\"projections\":{\"Category\":[{\"queryRef\":\"dim_date.Date\",\"active\":true}],\"Y\":[{\"queryRef\":\"_Measures.Total Actuals\"},{\"queryRef\":\"_Measures.Total Budget\"}],\"Y2\":[{\"queryRef\":\"_Measures.Variance ($)\"}]},\"prototypeQuery\":{\"Version\":2,\"From\":[{\"Name\":\"d\",\"Entity\":\"dim_date\",\"Type\":0},{\"Name\":\"_\",\"Entity\":\"_Measures\",\"Type\":0}],\"Select\":[{\"Column\":{\"Expression\":{\"SourceRef\":{\"Source\":\"d\"}},\"Property\":\"Date\"},\"Name\":\"dim_date.Date\",\"NativeReferenceName\":\"Date\"},{\"Measure\":{\"Expression\":{\"SourceRef\":{\"Source\":\"_\"}},\"Property\":\"Total Actuals\"},\"Name\":\"_Measures.Total Actuals\",\"NativeReferenceName\":\"Total Actuals\"},{\"Measure\":{\"Expression\":{\"SourceRef\":{\"Source\":\"_\"}},\"Property\":\"Total Budget\"},\"Name\":\"_Measures.Total Budget\",\"NativeReferenceName\":\"Total Budget\"},{\"Measure\":{\"Expression\":{\"SourceRef\":{\"Source\":\"_\"}},\"Property\":\"Variance ($)\"},\"Name\":\"_Measures.Variance ($)\",\"NativeReferenceName\":\"Variance ($)\"}],\"OrderBy\":[{\"Direction\":1,\"Expression\":{\"Column\":{\"Expression\":{\"SourceRef\":{\"Source\":\"d\"}},\"Property\":\"Date\"}}}]},\"drillFilterOtherVisuals\":true,\"hasDefaultSort\":true,\"objects\":{}}}",
+          "filters": "[]",
+          "height": 422.00,
+          "width": 1108.00,
+          "x": 161.00,
+          "y": 290.00,
+          "z": 5000.00
+        },
+        {
+          "config": "{\"name\":\"2d0876c51847c0814a63\",\"layouts\":[{\"id\":0,\"position\":{\"x\":1057,\"y\":8,\"z\":0,\"width\":212,\"height\":140,\"tabOrder\":0}}],\"singleVisual\":{\"visualType\":\"card\",\"projections\":{\"Values\":[{\"queryRef\":\"_Measures.Variance ($)\"}]},\"prototypeQuery\":{\"Version\":2,\"From\":[{\"Name\":\"_\",\"Entity\":\"_Measures\",\"Type\":0}],\"Select\":[{\"Measure\":{\"Expression\":{\"SourceRef\":{\"Source\":\"_\"}},\"Property\":\"Variance ($)\"},\"Name\":\"_Measures.Variance ($)\",\"NativeReferenceName\":\"Variance ($)\"}],\"OrderBy\":[{\"Direction\":2,\"Expression\":{\"Measure\":{\"Expression\":{\"SourceRef\":{\"Source\":\"_\"}},\"Property\":\"Variance ($)\"}}}]},\"autoSelectVisualType\":false,\"drillFilterOtherVisuals\":true,\"hasDefaultSort\":true}}",
+          "filters": "[{\"name\":\"311bb3f177c49dc67d01\",\"expression\":{\"Measure\":{\"Expression\":{\"SourceRef\":{\"Entity\":\"_Measures\"}},\"Property\":\"Variance ($)\"}},\"type\":\"Advanced\",\"howCreated\":0,\"isHiddenInViewMode\":true}]",
+          "height": 140.00,
+          "width": 212.00,
+          "x": 1057.00,
+          "y": 8.00,
+          "z": 0.00
+        },
+        {
+          "config": "{\"name\":\"33df2bf80ecb6a810009\",\"layouts\":[{\"id\":0,\"position\":{\"x\":161,\"y\":8,\"z\":3000,\"width\":214,\"height\":140,\"tabOrder\":3000}}],\"singleVisual\":{\"visualType\":\"card\",\"projections\":{\"Values\":[{\"queryRef\":\"_Measures.Total Actuals\"}]},\"prototypeQuery\":{\"Version\":2,\"From\":[{\"Name\":\"_\",\"Entity\":\"_Measures\",\"Type\":0}],\"Select\":[{\"Measure\":{\"Expression\":{\"SourceRef\":{\"Source\":\"_\"}},\"Property\":\"Total Actuals\"},\"Name\":\"_Measures.Total Actuals\",\"NativeReferenceName\":\"Total Actuals\"}],\"OrderBy\":[{\"Direction\":2,\"Expression\":{\"Measure\":{\"Expression\":{\"SourceRef\":{\"Source\":\"_\"}},\"Property\":\"Total Actuals\"}}}]},\"drillFilterOtherVisuals\":true,\"hasDefaultSort\":true}}",
+          "filters": "[]",
+          "height": 140.00,
+          "width": 214.00,
+          "x": 161.00,
+          "y": 8.00,
+          "z": 3000.00
+        },
+        {
+          "config": "{\"name\":\"9c447408e0348710da6c\",\"layouts\":[{\"id\":0,\"position\":{\"x\":0,\"y\":8,\"z\":6000,\"width\":150,\"height\":704,\"tabOrder\":6000}}],\"singleVisual\":{\"visualType\":\"slicer\",\"projections\":{\"Values\":[{\"queryRef\":\"dim_date.Year\",\"active\":true},{\"queryRef\":\"dim_date.Month Name\"}]},\"prototypeQuery\":{\"Version\":2,\"From\":[{\"Name\":\"d\",\"Entity\":\"dim_date\",\"Type\":0}],\"Select\":[{\"Column\":{\"Expression\":{\"SourceRef\":{\"Source\":\"d\"}},\"Property\":\"Year\"},\"Name\":\"dim_date.Year\",\"NativeReferenceName\":\"Year\"},{\"Column\":{\"Expression\":{\"SourceRef\":{\"Source\":\"d\"}},\"Property\":\"Month Name\"},\"Name\":\"dim_date.Month Name\",\"NativeReferenceName\":\"Month Name\"}]},\"expansionStates\":[{\"roles\":[\"Values\"],\"levels\":[{\"queryRefs\":[\"dim_date.Year\"],\"isCollapsed\":true,\"identityKeys\":[{\"Column\":{\"Expression\":{\"SourceRef\":{\"Entity\":\"dim_date\"}},\"Property\":\"Year\"}}],\"isPinned\":true},{\"queryRefs\":[\"dim_date.Month Name\"],\"isCollapsed\":true,\"isPinned\":true}],\"root\":{\"identityValues\":null}}],\"drillFilterOtherVisuals\":true,\"hasDefaultSort\":true,\"objects\":{\"data\":[{\"properties\":{\"mode\":{\"expr\":{\"Literal\":{\"Value\":\"'Basic'\"}}}}}],\"general\":[{\"properties\":{}}]}}}",
+          "filters": "[]",
+          "height": 704.00,
+          "width": 150.00,
+          "x": 0.00,
+          "y": 8.00,
+          "z": 6000.00
+        },
+        {
+          "config": "{\"name\":\"dc4072db4777a1796526\",\"layouts\":[{\"id\":0,\"position\":{\"x\":161,\"y\":160,\"z\":1000,\"width\":214,\"height\":120,\"tabOrder\":1000}}],\"singleVisual\":{\"visualType\":\"card\",\"projections\":{\"Values\":[{\"queryRef\":\"_Measures.Total Budget\"}]},\"prototypeQuery\":{\"Version\":2,\"From\":[{\"Name\":\"_\",\"Entity\":\"_Measures\",\"Type\":0}],\"Select\":[{\"Measure\":{\"Expression\":{\"SourceRef\":{\"Source\":\"_\"}},\"Property\":\"Total Budget\"},\"Name\":\"_Measures.Total Budget\",\"NativeReferenceName\":\"Total Budget\"}],\"OrderBy\":[{\"Direction\":2,\"Expression\":{\"Measure\":{\"Expression\":{\"SourceRef\":{\"Source\":\"_\"}},\"Property\":\"Total Budget\"}}}]},\"drillFilterOtherVisuals\":true,\"hasDefaultSort\":true}}",
+          "filters": "[]",
+          "height": 120.00,
+          "width": 214.00,
+          "x": 161.00,
+          "y": 160.00,
+          "z": 1000.00
+        },
+        {
+          "config": "{\"name\":\"e1c26113453982d02a4b\",\"layouts\":[{\"id\":0,\"position\":{\"x\":1057,\"y\":160,\"z\":2000,\"width\":212,\"height\":120,\"tabOrder\":2000}}],\"singleVisual\":{\"visualType\":\"card\",\"projections\":{\"Values\":[{\"queryRef\":\"_Measures.Variance (%)\"}]},\"prototypeQuery\":{\"Version\":2,\"From\":[{\"Name\":\"_\",\"Entity\":\"_Measures\",\"Type\":0}],\"Select\":[{\"Measure\":{\"Expression\":{\"SourceRef\":{\"Source\":\"_\"}},\"Property\":\"Variance (%)\"},\"Name\":\"_Measures.Variance (%)\",\"NativeReferenceName\":\"Variance (%)\"}],\"OrderBy\":[{\"Direction\":2,\"Expression\":{\"Measure\":{\"Expression\":{\"SourceRef\":{\"Source\":\"_\"}},\"Property\":\"Variance (%)\"}}}]},\"drillFilterOtherVisuals\":true,\"hasDefaultSort\":true}}",
+          "filters": "[]",
+          "height": 120.00,
+          "width": 212.00,
+          "x": 1057.00,
+          "y": 160.00,
+          "z": 2000.00
+        }
+      ],
+      "width": 1280.00
+    }
+  ],
+  "theme": "Nexoria_Midnight_Executive8801407932480914.json"
+}

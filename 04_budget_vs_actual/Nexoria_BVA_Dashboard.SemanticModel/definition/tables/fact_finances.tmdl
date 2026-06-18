@@ -1,0 +1,62 @@
+table fact_finances
+	lineageTag: 3e2624c0-a18f-4b67-92ab-2f414ef968c9
+
+	column Date
+		dataType: dateTime
+		formatString: Long Date
+		lineageTag: 3efcf512-89f6-456d-be1e-d5e553fe1143
+		summarizeBy: none
+		sourceColumn: Date
+
+		annotation SummarizationSetBy = Automatic
+
+		annotation UnderlyingDateTimeDataType = Date
+
+	column department
+		dataType: string
+		lineageTag: 65cdef51-5b8b-4c20-9644-cc47e7a60740
+		summarizeBy: none
+		sourceColumn: department
+
+		annotation SummarizationSetBy = Automatic
+
+	column gl_account
+		dataType: string
+		lineageTag: ae974cb2-5fc0-44e3-bb31-3f0bb9129d12
+		summarizeBy: none
+		sourceColumn: gl_account
+
+		annotation SummarizationSetBy = Automatic
+
+	column Scenario
+		dataType: string
+		lineageTag: c0539e85-b253-4d35-a2ae-291cf6f1d079
+		summarizeBy: none
+		sourceColumn: Scenario
+
+		annotation SummarizationSetBy = Automatic
+
+	column amount
+		dataType: double
+		lineageTag: 27d6d0da-418a-474e-8ae4-ba22cbd9f01a
+		summarizeBy: sum
+		sourceColumn: amount
+
+		annotation SummarizationSetBy = Automatic
+
+		annotation PBI_FormatHint = {"isGeneralNumber":true}
+
+	partition fact_finances = m
+		mode: import
+		source =
+				let
+				    Source = Csv.Document(File.Contents("C:\Users\marsh\Downloads\Upwork\finance-analyst-portfolio\04_budget_vs_actual\fact_finances.csv"),[Delimiter=",", Columns=5, Encoding=1252, QuoteStyle=QuoteStyle.None]),
+				    #"Promoted Headers" = Table.PromoteHeaders(Source, [PromoteAllScalars=true]),
+				    #"Changed Type" = Table.TransformColumnTypes(#"Promoted Headers",{{"Date", type date}, {"department", type text}, {"gl_account", type text}, {"Scenario", type text}, {"amount", type number}})
+				in
+				    #"Changed Type"
+
+	annotation PBI_NavigationStepName = Navigation
+
+	annotation PBI_ResultType = Table
+

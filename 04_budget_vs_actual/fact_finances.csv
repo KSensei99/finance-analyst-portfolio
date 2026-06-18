@@ -1,0 +1,3841 @@
+Date,department,gl_account,Scenario,amount
+2023-01-01,Sales,Product Sales,Budget,113181.89
+2023-01-01,Sales,Service Revenue,Budget,155471.62
+2023-01-01,Sales,Shipping Revenue,Budget,43655.55
+2023-01-01,Sales,Product Cost,Budget,90317.32
+2023-01-01,Sales,Freight In,Budget,10506.26
+2023-01-01,Sales,Packaging,Budget,56641.16
+2023-01-01,Sales,Salaries,Budget,65922.47
+2023-01-01,Sales,Marketing Spend,Budget,105423.21
+2023-01-01,Sales,Software & SaaS,Budget,56211.11
+2023-01-01,Sales,Office Rent,Budget,112068.7
+2023-01-01,Sales,Travel & Entertainment,Budget,84090.53
+2023-01-01,Sales,Professional Services,Budget,113594.03
+2023-01-01,Sales,Utilities,Budget,118494.11
+2023-01-01,Sales,Depreciation,Budget,101294.87
+2023-01-01,Marketing,Product Cost,Budget,75027.77
+2023-01-01,Marketing,Freight In,Budget,114378.19
+2023-01-01,Marketing,Packaging,Budget,119214.53
+2023-01-01,Marketing,Salaries,Budget,39869.61
+2023-01-01,Marketing,Marketing Spend,Budget,28503.78
+2023-01-01,Marketing,Software & SaaS,Budget,63900.25
+2023-01-01,Marketing,Office Rent,Budget,82363.82
+2023-01-01,Marketing,Travel & Entertainment,Budget,94173.66
+2023-01-01,Marketing,Professional Services,Budget,53307.89
+2023-01-01,Marketing,Utilities,Budget,39022.16
+2023-01-01,Marketing,Depreciation,Budget,58889.48
+2023-01-01,Operations,Product Cost,Budget,52351.2
+2023-01-01,Operations,Freight In,Budget,74170.42
+2023-01-01,Operations,Packaging,Budget,58688.06
+2023-01-01,Operations,Salaries,Budget,48894.15
+2023-01-01,Operations,Marketing Spend,Budget,91210.44
+2023-01-01,Operations,Software & SaaS,Budget,58768.77
+2023-01-01,Operations,Office Rent,Budget,45168.79
+2023-01-01,Operations,Travel & Entertainment,Budget,80237.87
+2023-01-01,Operations,Professional Services,Budget,95211.81
+2023-01-01,Operations,Utilities,Budget,64467.05
+2023-01-01,Operations,Depreciation,Budget,10611.61
+2023-01-01,Finance,Product Cost,Budget,84714.87
+2023-01-01,Finance,Freight In,Budget,77225.56
+2023-01-01,Finance,Packaging,Budget,34968.97
+2023-01-01,Finance,Salaries,Budget,46604.28
+2023-01-01,Finance,Marketing Spend,Budget,58501.89
+2023-01-01,Finance,Software & SaaS,Budget,40762.35
+2023-01-01,Finance,Office Rent,Budget,13579.2
+2023-01-01,Finance,Travel & Entertainment,Budget,67747.48
+2023-01-01,Finance,Professional Services,Budget,68530.53
+2023-01-01,Finance,Utilities,Budget,68704.57
+2023-01-01,Finance,Depreciation,Budget,73838.05
+2023-01-01,HR,Product Cost,Budget,76787.88
+2023-01-01,HR,Freight In,Budget,76091.92
+2023-01-01,HR,Packaging,Budget,91436.62
+2023-01-01,HR,Salaries,Budget,111068.37
+2023-01-01,HR,Marketing Spend,Budget,13209.31
+2023-01-01,HR,Software & SaaS,Budget,32993.51
+2023-01-01,HR,Office Rent,Budget,106302.09
+2023-01-01,HR,Travel & Entertainment,Budget,10143.88
+2023-01-01,HR,Professional Services,Budget,34026.57
+2023-01-01,HR,Utilities,Budget,87717.63
+2023-01-01,HR,Depreciation,Budget,44564.87
+2023-01-01,IT,Product Cost,Budget,91190.4
+2023-01-01,IT,Freight In,Budget,49706.06
+2023-01-01,IT,Packaging,Budget,68625.93
+2023-01-01,IT,Salaries,Budget,57506.94
+2023-01-01,IT,Marketing Spend,Budget,42048.65
+2023-01-01,IT,Software & SaaS,Budget,40924.59
+2023-01-01,IT,Office Rent,Budget,86082.26
+2023-01-01,IT,Travel & Entertainment,Budget,114930.86
+2023-01-01,IT,Professional Services,Budget,57507.2
+2023-01-01,IT,Utilities,Budget,34025.16
+2023-01-01,IT,Depreciation,Budget,25013.96
+2023-01-01,Customer Service,Product Cost,Budget,100445.97
+2023-01-01,Customer Service,Freight In,Budget,62199.07
+2023-01-01,Customer Service,Packaging,Budget,75409.88
+2023-01-01,Customer Service,Salaries,Budget,87958.35
+2023-01-01,Customer Service,Marketing Spend,Budget,41204.49
+2023-01-01,Customer Service,Software & SaaS,Budget,15870.95
+2023-01-01,Customer Service,Office Rent,Budget,29694.32
+2023-01-01,Customer Service,Travel & Entertainment,Budget,14941.27
+2023-01-01,Customer Service,Professional Services,Budget,22119.25
+2023-01-01,Customer Service,Utilities,Budget,46068.77
+2023-01-01,Customer Service,Depreciation,Budget,117442.85
+2023-02-01,Sales,Product Sales,Budget,136537.23
+2023-02-01,Sales,Service Revenue,Budget,101800.44
+2023-02-01,Sales,Shipping Revenue,Budget,40343.56
+2023-02-01,Sales,Product Cost,Budget,101797.95
+2023-02-01,Sales,Freight In,Budget,38994.43
+2023-02-01,Sales,Packaging,Budget,45357.53
+2023-02-01,Sales,Salaries,Budget,50832.53
+2023-02-01,Sales,Marketing Spend,Budget,62036.43
+2023-02-01,Sales,Software & SaaS,Budget,104051.43
+2023-02-01,Sales,Office Rent,Budget,98941.81
+2023-02-01,Sales,Travel & Entertainment,Budget,93314.13
+2023-02-01,Sales,Professional Services,Budget,30176.58
+2023-02-01,Sales,Utilities,Budget,93657.9
+2023-02-01,Sales,Depreciation,Budget,54383.64
+2023-02-01,Marketing,Product Cost,Budget,46753.22
+2023-02-01,Marketing,Freight In,Budget,16650.88
+2023-02-01,Marketing,Packaging,Budget,103075.24
+2023-02-01,Marketing,Salaries,Budget,84822.01
+2023-02-01,Marketing,Marketing Spend,Budget,27591.26
+2023-02-01,Marketing,Software & SaaS,Budget,107135.08
+2023-02-01,Marketing,Office Rent,Budget,20433.81
+2023-02-01,Marketing,Travel & Entertainment,Budget,22076.61
+2023-02-01,Marketing,Professional Services,Budget,60789.28
+2023-02-01,Marketing,Utilities,Budget,80906.86
+2023-02-01,Marketing,Depreciation,Budget,42735.54
+2023-02-01,Operations,Product Cost,Budget,86987.1
+2023-02-01,Operations,Freight In,Budget,110014.94
+2023-02-01,Operations,Packaging,Budget,55234.85
+2023-02-01,Operations,Salaries,Budget,10987.97
+2023-02-01,Operations,Marketing Spend,Budget,65552.67
+2023-02-01,Operations,Software & SaaS,Budget,63820.67
+2023-02-01,Operations,Office Rent,Budget,14935.71
+2023-02-01,Operations,Travel & Entertainment,Budget,54490.87
+2023-02-01,Operations,Professional Services,Budget,23101.61
+2023-02-01,Operations,Utilities,Budget,57004.74
+2023-02-01,Operations,Depreciation,Budget,13939.39
+2023-02-01,Finance,Product Cost,Budget,32548.34
+2023-02-01,Finance,Freight In,Budget,81003.61
+2023-02-01,Finance,Packaging,Budget,90382.62
+2023-02-01,Finance,Salaries,Budget,31590.55
+2023-02-01,Finance,Marketing Spend,Budget,37973.57
+2023-02-01,Finance,Software & SaaS,Budget,48639.61
+2023-02-01,Finance,Office Rent,Budget,112266.62
+2023-02-01,Finance,Travel & Entertainment,Budget,41322.31
+2023-02-01,Finance,Professional Services,Budget,105477.44
+2023-02-01,Finance,Utilities,Budget,78221.02
+2023-02-01,Finance,Depreciation,Budget,66548.0
+2023-02-01,HR,Product Cost,Budget,30805.64
+2023-02-01,HR,Freight In,Budget,70948.91
+2023-02-01,HR,Packaging,Budget,36934.39
+2023-02-01,HR,Salaries,Budget,52895.64
+2023-02-01,HR,Marketing Spend,Budget,37027.49
+2023-02-01,HR,Software & SaaS,Budget,57082.49
+2023-02-01,HR,Office Rent,Budget,45818.42
+2023-02-01,HR,Travel & Entertainment,Budget,101149.26
+2023-02-01,HR,Professional Services,Budget,119323.19
+2023-02-01,HR,Utilities,Budget,70590.85
+2023-02-01,HR,Depreciation,Budget,109110.01
+2023-02-01,IT,Product Cost,Budget,74638.6
+2023-02-01,IT,Freight In,Budget,119543.3
+2023-02-01,IT,Packaging,Budget,13704.17
+2023-02-01,IT,Salaries,Budget,50891.68
+2023-02-01,IT,Marketing Spend,Budget,88457.05
+2023-02-01,IT,Software & SaaS,Budget,56565.81
+2023-02-01,IT,Office Rent,Budget,15949.36
+2023-02-01,IT,Travel & Entertainment,Budget,27484.9
+2023-02-01,IT,Professional Services,Budget,81387.1
+2023-02-01,IT,Utilities,Budget,76775.69
+2023-02-01,IT,Depreciation,Budget,78469.57
+2023-02-01,Customer Service,Product Cost,Budget,34083.93
+2023-02-01,Customer Service,Freight In,Budget,100477.3
+2023-02-01,Customer Service,Packaging,Budget,37047.65
+2023-02-01,Customer Service,Salaries,Budget,53950.56
+2023-02-01,Customer Service,Marketing Spend,Budget,10353.88
+2023-02-01,Customer Service,Software & SaaS,Budget,58418.36
+2023-02-01,Customer Service,Office Rent,Budget,22907.34
+2023-02-01,Customer Service,Travel & Entertainment,Budget,98560.37
+2023-02-01,Customer Service,Professional Services,Budget,98474.16
+2023-02-01,Customer Service,Utilities,Budget,32932.84
+2023-02-01,Customer Service,Depreciation,Budget,22922.25
+2023-03-01,Sales,Product Sales,Budget,96106.66
+2023-03-01,Sales,Service Revenue,Budget,24643.11
+2023-03-01,Sales,Shipping Revenue,Budget,55785.39
+2023-03-01,Sales,Product Cost,Budget,24082.51
+2023-03-01,Sales,Freight In,Budget,114210.78
+2023-03-01,Sales,Packaging,Budget,14288.02
+2023-03-01,Sales,Salaries,Budget,103975.58
+2023-03-01,Sales,Marketing Spend,Budget,23894.67
+2023-03-01,Sales,Software & SaaS,Budget,43105.21
+2023-03-01,Sales,Office Rent,Budget,95993.84
+2023-03-01,Sales,Travel & Entertainment,Budget,36126.52
+2023-03-01,Sales,Professional Services,Budget,110049.78
+2023-03-01,Sales,Utilities,Budget,68375.53
+2023-03-01,Sales,Depreciation,Budget,33926.6
+2023-03-01,Marketing,Product Cost,Budget,58781.15
+2023-03-01,Marketing,Freight In,Budget,76000.34
+2023-03-01,Marketing,Packaging,Budget,74560.41
+2023-03-01,Marketing,Salaries,Budget,92331.61
+2023-03-01,Marketing,Marketing Spend,Budget,88835.91
+2023-03-01,Marketing,Software & SaaS,Budget,46015.91
+2023-03-01,Marketing,Office Rent,Budget,21547.58
+2023-03-01,Marketing,Travel & Entertainment,Budget,68936.25
+2023-03-01,Marketing,Professional Services,Budget,104551.92
+2023-03-01,Marketing,Utilities,Budget,66674.18
+2023-03-01,Marketing,Depreciation,Budget,112497.74
+2023-03-01,Operations,Product Cost,Budget,74556.97
+2023-03-01,Operations,Freight In,Budget,20831.33
+2023-03-01,Operations,Packaging,Budget,105790.5
+2023-03-01,Operations,Salaries,Budget,61374.17
+2023-03-01,Operations,Marketing Spend,Budget,68065.32
+2023-03-01,Operations,Software & SaaS,Budget,89619.92
+2023-03-01,Operations,Office Rent,Budget,47229.26
+2023-03-01,Operations,Travel & Entertainment,Budget,15900.14
+2023-03-01,Operations,Professional Services,Budget,73270.63
+2023-03-01,Operations,Utilities,Budget,103763.11
+2023-03-01,Operations,Depreciation,Budget,102946.27
+2023-03-01,Finance,Product Cost,Budget,65198.88
+2023-03-01,Finance,Freight In,Budget,84272.78
+2023-03-01,Finance,Packaging,Budget,100701.29
+2023-03-01,Finance,Salaries,Budget,66374.86
+2023-03-01,Finance,Marketing Spend,Budget,91339.61
+2023-03-01,Finance,Software & SaaS,Budget,102983.74
+2023-03-01,Finance,Office Rent,Budget,66146.31
+2023-03-01,Finance,Travel & Entertainment,Budget,38083.84
+2023-03-01,Finance,Professional Services,Budget,41952.89
+2023-03-01,Finance,Utilities,Budget,46567.98
+2023-03-01,Finance,Depreciation,Budget,103574.11
+2023-03-01,HR,Product Cost,Budget,49722.31
+2023-03-01,HR,Freight In,Budget,76146.78
+2023-03-01,HR,Packaging,Budget,112757.12
+2023-03-01,HR,Salaries,Budget,46590.54
+2023-03-01,HR,Marketing Spend,Budget,104468.32
+2023-03-01,HR,Software & SaaS,Budget,88298.61
+2023-03-01,HR,Office Rent,Budget,59130.04
+2023-03-01,HR,Travel & Entertainment,Budget,43002.76
+2023-03-01,HR,Professional Services,Budget,59722.86
+2023-03-01,HR,Utilities,Budget,64247.63
+2023-03-01,HR,Depreciation,Budget,106126.78
+2023-03-01,IT,Product Cost,Budget,106732.24
+2023-03-01,IT,Freight In,Budget,33850.76
+2023-03-01,IT,Packaging,Budget,103667.85
+2023-03-01,IT,Salaries,Budget,99345.73
+2023-03-01,IT,Marketing Spend,Budget,75574.86
+2023-03-01,IT,Software & SaaS,Budget,11872.96
+2023-03-01,IT,Office Rent,Budget,41352.5
+2023-03-01,IT,Travel & Entertainment,Budget,50060.69
+2023-03-01,IT,Professional Services,Budget,70216.11
+2023-03-01,IT,Utilities,Budget,85678.79
+2023-03-01,IT,Depreciation,Budget,108602.7
+2023-03-01,Customer Service,Product Cost,Budget,102999.71
+2023-03-01,Customer Service,Freight In,Budget,56900.87
+2023-03-01,Customer Service,Packaging,Budget,72000.38
+2023-03-01,Customer Service,Salaries,Budget,82489.01
+2023-03-01,Customer Service,Marketing Spend,Budget,26944.18
+2023-03-01,Customer Service,Software & SaaS,Budget,34309.66
+2023-03-01,Customer Service,Office Rent,Budget,112314.21
+2023-03-01,Customer Service,Travel & Entertainment,Budget,57401.84
+2023-03-01,Customer Service,Professional Services,Budget,90766.13
+2023-03-01,Customer Service,Utilities,Budget,43123.84
+2023-03-01,Customer Service,Depreciation,Budget,110239.32
+2023-04-01,Sales,Product Sales,Budget,73834.73
+2023-04-01,Sales,Service Revenue,Budget,61965.1
+2023-04-01,Sales,Shipping Revenue,Budget,19503.36
+2023-04-01,Sales,Product Cost,Budget,50460.02
+2023-04-01,Sales,Freight In,Budget,79037.66
+2023-04-01,Sales,Packaging,Budget,64608.0
+2023-04-01,Sales,Salaries,Budget,100103.63
+2023-04-01,Sales,Marketing Spend,Budget,41120.94
+2023-04-01,Sales,Software & SaaS,Budget,71125.28
+2023-04-01,Sales,Office Rent,Budget,48851.14
+2023-04-01,Sales,Travel & Entertainment,Budget,46983.31
+2023-04-01,Sales,Professional Services,Budget,111599.53
+2023-04-01,Sales,Utilities,Budget,115404.12
+2023-04-01,Sales,Depreciation,Budget,71406.79
+2023-04-01,Marketing,Product Cost,Budget,33615.86
+2023-04-01,Marketing,Freight In,Budget,116709.73
+2023-04-01,Marketing,Packaging,Budget,86929.1
+2023-04-01,Marketing,Salaries,Budget,55607.35
+2023-04-01,Marketing,Marketing Spend,Budget,71653.98
+2023-04-01,Marketing,Software & SaaS,Budget,49173.35
+2023-04-01,Marketing,Office Rent,Budget,118736.36
+2023-04-01,Marketing,Travel & Entertainment,Budget,20082.36
+2023-04-01,Marketing,Professional Services,Budget,93504.56
+2023-04-01,Marketing,Utilities,Budget,32101.53
+2023-04-01,Marketing,Depreciation,Budget,50761.25
+2023-04-01,Operations,Product Cost,Budget,61870.41
+2023-04-01,Operations,Freight In,Budget,27454.31
+2023-04-01,Operations,Packaging,Budget,73699.37
+2023-04-01,Operations,Salaries,Budget,34537.43
+2023-04-01,Operations,Marketing Spend,Budget,107588.36
+2023-04-01,Operations,Software & SaaS,Budget,77766.88
+2023-04-01,Operations,Office Rent,Budget,105737.45
+2023-04-01,Operations,Travel & Entertainment,Budget,56225.74
+2023-04-01,Operations,Professional Services,Budget,115123.08
+2023-04-01,Operations,Utilities,Budget,118165.65
+2023-04-01,Operations,Depreciation,Budget,81085.28
+2023-04-01,Finance,Product Cost,Budget,19679.46
+2023-04-01,Finance,Freight In,Budget,96906.08
+2023-04-01,Finance,Packaging,Budget,75693.9
+2023-04-01,Finance,Salaries,Budget,50636.65
+2023-04-01,Finance,Marketing Spend,Budget,14808.15
+2023-04-01,Finance,Software & SaaS,Budget,15333.64
+2023-04-01,Finance,Office Rent,Budget,30884.53
+2023-04-01,Finance,Travel & Entertainment,Budget,36110.09
+2023-04-01,Finance,Professional Services,Budget,72773.03
+2023-04-01,Finance,Utilities,Budget,74617.91
+2023-04-01,Finance,Depreciation,Budget,10268.28
+2023-04-01,HR,Product Cost,Budget,35982.45
+2023-04-01,HR,Freight In,Budget,59230.09
+2023-04-01,HR,Packaging,Budget,82037.16
+2023-04-01,HR,Salaries,Budget,71555.75
+2023-04-01,HR,Marketing Spend,Budget,68103.47
+2023-04-01,HR,Software & SaaS,Budget,113304.12
+2023-04-01,HR,Office Rent,Budget,92795.96
+2023-04-01,HR,Travel & Entertainment,Budget,59808.64
+2023-04-01,HR,Professional Services,Budget,92250.43
+2023-04-01,HR,Utilities,Budget,102765.59
+2023-04-01,HR,Depreciation,Budget,10869.24
+2023-04-01,IT,Product Cost,Budget,66375.4
+2023-04-01,IT,Freight In,Budget,42334.08
+2023-04-01,IT,Packaging,Budget,54523.33
+2023-04-01,IT,Salaries,Budget,40590.35
+2023-04-01,IT,Marketing Spend,Budget,55433.13
+2023-04-01,IT,Software & SaaS,Budget,13298.47
+2023-04-01,IT,Office Rent,Budget,71468.58
+2023-04-01,IT,Travel & Entertainment,Budget,94148.22
+2023-04-01,IT,Professional Services,Budget,75919.81
+2023-04-01,IT,Utilities,Budget,36357.97
+2023-04-01,IT,Depreciation,Budget,81632.54
+2023-04-01,Customer Service,Product Cost,Budget,85140.93
+2023-04-01,Customer Service,Freight In,Budget,58798.95
+2023-04-01,Customer Service,Packaging,Budget,39988.88
+2023-04-01,Customer Service,Salaries,Budget,44221.01
+2023-04-01,Customer Service,Marketing Spend,Budget,83012.66
+2023-04-01,Customer Service,Software & SaaS,Budget,114485.99
+2023-04-01,Customer Service,Office Rent,Budget,77084.59
+2023-04-01,Customer Service,Travel & Entertainment,Budget,72594.03
+2023-04-01,Customer Service,Professional Services,Budget,37425.35
+2023-04-01,Customer Service,Utilities,Budget,46330.93
+2023-04-01,Customer Service,Depreciation,Budget,44204.76
+2023-05-01,Sales,Product Sales,Budget,84823.7
+2023-05-01,Sales,Service Revenue,Budget,29258.11
+2023-05-01,Sales,Shipping Revenue,Budget,106316.34
+2023-05-01,Sales,Product Cost,Budget,103157.96
+2023-05-01,Sales,Freight In,Budget,98572.42
+2023-05-01,Sales,Packaging,Budget,115066.56
+2023-05-01,Sales,Salaries,Budget,56012.94
+2023-05-01,Sales,Marketing Spend,Budget,67129.68
+2023-05-01,Sales,Software & SaaS,Budget,23390.87
+2023-05-01,Sales,Office Rent,Budget,30026.79
+2023-05-01,Sales,Travel & Entertainment,Budget,95965.25
+2023-05-01,Sales,Professional Services,Budget,83148.79
+2023-05-01,Sales,Utilities,Budget,117225.07
+2023-05-01,Sales,Depreciation,Budget,39291.86
+2023-05-01,Marketing,Product Cost,Budget,25110.8
+2023-05-01,Marketing,Freight In,Budget,34921.21
+2023-05-01,Marketing,Packaging,Budget,63456.74
+2023-05-01,Marketing,Salaries,Budget,39682.56
+2023-05-01,Marketing,Marketing Spend,Budget,84303.89
+2023-05-01,Marketing,Software & SaaS,Budget,66614.93
+2023-05-01,Marketing,Office Rent,Budget,43088.18
+2023-05-01,Marketing,Travel & Entertainment,Budget,67290.93
+2023-05-01,Marketing,Professional Services,Budget,65158.74
+2023-05-01,Marketing,Utilities,Budget,39204.49
+2023-05-01,Marketing,Depreciation,Budget,74253.38
+2023-05-01,Operations,Product Cost,Budget,110469.99
+2023-05-01,Operations,Freight In,Budget,95311.34
+2023-05-01,Operations,Packaging,Budget,81689.87
+2023-05-01,Operations,Salaries,Budget,96988.48
+2023-05-01,Operations,Marketing Spend,Budget,98125.61
+2023-05-01,Operations,Software & SaaS,Budget,71778.47
+2023-05-01,Operations,Office Rent,Budget,107536.16
+2023-05-01,Operations,Travel & Entertainment,Budget,103470.25
+2023-05-01,Operations,Professional Services,Budget,53515.89
+2023-05-01,Operations,Utilities,Budget,81682.44
+2023-05-01,Operations,Depreciation,Budget,38099.31
+2023-05-01,Finance,Product Cost,Budget,33631.91
+2023-05-01,Finance,Freight In,Budget,34661.05
+2023-05-01,Finance,Packaging,Budget,50440.96
+2023-05-01,Finance,Salaries,Budget,115834.17
+2023-05-01,Finance,Marketing Spend,Budget,107109.14
+2023-05-01,Finance,Software & SaaS,Budget,29532.88
+2023-05-01,Finance,Office Rent,Budget,26601.81
+2023-05-01,Finance,Travel & Entertainment,Budget,66111.17
+2023-05-01,Finance,Professional Services,Budget,60150.44
+2023-05-01,Finance,Utilities,Budget,50552.45
+2023-05-01,Finance,Depreciation,Budget,45837.68
+2023-05-01,HR,Product Cost,Budget,20195.71
+2023-05-01,HR,Freight In,Budget,48236.16
+2023-05-01,HR,Packaging,Budget,12387.23
+2023-05-01,HR,Salaries,Budget,51147.28
+2023-05-01,HR,Marketing Spend,Budget,34617.79
+2023-05-01,HR,Software & SaaS,Budget,70206.32
+2023-05-01,HR,Office Rent,Budget,19634.97
+2023-05-01,HR,Travel & Entertainment,Budget,30629.07
+2023-05-01,HR,Professional Services,Budget,30438.54
+2023-05-01,HR,Utilities,Budget,105483.47
+2023-05-01,HR,Depreciation,Budget,56564.57
+2023-05-01,IT,Product Cost,Budget,32529.31
+2023-05-01,IT,Freight In,Budget,83878.0
+2023-05-01,IT,Packaging,Budget,15238.25
+2023-05-01,IT,Salaries,Budget,32792.8
+2023-05-01,IT,Marketing Spend,Budget,10172.02
+2023-05-01,IT,Software & SaaS,Budget,117987.39
+2023-05-01,IT,Office Rent,Budget,77716.3
+2023-05-01,IT,Travel & Entertainment,Budget,100582.13
+2023-05-01,IT,Professional Services,Budget,49999.34
+2023-05-01,IT,Utilities,Budget,18967.37
+2023-05-01,IT,Depreciation,Budget,60504.09
+2023-05-01,Customer Service,Product Cost,Budget,95635.77
+2023-05-01,Customer Service,Freight In,Budget,73841.67
+2023-05-01,Customer Service,Packaging,Budget,49803.44
+2023-05-01,Customer Service,Salaries,Budget,46712.76
+2023-05-01,Customer Service,Marketing Spend,Budget,12084.01
+2023-05-01,Customer Service,Software & SaaS,Budget,77806.35
+2023-05-01,Customer Service,Office Rent,Budget,115322.62
+2023-05-01,Customer Service,Travel & Entertainment,Budget,33712.57
+2023-05-01,Customer Service,Professional Services,Budget,65418.02
+2023-05-01,Customer Service,Utilities,Budget,44332.24
+2023-05-01,Customer Service,Depreciation,Budget,79026.23
+2023-06-01,Sales,Product Sales,Budget,111996.67
+2023-06-01,Sales,Service Revenue,Budget,24311.0
+2023-06-01,Sales,Shipping Revenue,Budget,19016.85
+2023-06-01,Sales,Product Cost,Budget,26845.7
+2023-06-01,Sales,Freight In,Budget,25392.7
+2023-06-01,Sales,Packaging,Budget,74644.14
+2023-06-01,Sales,Salaries,Budget,98393.39
+2023-06-01,Sales,Marketing Spend,Budget,60589.17
+2023-06-01,Sales,Software & SaaS,Budget,59171.25
+2023-06-01,Sales,Office Rent,Budget,27049.73
+2023-06-01,Sales,Travel & Entertainment,Budget,19095.31
+2023-06-01,Sales,Professional Services,Budget,41020.42
+2023-06-01,Sales,Utilities,Budget,29757.68
+2023-06-01,Sales,Depreciation,Budget,48652.9
+2023-06-01,Marketing,Product Cost,Budget,29308.72
+2023-06-01,Marketing,Freight In,Budget,19509.27
+2023-06-01,Marketing,Packaging,Budget,49138.31
+2023-06-01,Marketing,Salaries,Budget,56037.19
+2023-06-01,Marketing,Marketing Spend,Budget,59905.81
+2023-06-01,Marketing,Software & SaaS,Budget,26477.03
+2023-06-01,Marketing,Office Rent,Budget,25273.05
+2023-06-01,Marketing,Travel & Entertainment,Budget,36614.97
+2023-06-01,Marketing,Professional Services,Budget,62037.63
+2023-06-01,Marketing,Utilities,Budget,60016.41
+2023-06-01,Marketing,Depreciation,Budget,10848.79
+2023-06-01,Operations,Product Cost,Budget,49187.13
+2023-06-01,Operations,Freight In,Budget,102617.72
+2023-06-01,Operations,Packaging,Budget,58028.57
+2023-06-01,Operations,Salaries,Budget,56889.25
+2023-06-01,Operations,Marketing Spend,Budget,60859.64
+2023-06-01,Operations,Software & SaaS,Budget,17809.78
+2023-06-01,Operations,Office Rent,Budget,86760.67
+2023-06-01,Operations,Travel & Entertainment,Budget,52137.87
+2023-06-01,Operations,Professional Services,Budget,75871.11
+2023-06-01,Operations,Utilities,Budget,116902.26
+2023-06-01,Operations,Depreciation,Budget,97531.49
+2023-06-01,Finance,Product Cost,Budget,35259.99
+2023-06-01,Finance,Freight In,Budget,35448.11
+2023-06-01,Finance,Packaging,Budget,50763.3
+2023-06-01,Finance,Salaries,Budget,90748.36
+2023-06-01,Finance,Marketing Spend,Budget,116514.95
+2023-06-01,Finance,Software & SaaS,Budget,56046.38
+2023-06-01,Finance,Office Rent,Budget,16167.15
+2023-06-01,Finance,Travel & Entertainment,Budget,42648.0
+2023-06-01,Finance,Professional Services,Budget,21910.03
+2023-06-01,Finance,Utilities,Budget,13527.39
+2023-06-01,Finance,Depreciation,Budget,53553.93
+2023-06-01,HR,Product Cost,Budget,92486.38
+2023-06-01,HR,Freight In,Budget,79088.8
+2023-06-01,HR,Packaging,Budget,91313.71
+2023-06-01,HR,Salaries,Budget,25695.29
+2023-06-01,HR,Marketing Spend,Budget,17570.64
+2023-06-01,HR,Software & SaaS,Budget,109651.06
+2023-06-01,HR,Office Rent,Budget,43525.97
+2023-06-01,HR,Travel & Entertainment,Budget,95696.37
+2023-06-01,HR,Professional Services,Budget,76747.09
+2023-06-01,HR,Utilities,Budget,53048.58
+2023-06-01,HR,Depreciation,Budget,37259.43
+2023-06-01,IT,Product Cost,Budget,32339.1
+2023-06-01,IT,Freight In,Budget,44728.01
+2023-06-01,IT,Packaging,Budget,50513.5
+2023-06-01,IT,Salaries,Budget,61200.85
+2023-06-01,IT,Marketing Spend,Budget,10318.8
+2023-06-01,IT,Software & SaaS,Budget,108967.91
+2023-06-01,IT,Office Rent,Budget,94817.58
+2023-06-01,IT,Travel & Entertainment,Budget,59592.09
+2023-06-01,IT,Professional Services,Budget,80376.63
+2023-06-01,IT,Utilities,Budget,96491.87
+2023-06-01,IT,Depreciation,Budget,116332.26
+2023-06-01,Customer Service,Product Cost,Budget,16763.64
+2023-06-01,Customer Service,Freight In,Budget,47510.99
+2023-06-01,Customer Service,Packaging,Budget,78463.9
+2023-06-01,Customer Service,Salaries,Budget,84795.77
+2023-06-01,Customer Service,Marketing Spend,Budget,104886.92
+2023-06-01,Customer Service,Software & SaaS,Budget,79034.48
+2023-06-01,Customer Service,Office Rent,Budget,61777.08
+2023-06-01,Customer Service,Travel & Entertainment,Budget,102462.44
+2023-06-01,Customer Service,Professional Services,Budget,51875.05
+2023-06-01,Customer Service,Utilities,Budget,51645.03
+2023-06-01,Customer Service,Depreciation,Budget,14049.11
+2023-07-01,Sales,Product Sales,Budget,66272.15
+2023-07-01,Sales,Service Revenue,Budget,120049.53
+2023-07-01,Sales,Shipping Revenue,Budget,37404.32
+2023-07-01,Sales,Product Cost,Budget,17610.83
+2023-07-01,Sales,Freight In,Budget,48187.74
+2023-07-01,Sales,Packaging,Budget,100783.79
+2023-07-01,Sales,Salaries,Budget,51626.64
+2023-07-01,Sales,Marketing Spend,Budget,30812.49
+2023-07-01,Sales,Software & SaaS,Budget,18099.97
+2023-07-01,Sales,Office Rent,Budget,119452.81
+2023-07-01,Sales,Travel & Entertainment,Budget,80794.15
+2023-07-01,Sales,Professional Services,Budget,76237.4
+2023-07-01,Sales,Utilities,Budget,89495.1
+2023-07-01,Sales,Depreciation,Budget,48542.41
+2023-07-01,Marketing,Product Cost,Budget,79242.85
+2023-07-01,Marketing,Freight In,Budget,105712.47
+2023-07-01,Marketing,Packaging,Budget,117702.86
+2023-07-01,Marketing,Salaries,Budget,32289.5
+2023-07-01,Marketing,Marketing Spend,Budget,61379.3
+2023-07-01,Marketing,Software & SaaS,Budget,103774.11
+2023-07-01,Marketing,Office Rent,Budget,105150.48
+2023-07-01,Marketing,Travel & Entertainment,Budget,38705.57
+2023-07-01,Marketing,Professional Services,Budget,11358.5
+2023-07-01,Marketing,Utilities,Budget,81283.58
+2023-07-01,Marketing,Depreciation,Budget,81780.83
+2023-07-01,Operations,Product Cost,Budget,59518.34
+2023-07-01,Operations,Freight In,Budget,100065.33
+2023-07-01,Operations,Packaging,Budget,93609.56
+2023-07-01,Operations,Salaries,Budget,101321.42
+2023-07-01,Operations,Marketing Spend,Budget,96639.95
+2023-07-01,Operations,Software & SaaS,Budget,17134.04
+2023-07-01,Operations,Office Rent,Budget,66378.6
+2023-07-01,Operations,Travel & Entertainment,Budget,91345.42
+2023-07-01,Operations,Professional Services,Budget,76700.03
+2023-07-01,Operations,Utilities,Budget,34230.79
+2023-07-01,Operations,Depreciation,Budget,74639.85
+2023-07-01,Finance,Product Cost,Budget,40617.2
+2023-07-01,Finance,Freight In,Budget,99603.99
+2023-07-01,Finance,Packaging,Budget,61408.87
+2023-07-01,Finance,Salaries,Budget,31593.52
+2023-07-01,Finance,Marketing Spend,Budget,85932.42
+2023-07-01,Finance,Software & SaaS,Budget,68011.98
+2023-07-01,Finance,Office Rent,Budget,102840.97
+2023-07-01,Finance,Travel & Entertainment,Budget,85934.64
+2023-07-01,Finance,Professional Services,Budget,100560.87
+2023-07-01,Finance,Utilities,Budget,96338.42
+2023-07-01,Finance,Depreciation,Budget,83812.7
+2023-07-01,HR,Product Cost,Budget,86742.67
+2023-07-01,HR,Freight In,Budget,106903.54
+2023-07-01,HR,Packaging,Budget,71948.5
+2023-07-01,HR,Salaries,Budget,82164.17
+2023-07-01,HR,Marketing Spend,Budget,109963.65
+2023-07-01,HR,Software & SaaS,Budget,13098.85
+2023-07-01,HR,Office Rent,Budget,32250.84
+2023-07-01,HR,Travel & Entertainment,Budget,75408.87
+2023-07-01,HR,Professional Services,Budget,97797.26
+2023-07-01,HR,Utilities,Budget,118953.81
+2023-07-01,HR,Depreciation,Budget,26422.6
+2023-07-01,IT,Product Cost,Budget,99755.0
+2023-07-01,IT,Freight In,Budget,116802.78
+2023-07-01,IT,Packaging,Budget,36417.39
+2023-07-01,IT,Salaries,Budget,101729.94
+2023-07-01,IT,Marketing Spend,Budget,82918.52
+2023-07-01,IT,Software & SaaS,Budget,90366.77
+2023-07-01,IT,Office Rent,Budget,77079.26
+2023-07-01,IT,Travel & Entertainment,Budget,15357.87
+2023-07-01,IT,Professional Services,Budget,56685.73
+2023-07-01,IT,Utilities,Budget,106720.88
+2023-07-01,IT,Depreciation,Budget,55767.19
+2023-07-01,Customer Service,Product Cost,Budget,49941.67
+2023-07-01,Customer Service,Freight In,Budget,24378.95
+2023-07-01,Customer Service,Packaging,Budget,89963.22
+2023-07-01,Customer Service,Salaries,Budget,59420.21
+2023-07-01,Customer Service,Marketing Spend,Budget,64903.87
+2023-07-01,Customer Service,Software & SaaS,Budget,51119.75
+2023-07-01,Customer Service,Office Rent,Budget,112135.86
+2023-07-01,Customer Service,Travel & Entertainment,Budget,113963.57
+2023-07-01,Customer Service,Professional Services,Budget,43758.44
+2023-07-01,Customer Service,Utilities,Budget,51012.81
+2023-07-01,Customer Service,Depreciation,Budget,74928.01
+2023-08-01,Sales,Product Sales,Budget,32243.63
+2023-08-01,Sales,Service Revenue,Budget,15260.21
+2023-08-01,Sales,Shipping Revenue,Budget,34971.5
+2023-08-01,Sales,Product Cost,Budget,108126.47
+2023-08-01,Sales,Freight In,Budget,73572.29
+2023-08-01,Sales,Packaging,Budget,99084.15
+2023-08-01,Sales,Salaries,Budget,19795.14
+2023-08-01,Sales,Marketing Spend,Budget,74379.49
+2023-08-01,Sales,Software & SaaS,Budget,50651.7
+2023-08-01,Sales,Office Rent,Budget,33417.63
+2023-08-01,Sales,Travel & Entertainment,Budget,94112.1
+2023-08-01,Sales,Professional Services,Budget,33842.45
+2023-08-01,Sales,Utilities,Budget,53264.64
+2023-08-01,Sales,Depreciation,Budget,97762.66
+2023-08-01,Marketing,Product Cost,Budget,62518.54
+2023-08-01,Marketing,Freight In,Budget,46236.64
+2023-08-01,Marketing,Packaging,Budget,56587.83
+2023-08-01,Marketing,Salaries,Budget,24932.66
+2023-08-01,Marketing,Marketing Spend,Budget,95310.72
+2023-08-01,Marketing,Software & SaaS,Budget,37893.92
+2023-08-01,Marketing,Office Rent,Budget,22511.0
+2023-08-01,Marketing,Travel & Entertainment,Budget,54355.41
+2023-08-01,Marketing,Professional Services,Budget,74815.71
+2023-08-01,Marketing,Utilities,Budget,50522.88
+2023-08-01,Marketing,Depreciation,Budget,72764.4
+2023-08-01,Operations,Product Cost,Budget,24028.82
+2023-08-01,Operations,Freight In,Budget,19097.45
+2023-08-01,Operations,Packaging,Budget,66175.15
+2023-08-01,Operations,Salaries,Budget,112597.2
+2023-08-01,Operations,Marketing Spend,Budget,72442.38
+2023-08-01,Operations,Software & SaaS,Budget,89334.32
+2023-08-01,Operations,Office Rent,Budget,51087.38
+2023-08-01,Operations,Travel & Entertainment,Budget,81320.98
+2023-08-01,Operations,Professional Services,Budget,116197.97
+2023-08-01,Operations,Utilities,Budget,64444.35
+2023-08-01,Operations,Depreciation,Budget,102953.49
+2023-08-01,Finance,Product Cost,Budget,43072.11
+2023-08-01,Finance,Freight In,Budget,23809.3
+2023-08-01,Finance,Packaging,Budget,43199.04
+2023-08-01,Finance,Salaries,Budget,48471.64
+2023-08-01,Finance,Marketing Spend,Budget,86523.42
+2023-08-01,Finance,Software & SaaS,Budget,46346.8
+2023-08-01,Finance,Office Rent,Budget,104275.36
+2023-08-01,Finance,Travel & Entertainment,Budget,116555.9
+2023-08-01,Finance,Professional Services,Budget,78079.1
+2023-08-01,Finance,Utilities,Budget,90638.02
+2023-08-01,Finance,Depreciation,Budget,75067.66
+2023-08-01,HR,Product Cost,Budget,59577.81
+2023-08-01,HR,Freight In,Budget,55947.59
+2023-08-01,HR,Packaging,Budget,38224.03
+2023-08-01,HR,Salaries,Budget,21046.2
+2023-08-01,HR,Marketing Spend,Budget,107890.34
+2023-08-01,HR,Software & SaaS,Budget,117412.87
+2023-08-01,HR,Office Rent,Budget,69081.78
+2023-08-01,HR,Travel & Entertainment,Budget,53970.93
+2023-08-01,HR,Professional Services,Budget,35061.22
+2023-08-01,HR,Utilities,Budget,80753.79
+2023-08-01,HR,Depreciation,Budget,98205.2
+2023-08-01,IT,Product Cost,Budget,88853.93
+2023-08-01,IT,Freight In,Budget,26049.76
+2023-08-01,IT,Packaging,Budget,92354.07
+2023-08-01,IT,Salaries,Budget,78445.72
+2023-08-01,IT,Marketing Spend,Budget,102564.29
+2023-08-01,IT,Software & SaaS,Budget,111290.48
+2023-08-01,IT,Office Rent,Budget,103588.07
+2023-08-01,IT,Travel & Entertainment,Budget,65542.3
+2023-08-01,IT,Professional Services,Budget,77644.79
+2023-08-01,IT,Utilities,Budget,113187.18
+2023-08-01,IT,Depreciation,Budget,33554.07
+2023-08-01,Customer Service,Product Cost,Budget,103227.5
+2023-08-01,Customer Service,Freight In,Budget,36996.19
+2023-08-01,Customer Service,Packaging,Budget,114856.78
+2023-08-01,Customer Service,Salaries,Budget,43735.49
+2023-08-01,Customer Service,Marketing Spend,Budget,79757.7
+2023-08-01,Customer Service,Software & SaaS,Budget,45744.58
+2023-08-01,Customer Service,Office Rent,Budget,104060.02
+2023-08-01,Customer Service,Travel & Entertainment,Budget,50637.44
+2023-08-01,Customer Service,Professional Services,Budget,20175.94
+2023-08-01,Customer Service,Utilities,Budget,55323.98
+2023-08-01,Customer Service,Depreciation,Budget,106666.84
+2023-09-01,Sales,Product Sales,Budget,35320.85
+2023-09-01,Sales,Service Revenue,Budget,53971.77
+2023-09-01,Sales,Shipping Revenue,Budget,64367.13
+2023-09-01,Sales,Product Cost,Budget,110323.59
+2023-09-01,Sales,Freight In,Budget,101358.18
+2023-09-01,Sales,Packaging,Budget,37572.65
+2023-09-01,Sales,Salaries,Budget,88011.47
+2023-09-01,Sales,Marketing Spend,Budget,82997.25
+2023-09-01,Sales,Software & SaaS,Budget,10436.26
+2023-09-01,Sales,Office Rent,Budget,19169.6
+2023-09-01,Sales,Travel & Entertainment,Budget,83304.88
+2023-09-01,Sales,Professional Services,Budget,52341.33
+2023-09-01,Sales,Utilities,Budget,111015.91
+2023-09-01,Sales,Depreciation,Budget,111850.99
+2023-09-01,Marketing,Product Cost,Budget,38510.68
+2023-09-01,Marketing,Freight In,Budget,89281.66
+2023-09-01,Marketing,Packaging,Budget,15579.61
+2023-09-01,Marketing,Salaries,Budget,111897.16
+2023-09-01,Marketing,Marketing Spend,Budget,118381.08
+2023-09-01,Marketing,Software & SaaS,Budget,73589.88
+2023-09-01,Marketing,Office Rent,Budget,21919.13
+2023-09-01,Marketing,Travel & Entertainment,Budget,24680.78
+2023-09-01,Marketing,Professional Services,Budget,93879.94
+2023-09-01,Marketing,Utilities,Budget,29505.33
+2023-09-01,Marketing,Depreciation,Budget,28200.37
+2023-09-01,Operations,Product Cost,Budget,63636.5
+2023-09-01,Operations,Freight In,Budget,52126.67
+2023-09-01,Operations,Packaging,Budget,76811.0
+2023-09-01,Operations,Salaries,Budget,83090.33
+2023-09-01,Operations,Marketing Spend,Budget,90512.54
+2023-09-01,Operations,Software & SaaS,Budget,39679.38
+2023-09-01,Operations,Office Rent,Budget,84152.25
+2023-09-01,Operations,Travel & Entertainment,Budget,49562.21
+2023-09-01,Operations,Professional Services,Budget,25452.63
+2023-09-01,Operations,Utilities,Budget,113441.09
+2023-09-01,Operations,Depreciation,Budget,17407.07
+2023-09-01,Finance,Product Cost,Budget,86630.67
+2023-09-01,Finance,Freight In,Budget,70711.78
+2023-09-01,Finance,Packaging,Budget,77388.67
+2023-09-01,Finance,Salaries,Budget,89972.99
+2023-09-01,Finance,Marketing Spend,Budget,72240.16
+2023-09-01,Finance,Software & SaaS,Budget,29544.7
+2023-09-01,Finance,Office Rent,Budget,75191.36
+2023-09-01,Finance,Travel & Entertainment,Budget,99588.39
+2023-09-01,Finance,Professional Services,Budget,80743.75
+2023-09-01,Finance,Utilities,Budget,41145.43
+2023-09-01,Finance,Depreciation,Budget,110153.73
+2023-09-01,HR,Product Cost,Budget,22419.34
+2023-09-01,HR,Freight In,Budget,10752.38
+2023-09-01,HR,Packaging,Budget,99712.42
+2023-09-01,HR,Salaries,Budget,86270.42
+2023-09-01,HR,Marketing Spend,Budget,73497.11
+2023-09-01,HR,Software & SaaS,Budget,23309.68
+2023-09-01,HR,Office Rent,Budget,55340.68
+2023-09-01,HR,Travel & Entertainment,Budget,109634.12
+2023-09-01,HR,Professional Services,Budget,100287.0
+2023-09-01,HR,Utilities,Budget,59524.71
+2023-09-01,HR,Depreciation,Budget,26736.15
+2023-09-01,IT,Product Cost,Budget,65669.76
+2023-09-01,IT,Freight In,Budget,43794.6
+2023-09-01,IT,Packaging,Budget,65351.61
+2023-09-01,IT,Salaries,Budget,53010.41
+2023-09-01,IT,Marketing Spend,Budget,42702.45
+2023-09-01,IT,Software & SaaS,Budget,69670.88
+2023-09-01,IT,Office Rent,Budget,113344.52
+2023-09-01,IT,Travel & Entertainment,Budget,37202.23
+2023-09-01,IT,Professional Services,Budget,107560.68
+2023-09-01,IT,Utilities,Budget,76733.81
+2023-09-01,IT,Depreciation,Budget,55797.66
+2023-09-01,Customer Service,Product Cost,Budget,86323.36
+2023-09-01,Customer Service,Freight In,Budget,119575.85
+2023-09-01,Customer Service,Packaging,Budget,31052.76
+2023-09-01,Customer Service,Salaries,Budget,22504.7
+2023-09-01,Customer Service,Marketing Spend,Budget,108167.34
+2023-09-01,Customer Service,Software & SaaS,Budget,16779.99
+2023-09-01,Customer Service,Office Rent,Budget,25113.34
+2023-09-01,Customer Service,Travel & Entertainment,Budget,54290.64
+2023-09-01,Customer Service,Professional Services,Budget,94425.28
+2023-09-01,Customer Service,Utilities,Budget,35940.48
+2023-09-01,Customer Service,Depreciation,Budget,37577.62
+2023-10-01,Sales,Product Sales,Budget,13807.6
+2023-10-01,Sales,Service Revenue,Budget,129991.31
+2023-10-01,Sales,Shipping Revenue,Budget,135302.63
+2023-10-01,Sales,Product Cost,Budget,113693.65
+2023-10-01,Sales,Freight In,Budget,18984.04
+2023-10-01,Sales,Packaging,Budget,95839.42
+2023-10-01,Sales,Salaries,Budget,25338.13
+2023-10-01,Sales,Marketing Spend,Budget,101853.62
+2023-10-01,Sales,Software & SaaS,Budget,37845.18
+2023-10-01,Sales,Office Rent,Budget,56630.31
+2023-10-01,Sales,Travel & Entertainment,Budget,99489.68
+2023-10-01,Sales,Professional Services,Budget,13260.16
+2023-10-01,Sales,Utilities,Budget,78098.74
+2023-10-01,Sales,Depreciation,Budget,81699.41
+2023-10-01,Marketing,Product Cost,Budget,82722.64
+2023-10-01,Marketing,Freight In,Budget,68878.93
+2023-10-01,Marketing,Packaging,Budget,110092.16
+2023-10-01,Marketing,Salaries,Budget,53465.29
+2023-10-01,Marketing,Marketing Spend,Budget,15698.99
+2023-10-01,Marketing,Software & SaaS,Budget,106416.41
+2023-10-01,Marketing,Office Rent,Budget,63547.43
+2023-10-01,Marketing,Travel & Entertainment,Budget,14368.89
+2023-10-01,Marketing,Professional Services,Budget,29632.6
+2023-10-01,Marketing,Utilities,Budget,85696.41
+2023-10-01,Marketing,Depreciation,Budget,101581.61
+2023-10-01,Operations,Product Cost,Budget,107071.67
+2023-10-01,Operations,Freight In,Budget,18034.68
+2023-10-01,Operations,Packaging,Budget,99581.31
+2023-10-01,Operations,Salaries,Budget,88615.32
+2023-10-01,Operations,Marketing Spend,Budget,110894.84
+2023-10-01,Operations,Software & SaaS,Budget,60814.72
+2023-10-01,Operations,Office Rent,Budget,47913.18
+2023-10-01,Operations,Travel & Entertainment,Budget,48099.07
+2023-10-01,Operations,Professional Services,Budget,58055.48
+2023-10-01,Operations,Utilities,Budget,118766.63
+2023-10-01,Operations,Depreciation,Budget,32810.45
+2023-10-01,Finance,Product Cost,Budget,119789.81
+2023-10-01,Finance,Freight In,Budget,89630.99
+2023-10-01,Finance,Packaging,Budget,88464.04
+2023-10-01,Finance,Salaries,Budget,45096.89
+2023-10-01,Finance,Marketing Spend,Budget,71110.62
+2023-10-01,Finance,Software & SaaS,Budget,70646.51
+2023-10-01,Finance,Office Rent,Budget,66241.82
+2023-10-01,Finance,Travel & Entertainment,Budget,51945.95
+2023-10-01,Finance,Professional Services,Budget,83767.95
+2023-10-01,Finance,Utilities,Budget,101761.92
+2023-10-01,Finance,Depreciation,Budget,56912.73
+2023-10-01,HR,Product Cost,Budget,107310.31
+2023-10-01,HR,Freight In,Budget,14370.48
+2023-10-01,HR,Packaging,Budget,106404.41
+2023-10-01,HR,Salaries,Budget,110549.45
+2023-10-01,HR,Marketing Spend,Budget,35408.35
+2023-10-01,HR,Software & SaaS,Budget,76229.36
+2023-10-01,HR,Office Rent,Budget,17785.42
+2023-10-01,HR,Travel & Entertainment,Budget,56901.97
+2023-10-01,HR,Professional Services,Budget,30579.5
+2023-10-01,HR,Utilities,Budget,31028.61
+2023-10-01,HR,Depreciation,Budget,87781.98
+2023-10-01,IT,Product Cost,Budget,48079.9
+2023-10-01,IT,Freight In,Budget,118174.61
+2023-10-01,IT,Packaging,Budget,10362.62
+2023-10-01,IT,Salaries,Budget,10674.3
+2023-10-01,IT,Marketing Spend,Budget,111070.96
+2023-10-01,IT,Software & SaaS,Budget,72297.66
+2023-10-01,IT,Office Rent,Budget,77036.38
+2023-10-01,IT,Travel & Entertainment,Budget,53944.86
+2023-10-01,IT,Professional Services,Budget,60167.55
+2023-10-01,IT,Utilities,Budget,87478.43
+2023-10-01,IT,Depreciation,Budget,94556.66
+2023-10-01,Customer Service,Product Cost,Budget,112780.03
+2023-10-01,Customer Service,Freight In,Budget,110314.8
+2023-10-01,Customer Service,Packaging,Budget,77197.62
+2023-10-01,Customer Service,Salaries,Budget,70768.95
+2023-10-01,Customer Service,Marketing Spend,Budget,40569.44
+2023-10-01,Customer Service,Software & SaaS,Budget,109024.72
+2023-10-01,Customer Service,Office Rent,Budget,47031.16
+2023-10-01,Customer Service,Travel & Entertainment,Budget,103071.84
+2023-10-01,Customer Service,Professional Services,Budget,13802.59
+2023-10-01,Customer Service,Utilities,Budget,17405.3
+2023-10-01,Customer Service,Depreciation,Budget,74001.85
+2023-11-01,Sales,Product Sales,Budget,109514.15
+2023-11-01,Sales,Service Revenue,Budget,117786.54
+2023-11-01,Sales,Shipping Revenue,Budget,26745.46
+2023-11-01,Sales,Product Cost,Budget,64767.26
+2023-11-01,Sales,Freight In,Budget,83977.68
+2023-11-01,Sales,Packaging,Budget,98735.56
+2023-11-01,Sales,Salaries,Budget,54209.31
+2023-11-01,Sales,Marketing Spend,Budget,76594.68
+2023-11-01,Sales,Software & SaaS,Budget,46869.21
+2023-11-01,Sales,Office Rent,Budget,17137.41
+2023-11-01,Sales,Travel & Entertainment,Budget,107119.31
+2023-11-01,Sales,Professional Services,Budget,25473.35
+2023-11-01,Sales,Utilities,Budget,56179.01
+2023-11-01,Sales,Depreciation,Budget,102760.59
+2023-11-01,Marketing,Product Cost,Budget,61273.4
+2023-11-01,Marketing,Freight In,Budget,14349.22
+2023-11-01,Marketing,Packaging,Budget,107187.17
+2023-11-01,Marketing,Salaries,Budget,28973.81
+2023-11-01,Marketing,Marketing Spend,Budget,69949.18
+2023-11-01,Marketing,Software & SaaS,Budget,18819.61
+2023-11-01,Marketing,Office Rent,Budget,97169.71
+2023-11-01,Marketing,Travel & Entertainment,Budget,78429.64
+2023-11-01,Marketing,Professional Services,Budget,92512.84
+2023-11-01,Marketing,Utilities,Budget,104679.13
+2023-11-01,Marketing,Depreciation,Budget,91589.59
+2023-11-01,Operations,Product Cost,Budget,45217.31
+2023-11-01,Operations,Freight In,Budget,100321.34
+2023-11-01,Operations,Packaging,Budget,27735.46
+2023-11-01,Operations,Salaries,Budget,114278.99
+2023-11-01,Operations,Marketing Spend,Budget,93316.2
+2023-11-01,Operations,Software & SaaS,Budget,99841.7
+2023-11-01,Operations,Office Rent,Budget,43639.45
+2023-11-01,Operations,Travel & Entertainment,Budget,32642.89
+2023-11-01,Operations,Professional Services,Budget,21567.07
+2023-11-01,Operations,Utilities,Budget,68854.29
+2023-11-01,Operations,Depreciation,Budget,117138.8
+2023-11-01,Finance,Product Cost,Budget,57518.32
+2023-11-01,Finance,Freight In,Budget,95961.66
+2023-11-01,Finance,Packaging,Budget,38535.74
+2023-11-01,Finance,Salaries,Budget,12942.62
+2023-11-01,Finance,Marketing Spend,Budget,68580.18
+2023-11-01,Finance,Software & SaaS,Budget,12058.37
+2023-11-01,Finance,Office Rent,Budget,42762.43
+2023-11-01,Finance,Travel & Entertainment,Budget,88678.97
+2023-11-01,Finance,Professional Services,Budget,110946.48
+2023-11-01,Finance,Utilities,Budget,65087.98
+2023-11-01,Finance,Depreciation,Budget,87706.41
+2023-11-01,HR,Product Cost,Budget,19596.83
+2023-11-01,HR,Freight In,Budget,66957.54
+2023-11-01,HR,Packaging,Budget,16894.93
+2023-11-01,HR,Salaries,Budget,61764.03
+2023-11-01,HR,Marketing Spend,Budget,97179.46
+2023-11-01,HR,Software & SaaS,Budget,93543.71
+2023-11-01,HR,Office Rent,Budget,76724.06
+2023-11-01,HR,Travel & Entertainment,Budget,110623.68
+2023-11-01,HR,Professional Services,Budget,83121.39
+2023-11-01,HR,Utilities,Budget,40811.47
+2023-11-01,HR,Depreciation,Budget,83072.07
+2023-11-01,IT,Product Cost,Budget,89666.05
+2023-11-01,IT,Freight In,Budget,24268.02
+2023-11-01,IT,Packaging,Budget,49734.56
+2023-11-01,IT,Salaries,Budget,98526.85
+2023-11-01,IT,Marketing Spend,Budget,53460.81
+2023-11-01,IT,Software & SaaS,Budget,79190.68
+2023-11-01,IT,Office Rent,Budget,23415.46
+2023-11-01,IT,Travel & Entertainment,Budget,46735.39
+2023-11-01,IT,Professional Services,Budget,72834.72
+2023-11-01,IT,Utilities,Budget,89282.68
+2023-11-01,IT,Depreciation,Budget,119835.71
+2023-11-01,Customer Service,Product Cost,Budget,24069.35
+2023-11-01,Customer Service,Freight In,Budget,115610.63
+2023-11-01,Customer Service,Packaging,Budget,104668.77
+2023-11-01,Customer Service,Salaries,Budget,24352.46
+2023-11-01,Customer Service,Marketing Spend,Budget,51555.01
+2023-11-01,Customer Service,Software & SaaS,Budget,88185.02
+2023-11-01,Customer Service,Office Rent,Budget,75990.09
+2023-11-01,Customer Service,Travel & Entertainment,Budget,113503.8
+2023-11-01,Customer Service,Professional Services,Budget,88684.58
+2023-11-01,Customer Service,Utilities,Budget,100548.85
+2023-11-01,Customer Service,Depreciation,Budget,62373.31
+2023-12-01,Sales,Product Sales,Budget,68016.85
+2023-12-01,Sales,Service Revenue,Budget,87014.88
+2023-12-01,Sales,Shipping Revenue,Budget,24641.38
+2023-12-01,Sales,Product Cost,Budget,76711.86
+2023-12-01,Sales,Freight In,Budget,116805.75
+2023-12-01,Sales,Packaging,Budget,60211.87
+2023-12-01,Sales,Salaries,Budget,27681.06
+2023-12-01,Sales,Marketing Spend,Budget,62420.67
+2023-12-01,Sales,Software & SaaS,Budget,49737.07
+2023-12-01,Sales,Office Rent,Budget,45099.36
+2023-12-01,Sales,Travel & Entertainment,Budget,55087.81
+2023-12-01,Sales,Professional Services,Budget,101193.93
+2023-12-01,Sales,Utilities,Budget,96940.23
+2023-12-01,Sales,Depreciation,Budget,34568.12
+2023-12-01,Marketing,Product Cost,Budget,71107.27
+2023-12-01,Marketing,Freight In,Budget,64849.43
+2023-12-01,Marketing,Packaging,Budget,82305.27
+2023-12-01,Marketing,Salaries,Budget,90070.58
+2023-12-01,Marketing,Marketing Spend,Budget,78901.64
+2023-12-01,Marketing,Software & SaaS,Budget,48261.96
+2023-12-01,Marketing,Office Rent,Budget,45089.82
+2023-12-01,Marketing,Travel & Entertainment,Budget,31197.63
+2023-12-01,Marketing,Professional Services,Budget,94395.45
+2023-12-01,Marketing,Utilities,Budget,45781.83
+2023-12-01,Marketing,Depreciation,Budget,89232.19
+2023-12-01,Operations,Product Cost,Budget,109058.03
+2023-12-01,Operations,Freight In,Budget,76104.57
+2023-12-01,Operations,Packaging,Budget,74188.21
+2023-12-01,Operations,Salaries,Budget,84169.93
+2023-12-01,Operations,Marketing Spend,Budget,13420.64
+2023-12-01,Operations,Software & SaaS,Budget,66821.83
+2023-12-01,Operations,Office Rent,Budget,108604.59
+2023-12-01,Operations,Travel & Entertainment,Budget,117483.33
+2023-12-01,Operations,Professional Services,Budget,115988.73
+2023-12-01,Operations,Utilities,Budget,49062.7
+2023-12-01,Operations,Depreciation,Budget,82240.33
+2023-12-01,Finance,Product Cost,Budget,85546.13
+2023-12-01,Finance,Freight In,Budget,85068.57
+2023-12-01,Finance,Packaging,Budget,47023.33
+2023-12-01,Finance,Salaries,Budget,45157.16
+2023-12-01,Finance,Marketing Spend,Budget,93525.32
+2023-12-01,Finance,Software & SaaS,Budget,93472.92
+2023-12-01,Finance,Office Rent,Budget,87902.7
+2023-12-01,Finance,Travel & Entertainment,Budget,60163.58
+2023-12-01,Finance,Professional Services,Budget,65366.9
+2023-12-01,Finance,Utilities,Budget,116925.28
+2023-12-01,Finance,Depreciation,Budget,106439.98
+2023-12-01,HR,Product Cost,Budget,108723.68
+2023-12-01,HR,Freight In,Budget,117077.64
+2023-12-01,HR,Packaging,Budget,111748.85
+2023-12-01,HR,Salaries,Budget,60108.51
+2023-12-01,HR,Marketing Spend,Budget,83269.26
+2023-12-01,HR,Software & SaaS,Budget,12383.06
+2023-12-01,HR,Office Rent,Budget,44139.12
+2023-12-01,HR,Travel & Entertainment,Budget,17485.6
+2023-12-01,HR,Professional Services,Budget,29116.66
+2023-12-01,HR,Utilities,Budget,85689.09
+2023-12-01,HR,Depreciation,Budget,64095.94
+2023-12-01,IT,Product Cost,Budget,108175.52
+2023-12-01,IT,Freight In,Budget,113687.19
+2023-12-01,IT,Packaging,Budget,86346.19
+2023-12-01,IT,Salaries,Budget,57027.57
+2023-12-01,IT,Marketing Spend,Budget,67399.83
+2023-12-01,IT,Software & SaaS,Budget,40076.36
+2023-12-01,IT,Office Rent,Budget,23869.13
+2023-12-01,IT,Travel & Entertainment,Budget,100609.82
+2023-12-01,IT,Professional Services,Budget,16522.35
+2023-12-01,IT,Utilities,Budget,70347.54
+2023-12-01,IT,Depreciation,Budget,22647.84
+2023-12-01,Customer Service,Product Cost,Budget,22921.73
+2023-12-01,Customer Service,Freight In,Budget,95644.71
+2023-12-01,Customer Service,Packaging,Budget,27273.32
+2023-12-01,Customer Service,Salaries,Budget,15170.68
+2023-12-01,Customer Service,Marketing Spend,Budget,42313.34
+2023-12-01,Customer Service,Software & SaaS,Budget,13206.31
+2023-12-01,Customer Service,Office Rent,Budget,43875.35
+2023-12-01,Customer Service,Travel & Entertainment,Budget,56545.9
+2023-12-01,Customer Service,Professional Services,Budget,119106.53
+2023-12-01,Customer Service,Utilities,Budget,82299.54
+2023-12-01,Customer Service,Depreciation,Budget,99241.41
+2024-01-01,Sales,Product Sales,Budget,143185.24
+2024-01-01,Sales,Service Revenue,Budget,25051.25
+2024-01-01,Sales,Shipping Revenue,Budget,53925.05
+2024-01-01,Sales,Product Cost,Budget,98307.89
+2024-01-01,Sales,Freight In,Budget,75428.13
+2024-01-01,Sales,Packaging,Budget,112684.85
+2024-01-01,Sales,Salaries,Budget,38723.4
+2024-01-01,Sales,Marketing Spend,Budget,27692.82
+2024-01-01,Sales,Software & SaaS,Budget,41076.09
+2024-01-01,Sales,Office Rent,Budget,21581.03
+2024-01-01,Sales,Travel & Entertainment,Budget,31081.42
+2024-01-01,Sales,Professional Services,Budget,56860.55
+2024-01-01,Sales,Utilities,Budget,36956.71
+2024-01-01,Sales,Depreciation,Budget,99547.87
+2024-01-01,Marketing,Product Cost,Budget,85827.37
+2024-01-01,Marketing,Freight In,Budget,20658.71
+2024-01-01,Marketing,Packaging,Budget,28265.62
+2024-01-01,Marketing,Salaries,Budget,18874.11
+2024-01-01,Marketing,Marketing Spend,Budget,16255.64
+2024-01-01,Marketing,Software & SaaS,Budget,36623.62
+2024-01-01,Marketing,Office Rent,Budget,39789.3
+2024-01-01,Marketing,Travel & Entertainment,Budget,27001.27
+2024-01-01,Marketing,Professional Services,Budget,98667.19
+2024-01-01,Marketing,Utilities,Budget,13116.79
+2024-01-01,Marketing,Depreciation,Budget,116425.26
+2024-01-01,Operations,Product Cost,Budget,33098.34
+2024-01-01,Operations,Freight In,Budget,20055.06
+2024-01-01,Operations,Packaging,Budget,27031.94
+2024-01-01,Operations,Salaries,Budget,100378.09
+2024-01-01,Operations,Marketing Spend,Budget,80068.62
+2024-01-01,Operations,Software & SaaS,Budget,101956.4
+2024-01-01,Operations,Office Rent,Budget,80408.55
+2024-01-01,Operations,Travel & Entertainment,Budget,11273.83
+2024-01-01,Operations,Professional Services,Budget,91070.59
+2024-01-01,Operations,Utilities,Budget,32429.31
+2024-01-01,Operations,Depreciation,Budget,49652.89
+2024-01-01,Finance,Product Cost,Budget,18292.61
+2024-01-01,Finance,Freight In,Budget,39125.62
+2024-01-01,Finance,Packaging,Budget,56621.48
+2024-01-01,Finance,Salaries,Budget,81938.44
+2024-01-01,Finance,Marketing Spend,Budget,92308.91
+2024-01-01,Finance,Software & SaaS,Budget,32018.3
+2024-01-01,Finance,Office Rent,Budget,24969.81
+2024-01-01,Finance,Travel & Entertainment,Budget,23191.1
+2024-01-01,Finance,Professional Services,Budget,21953.46
+2024-01-01,Finance,Utilities,Budget,83488.3
+2024-01-01,Finance,Depreciation,Budget,88696.5
+2024-01-01,HR,Product Cost,Budget,90801.41
+2024-01-01,HR,Freight In,Budget,87195.41
+2024-01-01,HR,Packaging,Budget,103612.04
+2024-01-01,HR,Salaries,Budget,33061.96
+2024-01-01,HR,Marketing Spend,Budget,119643.59
+2024-01-01,HR,Software & SaaS,Budget,116834.89
+2024-01-01,HR,Office Rent,Budget,23997.76
+2024-01-01,HR,Travel & Entertainment,Budget,50561.84
+2024-01-01,HR,Professional Services,Budget,39668.27
+2024-01-01,HR,Utilities,Budget,99873.03
+2024-01-01,HR,Depreciation,Budget,116423.57
+2024-01-01,IT,Product Cost,Budget,31065.43
+2024-01-01,IT,Freight In,Budget,71067.65
+2024-01-01,IT,Packaging,Budget,100802.48
+2024-01-01,IT,Salaries,Budget,86303.09
+2024-01-01,IT,Marketing Spend,Budget,91049.06
+2024-01-01,IT,Software & SaaS,Budget,106348.47
+2024-01-01,IT,Office Rent,Budget,66965.87
+2024-01-01,IT,Travel & Entertainment,Budget,111866.3
+2024-01-01,IT,Professional Services,Budget,15012.83
+2024-01-01,IT,Utilities,Budget,83221.8
+2024-01-01,IT,Depreciation,Budget,85473.83
+2024-01-01,Customer Service,Product Cost,Budget,100340.72
+2024-01-01,Customer Service,Freight In,Budget,49678.34
+2024-01-01,Customer Service,Packaging,Budget,100468.85
+2024-01-01,Customer Service,Salaries,Budget,49394.14
+2024-01-01,Customer Service,Marketing Spend,Budget,87135.51
+2024-01-01,Customer Service,Software & SaaS,Budget,63066.6
+2024-01-01,Customer Service,Office Rent,Budget,110072.17
+2024-01-01,Customer Service,Travel & Entertainment,Budget,39099.76
+2024-01-01,Customer Service,Professional Services,Budget,13731.63
+2024-01-01,Customer Service,Utilities,Budget,98740.57
+2024-01-01,Customer Service,Depreciation,Budget,10958.0
+2024-02-01,Sales,Product Sales,Budget,155828.54
+2024-02-01,Sales,Service Revenue,Budget,77709.82
+2024-02-01,Sales,Shipping Revenue,Budget,35022.3
+2024-02-01,Sales,Product Cost,Budget,60322.19
+2024-02-01,Sales,Freight In,Budget,98255.95
+2024-02-01,Sales,Packaging,Budget,75306.2
+2024-02-01,Sales,Salaries,Budget,99713.22
+2024-02-01,Sales,Marketing Spend,Budget,109353.35
+2024-02-01,Sales,Software & SaaS,Budget,81854.71
+2024-02-01,Sales,Office Rent,Budget,74109.05
+2024-02-01,Sales,Travel & Entertainment,Budget,12435.32
+2024-02-01,Sales,Professional Services,Budget,12679.3
+2024-02-01,Sales,Utilities,Budget,49650.76
+2024-02-01,Sales,Depreciation,Budget,48965.05
+2024-02-01,Marketing,Product Cost,Budget,57857.03
+2024-02-01,Marketing,Freight In,Budget,57755.42
+2024-02-01,Marketing,Packaging,Budget,119080.65
+2024-02-01,Marketing,Salaries,Budget,99568.53
+2024-02-01,Marketing,Marketing Spend,Budget,79545.65
+2024-02-01,Marketing,Software & SaaS,Budget,13419.03
+2024-02-01,Marketing,Office Rent,Budget,53685.28
+2024-02-01,Marketing,Travel & Entertainment,Budget,83527.17
+2024-02-01,Marketing,Professional Services,Budget,21456.81
+2024-02-01,Marketing,Utilities,Budget,32142.1
+2024-02-01,Marketing,Depreciation,Budget,95123.66
+2024-02-01,Operations,Product Cost,Budget,50890.63
+2024-02-01,Operations,Freight In,Budget,35425.31
+2024-02-01,Operations,Packaging,Budget,86179.86
+2024-02-01,Operations,Salaries,Budget,37117.78
+2024-02-01,Operations,Marketing Spend,Budget,65936.71
+2024-02-01,Operations,Software & SaaS,Budget,114250.88
+2024-02-01,Operations,Office Rent,Budget,60592.21
+2024-02-01,Operations,Travel & Entertainment,Budget,27082.35
+2024-02-01,Operations,Professional Services,Budget,57011.77
+2024-02-01,Operations,Utilities,Budget,64931.3
+2024-02-01,Operations,Depreciation,Budget,72689.97
+2024-02-01,Finance,Product Cost,Budget,46973.56
+2024-02-01,Finance,Freight In,Budget,76494.66
+2024-02-01,Finance,Packaging,Budget,48977.86
+2024-02-01,Finance,Salaries,Budget,102699.58
+2024-02-01,Finance,Marketing Spend,Budget,106343.12
+2024-02-01,Finance,Software & SaaS,Budget,89765.02
+2024-02-01,Finance,Office Rent,Budget,64231.27
+2024-02-01,Finance,Travel & Entertainment,Budget,84915.94
+2024-02-01,Finance,Professional Services,Budget,98112.22
+2024-02-01,Finance,Utilities,Budget,21711.74
+2024-02-01,Finance,Depreciation,Budget,103500.71
+2024-02-01,HR,Product Cost,Budget,40784.56
+2024-02-01,HR,Freight In,Budget,33460.5
+2024-02-01,HR,Packaging,Budget,53355.21
+2024-02-01,HR,Salaries,Budget,24227.59
+2024-02-01,HR,Marketing Spend,Budget,60783.67
+2024-02-01,HR,Software & SaaS,Budget,39768.61
+2024-02-01,HR,Office Rent,Budget,83294.56
+2024-02-01,HR,Travel & Entertainment,Budget,40598.14
+2024-02-01,HR,Professional Services,Budget,46999.21
+2024-02-01,HR,Utilities,Budget,18884.58
+2024-02-01,HR,Depreciation,Budget,35454.69
+2024-02-01,IT,Product Cost,Budget,23504.66
+2024-02-01,IT,Freight In,Budget,10720.47
+2024-02-01,IT,Packaging,Budget,105639.36
+2024-02-01,IT,Salaries,Budget,89030.44
+2024-02-01,IT,Marketing Spend,Budget,62451.07
+2024-02-01,IT,Software & SaaS,Budget,84708.8
+2024-02-01,IT,Office Rent,Budget,49215.79
+2024-02-01,IT,Travel & Entertainment,Budget,112526.61
+2024-02-01,IT,Professional Services,Budget,114211.01
+2024-02-01,IT,Utilities,Budget,112437.79
+2024-02-01,IT,Depreciation,Budget,62967.11
+2024-02-01,Customer Service,Product Cost,Budget,32690.58
+2024-02-01,Customer Service,Freight In,Budget,86913.31
+2024-02-01,Customer Service,Packaging,Budget,92720.93
+2024-02-01,Customer Service,Salaries,Budget,119425.75
+2024-02-01,Customer Service,Marketing Spend,Budget,90454.98
+2024-02-01,Customer Service,Software & SaaS,Budget,58451.25
+2024-02-01,Customer Service,Office Rent,Budget,76870.23
+2024-02-01,Customer Service,Travel & Entertainment,Budget,73631.46
+2024-02-01,Customer Service,Professional Services,Budget,115436.85
+2024-02-01,Customer Service,Utilities,Budget,11311.15
+2024-02-01,Customer Service,Depreciation,Budget,63868.88
+2024-03-01,Sales,Product Sales,Budget,24387.42
+2024-03-01,Sales,Service Revenue,Budget,110534.43
+2024-03-01,Sales,Shipping Revenue,Budget,167211.37
+2024-03-01,Sales,Product Cost,Budget,115205.46
+2024-03-01,Sales,Freight In,Budget,96602.71
+2024-03-01,Sales,Packaging,Budget,111908.93
+2024-03-01,Sales,Salaries,Budget,106204.5
+2024-03-01,Sales,Marketing Spend,Budget,109286.43
+2024-03-01,Sales,Software & SaaS,Budget,22253.86
+2024-03-01,Sales,Office Rent,Budget,29966.67
+2024-03-01,Sales,Travel & Entertainment,Budget,71537.55
+2024-03-01,Sales,Professional Services,Budget,59849.36
+2024-03-01,Sales,Utilities,Budget,99089.0
+2024-03-01,Sales,Depreciation,Budget,15691.36
+2024-03-01,Marketing,Product Cost,Budget,102542.63
+2024-03-01,Marketing,Freight In,Budget,103499.01
+2024-03-01,Marketing,Packaging,Budget,21599.54
+2024-03-01,Marketing,Salaries,Budget,62396.77
+2024-03-01,Marketing,Marketing Spend,Budget,114115.4
+2024-03-01,Marketing,Software & SaaS,Budget,91628.45
+2024-03-01,Marketing,Office Rent,Budget,15683.84
+2024-03-01,Marketing,Travel & Entertainment,Budget,27589.99
+2024-03-01,Marketing,Professional Services,Budget,83682.58
+2024-03-01,Marketing,Utilities,Budget,76719.09
+2024-03-01,Marketing,Depreciation,Budget,86639.4
+2024-03-01,Operations,Product Cost,Budget,55317.24
+2024-03-01,Operations,Freight In,Budget,10028.46
+2024-03-01,Operations,Packaging,Budget,26581.77
+2024-03-01,Operations,Salaries,Budget,82072.98
+2024-03-01,Operations,Marketing Spend,Budget,105855.21
+2024-03-01,Operations,Software & SaaS,Budget,23336.25
+2024-03-01,Operations,Office Rent,Budget,92784.3
+2024-03-01,Operations,Travel & Entertainment,Budget,29798.65
+2024-03-01,Operations,Professional Services,Budget,80749.85
+2024-03-01,Operations,Utilities,Budget,55487.94
+2024-03-01,Operations,Depreciation,Budget,35803.49
+2024-03-01,Finance,Product Cost,Budget,46063.78
+2024-03-01,Finance,Freight In,Budget,95774.17
+2024-03-01,Finance,Packaging,Budget,89373.93
+2024-03-01,Finance,Salaries,Budget,22648.66
+2024-03-01,Finance,Marketing Spend,Budget,96851.59
+2024-03-01,Finance,Software & SaaS,Budget,28408.49
+2024-03-01,Finance,Office Rent,Budget,112954.13
+2024-03-01,Finance,Travel & Entertainment,Budget,16235.58
+2024-03-01,Finance,Professional Services,Budget,10332.78
+2024-03-01,Finance,Utilities,Budget,113285.49
+2024-03-01,Finance,Depreciation,Budget,11296.6
+2024-03-01,HR,Product Cost,Budget,90766.97
+2024-03-01,HR,Freight In,Budget,34313.86
+2024-03-01,HR,Packaging,Budget,58807.2
+2024-03-01,HR,Salaries,Budget,56551.66
+2024-03-01,HR,Marketing Spend,Budget,66724.18
+2024-03-01,HR,Software & SaaS,Budget,45699.61
+2024-03-01,HR,Office Rent,Budget,47189.28
+2024-03-01,HR,Travel & Entertainment,Budget,74647.11
+2024-03-01,HR,Professional Services,Budget,20666.26
+2024-03-01,HR,Utilities,Budget,42634.36
+2024-03-01,HR,Depreciation,Budget,58151.19
+2024-03-01,IT,Product Cost,Budget,52990.92
+2024-03-01,IT,Freight In,Budget,84487.01
+2024-03-01,IT,Packaging,Budget,29577.95
+2024-03-01,IT,Salaries,Budget,47302.84
+2024-03-01,IT,Marketing Spend,Budget,23732.4
+2024-03-01,IT,Software & SaaS,Budget,24776.68
+2024-03-01,IT,Office Rent,Budget,116441.09
+2024-03-01,IT,Travel & Entertainment,Budget,70878.66
+2024-03-01,IT,Professional Services,Budget,45634.8
+2024-03-01,IT,Utilities,Budget,114987.34
+2024-03-01,IT,Depreciation,Budget,54150.27
+2024-03-01,Customer Service,Product Cost,Budget,106441.59
+2024-03-01,Customer Service,Freight In,Budget,31271.67
+2024-03-01,Customer Service,Packaging,Budget,105680.12
+2024-03-01,Customer Service,Salaries,Budget,109467.7
+2024-03-01,Customer Service,Marketing Spend,Budget,96252.28
+2024-03-01,Customer Service,Software & SaaS,Budget,88634.81
+2024-03-01,Customer Service,Office Rent,Budget,59404.57
+2024-03-01,Customer Service,Travel & Entertainment,Budget,58578.18
+2024-03-01,Customer Service,Professional Services,Budget,71571.86
+2024-03-01,Customer Service,Utilities,Budget,56141.17
+2024-03-01,Customer Service,Depreciation,Budget,101734.75
+2024-04-01,Sales,Product Sales,Budget,144396.91
+2024-04-01,Sales,Service Revenue,Budget,91051.91
+2024-04-01,Sales,Shipping Revenue,Budget,103852.12
+2024-04-01,Sales,Product Cost,Budget,19464.74
+2024-04-01,Sales,Freight In,Budget,99215.1
+2024-04-01,Sales,Packaging,Budget,80521.71
+2024-04-01,Sales,Salaries,Budget,41866.66
+2024-04-01,Sales,Marketing Spend,Budget,59235.92
+2024-04-01,Sales,Software & SaaS,Budget,73697.01
+2024-04-01,Sales,Office Rent,Budget,108204.43
+2024-04-01,Sales,Travel & Entertainment,Budget,61998.06
+2024-04-01,Sales,Professional Services,Budget,27611.84
+2024-04-01,Sales,Utilities,Budget,106669.6
+2024-04-01,Sales,Depreciation,Budget,91458.87
+2024-04-01,Marketing,Product Cost,Budget,83699.42
+2024-04-01,Marketing,Freight In,Budget,26194.18
+2024-04-01,Marketing,Packaging,Budget,118039.43
+2024-04-01,Marketing,Salaries,Budget,58239.38
+2024-04-01,Marketing,Marketing Spend,Budget,58443.55
+2024-04-01,Marketing,Software & SaaS,Budget,63072.01
+2024-04-01,Marketing,Office Rent,Budget,52787.61
+2024-04-01,Marketing,Travel & Entertainment,Budget,65985.69
+2024-04-01,Marketing,Professional Services,Budget,53330.35
+2024-04-01,Marketing,Utilities,Budget,118432.53
+2024-04-01,Marketing,Depreciation,Budget,109304.32
+2024-04-01,Operations,Product Cost,Budget,15519.16
+2024-04-01,Operations,Freight In,Budget,95517.76
+2024-04-01,Operations,Packaging,Budget,83505.33
+2024-04-01,Operations,Salaries,Budget,27493.9
+2024-04-01,Operations,Marketing Spend,Budget,116029.0
+2024-04-01,Operations,Software & SaaS,Budget,22959.08
+2024-04-01,Operations,Office Rent,Budget,108012.84
+2024-04-01,Operations,Travel & Entertainment,Budget,118790.81
+2024-04-01,Operations,Professional Services,Budget,37408.49
+2024-04-01,Operations,Utilities,Budget,95847.13
+2024-04-01,Operations,Depreciation,Budget,65654.22
+2024-04-01,Finance,Product Cost,Budget,96643.88
+2024-04-01,Finance,Freight In,Budget,35754.13
+2024-04-01,Finance,Packaging,Budget,29979.16
+2024-04-01,Finance,Salaries,Budget,51872.32
+2024-04-01,Finance,Marketing Spend,Budget,69361.73
+2024-04-01,Finance,Software & SaaS,Budget,10092.42
+2024-04-01,Finance,Office Rent,Budget,110856.07
+2024-04-01,Finance,Travel & Entertainment,Budget,33414.31
+2024-04-01,Finance,Professional Services,Budget,15079.55
+2024-04-01,Finance,Utilities,Budget,13390.88
+2024-04-01,Finance,Depreciation,Budget,39553.45
+2024-04-01,HR,Product Cost,Budget,117309.11
+2024-04-01,HR,Freight In,Budget,54622.85
+2024-04-01,HR,Packaging,Budget,23751.09
+2024-04-01,HR,Salaries,Budget,57705.13
+2024-04-01,HR,Marketing Spend,Budget,39366.44
+2024-04-01,HR,Software & SaaS,Budget,76226.99
+2024-04-01,HR,Office Rent,Budget,105231.71
+2024-04-01,HR,Travel & Entertainment,Budget,99800.38
+2024-04-01,HR,Professional Services,Budget,64816.85
+2024-04-01,HR,Utilities,Budget,14837.43
+2024-04-01,HR,Depreciation,Budget,113250.55
+2024-04-01,IT,Product Cost,Budget,40579.61
+2024-04-01,IT,Freight In,Budget,105906.75
+2024-04-01,IT,Packaging,Budget,15596.99
+2024-04-01,IT,Salaries,Budget,75037.84
+2024-04-01,IT,Marketing Spend,Budget,82652.38
+2024-04-01,IT,Software & SaaS,Budget,108091.09
+2024-04-01,IT,Office Rent,Budget,52627.12
+2024-04-01,IT,Travel & Entertainment,Budget,82634.93
+2024-04-01,IT,Professional Services,Budget,103235.98
+2024-04-01,IT,Utilities,Budget,65410.74
+2024-04-01,IT,Depreciation,Budget,58032.93
+2024-04-01,Customer Service,Product Cost,Budget,109719.99
+2024-04-01,Customer Service,Freight In,Budget,87866.02
+2024-04-01,Customer Service,Packaging,Budget,101569.4
+2024-04-01,Customer Service,Salaries,Budget,38046.34
+2024-04-01,Customer Service,Marketing Spend,Budget,65175.24
+2024-04-01,Customer Service,Software & SaaS,Budget,67587.53
+2024-04-01,Customer Service,Office Rent,Budget,69313.53
+2024-04-01,Customer Service,Travel & Entertainment,Budget,17377.55
+2024-04-01,Customer Service,Professional Services,Budget,65649.5
+2024-04-01,Customer Service,Utilities,Budget,79054.41
+2024-04-01,Customer Service,Depreciation,Budget,89837.23
+2024-05-01,Sales,Product Sales,Budget,81728.74
+2024-05-01,Sales,Service Revenue,Budget,41197.31
+2024-05-01,Sales,Shipping Revenue,Budget,91592.3
+2024-05-01,Sales,Product Cost,Budget,27713.65
+2024-05-01,Sales,Freight In,Budget,34068.3
+2024-05-01,Sales,Packaging,Budget,101794.77
+2024-05-01,Sales,Salaries,Budget,102487.84
+2024-05-01,Sales,Marketing Spend,Budget,23494.03
+2024-05-01,Sales,Software & SaaS,Budget,12619.15
+2024-05-01,Sales,Office Rent,Budget,100442.09
+2024-05-01,Sales,Travel & Entertainment,Budget,116682.32
+2024-05-01,Sales,Professional Services,Budget,10739.31
+2024-05-01,Sales,Utilities,Budget,114288.28
+2024-05-01,Sales,Depreciation,Budget,95862.28
+2024-05-01,Marketing,Product Cost,Budget,111602.73
+2024-05-01,Marketing,Freight In,Budget,49971.64
+2024-05-01,Marketing,Packaging,Budget,39251.04
+2024-05-01,Marketing,Salaries,Budget,61112.53
+2024-05-01,Marketing,Marketing Spend,Budget,52964.66
+2024-05-01,Marketing,Software & SaaS,Budget,55945.87
+2024-05-01,Marketing,Office Rent,Budget,35374.06
+2024-05-01,Marketing,Travel & Entertainment,Budget,20860.36
+2024-05-01,Marketing,Professional Services,Budget,91244.68
+2024-05-01,Marketing,Utilities,Budget,81819.87
+2024-05-01,Marketing,Depreciation,Budget,96560.14
+2024-05-01,Operations,Product Cost,Budget,59513.15
+2024-05-01,Operations,Freight In,Budget,112543.47
+2024-05-01,Operations,Packaging,Budget,89153.44
+2024-05-01,Operations,Salaries,Budget,104746.05
+2024-05-01,Operations,Marketing Spend,Budget,53345.38
+2024-05-01,Operations,Software & SaaS,Budget,23829.45
+2024-05-01,Operations,Office Rent,Budget,91113.11
+2024-05-01,Operations,Travel & Entertainment,Budget,80483.67
+2024-05-01,Operations,Professional Services,Budget,44193.62
+2024-05-01,Operations,Utilities,Budget,111923.09
+2024-05-01,Operations,Depreciation,Budget,50013.25
+2024-05-01,Finance,Product Cost,Budget,78552.56
+2024-05-01,Finance,Freight In,Budget,68214.17
+2024-05-01,Finance,Packaging,Budget,65140.72
+2024-05-01,Finance,Salaries,Budget,61482.16
+2024-05-01,Finance,Marketing Spend,Budget,40346.13
+2024-05-01,Finance,Software & SaaS,Budget,57423.72
+2024-05-01,Finance,Office Rent,Budget,70941.16
+2024-05-01,Finance,Travel & Entertainment,Budget,55556.95
+2024-05-01,Finance,Professional Services,Budget,75440.3
+2024-05-01,Finance,Utilities,Budget,96200.0
+2024-05-01,Finance,Depreciation,Budget,67880.52
+2024-05-01,HR,Product Cost,Budget,40319.22
+2024-05-01,HR,Freight In,Budget,98044.7
+2024-05-01,HR,Packaging,Budget,55637.41
+2024-05-01,HR,Salaries,Budget,32238.62
+2024-05-01,HR,Marketing Spend,Budget,27844.98
+2024-05-01,HR,Software & SaaS,Budget,38263.74
+2024-05-01,HR,Office Rent,Budget,19785.82
+2024-05-01,HR,Travel & Entertainment,Budget,119980.71
+2024-05-01,HR,Professional Services,Budget,36297.19
+2024-05-01,HR,Utilities,Budget,108652.15
+2024-05-01,HR,Depreciation,Budget,22324.21
+2024-05-01,IT,Product Cost,Budget,38912.96
+2024-05-01,IT,Freight In,Budget,48900.59
+2024-05-01,IT,Packaging,Budget,45572.16
+2024-05-01,IT,Salaries,Budget,45176.08
+2024-05-01,IT,Marketing Spend,Budget,41850.46
+2024-05-01,IT,Software & SaaS,Budget,53196.49
+2024-05-01,IT,Office Rent,Budget,40412.81
+2024-05-01,IT,Travel & Entertainment,Budget,60320.5
+2024-05-01,IT,Professional Services,Budget,60030.5
+2024-05-01,IT,Utilities,Budget,33223.3
+2024-05-01,IT,Depreciation,Budget,59837.34
+2024-05-01,Customer Service,Product Cost,Budget,70082.78
+2024-05-01,Customer Service,Freight In,Budget,60190.42
+2024-05-01,Customer Service,Packaging,Budget,82240.39
+2024-05-01,Customer Service,Salaries,Budget,116576.73
+2024-05-01,Customer Service,Marketing Spend,Budget,110525.41
+2024-05-01,Customer Service,Software & SaaS,Budget,106444.48
+2024-05-01,Customer Service,Office Rent,Budget,32366.71
+2024-05-01,Customer Service,Travel & Entertainment,Budget,88325.3
+2024-05-01,Customer Service,Professional Services,Budget,88164.99
+2024-05-01,Customer Service,Utilities,Budget,58109.94
+2024-05-01,Customer Service,Depreciation,Budget,61037.28
+2024-06-01,Sales,Product Sales,Budget,30221.75
+2024-06-01,Sales,Service Revenue,Budget,62325.39
+2024-06-01,Sales,Shipping Revenue,Budget,27848.67
+2024-06-01,Sales,Product Cost,Budget,74146.96
+2024-06-01,Sales,Freight In,Budget,100445.26
+2024-06-01,Sales,Packaging,Budget,24180.0
+2024-06-01,Sales,Salaries,Budget,112769.87
+2024-06-01,Sales,Marketing Spend,Budget,61757.96
+2024-06-01,Sales,Software & SaaS,Budget,28493.27
+2024-06-01,Sales,Office Rent,Budget,98187.84
+2024-06-01,Sales,Travel & Entertainment,Budget,69034.83
+2024-06-01,Sales,Professional Services,Budget,67773.18
+2024-06-01,Sales,Utilities,Budget,22861.49
+2024-06-01,Sales,Depreciation,Budget,60333.17
+2024-06-01,Marketing,Product Cost,Budget,72104.83
+2024-06-01,Marketing,Freight In,Budget,107509.0
+2024-06-01,Marketing,Packaging,Budget,99391.82
+2024-06-01,Marketing,Salaries,Budget,82047.68
+2024-06-01,Marketing,Marketing Spend,Budget,103411.62
+2024-06-01,Marketing,Software & SaaS,Budget,76738.93
+2024-06-01,Marketing,Office Rent,Budget,96528.9
+2024-06-01,Marketing,Travel & Entertainment,Budget,104166.78
+2024-06-01,Marketing,Professional Services,Budget,105026.2
+2024-06-01,Marketing,Utilities,Budget,30666.0
+2024-06-01,Marketing,Depreciation,Budget,59961.62
+2024-06-01,Operations,Product Cost,Budget,24146.67
+2024-06-01,Operations,Freight In,Budget,98181.65
+2024-06-01,Operations,Packaging,Budget,72934.43
+2024-06-01,Operations,Salaries,Budget,108894.06
+2024-06-01,Operations,Marketing Spend,Budget,52095.99
+2024-06-01,Operations,Software & SaaS,Budget,99706.03
+2024-06-01,Operations,Office Rent,Budget,55877.97
+2024-06-01,Operations,Travel & Entertainment,Budget,13921.64
+2024-06-01,Operations,Professional Services,Budget,56752.52
+2024-06-01,Operations,Utilities,Budget,97118.96
+2024-06-01,Operations,Depreciation,Budget,118395.22
+2024-06-01,Finance,Product Cost,Budget,67411.61
+2024-06-01,Finance,Freight In,Budget,90497.25
+2024-06-01,Finance,Packaging,Budget,45533.59
+2024-06-01,Finance,Salaries,Budget,20047.8
+2024-06-01,Finance,Marketing Spend,Budget,35851.93
+2024-06-01,Finance,Software & SaaS,Budget,44526.67
+2024-06-01,Finance,Office Rent,Budget,75483.02
+2024-06-01,Finance,Travel & Entertainment,Budget,41219.98
+2024-06-01,Finance,Professional Services,Budget,108336.53
+2024-06-01,Finance,Utilities,Budget,107256.0
+2024-06-01,Finance,Depreciation,Budget,30858.91
+2024-06-01,HR,Product Cost,Budget,15419.73
+2024-06-01,HR,Freight In,Budget,11593.09
+2024-06-01,HR,Packaging,Budget,76027.38
+2024-06-01,HR,Salaries,Budget,37142.71
+2024-06-01,HR,Marketing Spend,Budget,15951.88
+2024-06-01,HR,Software & SaaS,Budget,113428.61
+2024-06-01,HR,Office Rent,Budget,97033.9
+2024-06-01,HR,Travel & Entertainment,Budget,39149.8
+2024-06-01,HR,Professional Services,Budget,112066.0
+2024-06-01,HR,Utilities,Budget,12645.34
+2024-06-01,HR,Depreciation,Budget,61486.3
+2024-06-01,IT,Product Cost,Budget,71298.84
+2024-06-01,IT,Freight In,Budget,46140.0
+2024-06-01,IT,Packaging,Budget,113257.29
+2024-06-01,IT,Salaries,Budget,105683.19
+2024-06-01,IT,Marketing Spend,Budget,80737.63
+2024-06-01,IT,Software & SaaS,Budget,49005.89
+2024-06-01,IT,Office Rent,Budget,53762.06
+2024-06-01,IT,Travel & Entertainment,Budget,58819.44
+2024-06-01,IT,Professional Services,Budget,34776.61
+2024-06-01,IT,Utilities,Budget,71315.79
+2024-06-01,IT,Depreciation,Budget,61496.8
+2024-06-01,Customer Service,Product Cost,Budget,110005.11
+2024-06-01,Customer Service,Freight In,Budget,21632.81
+2024-06-01,Customer Service,Packaging,Budget,37176.95
+2024-06-01,Customer Service,Salaries,Budget,94908.99
+2024-06-01,Customer Service,Marketing Spend,Budget,24029.06
+2024-06-01,Customer Service,Software & SaaS,Budget,60893.85
+2024-06-01,Customer Service,Office Rent,Budget,25271.95
+2024-06-01,Customer Service,Travel & Entertainment,Budget,16475.6
+2024-06-01,Customer Service,Professional Services,Budget,32846.35
+2024-06-01,Customer Service,Utilities,Budget,103940.89
+2024-06-01,Customer Service,Depreciation,Budget,72633.34
+2024-07-01,Sales,Product Sales,Budget,73470.7
+2024-07-01,Sales,Service Revenue,Budget,82212.76
+2024-07-01,Sales,Shipping Revenue,Budget,127292.14
+2024-07-01,Sales,Product Cost,Budget,108080.25
+2024-07-01,Sales,Freight In,Budget,62046.97
+2024-07-01,Sales,Packaging,Budget,107302.2
+2024-07-01,Sales,Salaries,Budget,101448.11
+2024-07-01,Sales,Marketing Spend,Budget,76404.03
+2024-07-01,Sales,Software & SaaS,Budget,59491.44
+2024-07-01,Sales,Office Rent,Budget,76056.56
+2024-07-01,Sales,Travel & Entertainment,Budget,58576.48
+2024-07-01,Sales,Professional Services,Budget,72409.52
+2024-07-01,Sales,Utilities,Budget,44656.41
+2024-07-01,Sales,Depreciation,Budget,19628.75
+2024-07-01,Marketing,Product Cost,Budget,29883.57
+2024-07-01,Marketing,Freight In,Budget,19852.95
+2024-07-01,Marketing,Packaging,Budget,30567.04
+2024-07-01,Marketing,Salaries,Budget,101655.66
+2024-07-01,Marketing,Marketing Spend,Budget,104201.24
+2024-07-01,Marketing,Software & SaaS,Budget,45772.28
+2024-07-01,Marketing,Office Rent,Budget,10424.08
+2024-07-01,Marketing,Travel & Entertainment,Budget,37657.17
+2024-07-01,Marketing,Professional Services,Budget,106420.76
+2024-07-01,Marketing,Utilities,Budget,41911.15
+2024-07-01,Marketing,Depreciation,Budget,27640.49
+2024-07-01,Operations,Product Cost,Budget,98920.03
+2024-07-01,Operations,Freight In,Budget,20219.52
+2024-07-01,Operations,Packaging,Budget,85902.0
+2024-07-01,Operations,Salaries,Budget,87829.79
+2024-07-01,Operations,Marketing Spend,Budget,60972.74
+2024-07-01,Operations,Software & SaaS,Budget,111183.32
+2024-07-01,Operations,Office Rent,Budget,53777.08
+2024-07-01,Operations,Travel & Entertainment,Budget,45105.41
+2024-07-01,Operations,Professional Services,Budget,15165.31
+2024-07-01,Operations,Utilities,Budget,109270.51
+2024-07-01,Operations,Depreciation,Budget,111391.48
+2024-07-01,Finance,Product Cost,Budget,63064.41
+2024-07-01,Finance,Freight In,Budget,110760.2
+2024-07-01,Finance,Packaging,Budget,92567.08
+2024-07-01,Finance,Salaries,Budget,11569.12
+2024-07-01,Finance,Marketing Spend,Budget,108946.36
+2024-07-01,Finance,Software & SaaS,Budget,33287.7
+2024-07-01,Finance,Office Rent,Budget,47631.71
+2024-07-01,Finance,Travel & Entertainment,Budget,56654.14
+2024-07-01,Finance,Professional Services,Budget,112501.0
+2024-07-01,Finance,Utilities,Budget,41205.49
+2024-07-01,Finance,Depreciation,Budget,55450.67
+2024-07-01,HR,Product Cost,Budget,70801.4
+2024-07-01,HR,Freight In,Budget,60877.32
+2024-07-01,HR,Packaging,Budget,41822.44
+2024-07-01,HR,Salaries,Budget,80149.46
+2024-07-01,HR,Marketing Spend,Budget,88291.17
+2024-07-01,HR,Software & SaaS,Budget,48907.78
+2024-07-01,HR,Office Rent,Budget,93678.82
+2024-07-01,HR,Travel & Entertainment,Budget,105024.95
+2024-07-01,HR,Professional Services,Budget,100454.45
+2024-07-01,HR,Utilities,Budget,42635.49
+2024-07-01,HR,Depreciation,Budget,32076.56
+2024-07-01,IT,Product Cost,Budget,44386.95
+2024-07-01,IT,Freight In,Budget,117015.42
+2024-07-01,IT,Packaging,Budget,99938.83
+2024-07-01,IT,Salaries,Budget,21904.78
+2024-07-01,IT,Marketing Spend,Budget,119163.34
+2024-07-01,IT,Software & SaaS,Budget,84208.12
+2024-07-01,IT,Office Rent,Budget,99871.41
+2024-07-01,IT,Travel & Entertainment,Budget,73790.74
+2024-07-01,IT,Professional Services,Budget,55302.52
+2024-07-01,IT,Utilities,Budget,112147.09
+2024-07-01,IT,Depreciation,Budget,111021.52
+2024-07-01,Customer Service,Product Cost,Budget,34082.07
+2024-07-01,Customer Service,Freight In,Budget,26879.08
+2024-07-01,Customer Service,Packaging,Budget,53467.77
+2024-07-01,Customer Service,Salaries,Budget,38191.58
+2024-07-01,Customer Service,Marketing Spend,Budget,10957.52
+2024-07-01,Customer Service,Software & SaaS,Budget,116783.81
+2024-07-01,Customer Service,Office Rent,Budget,20183.93
+2024-07-01,Customer Service,Travel & Entertainment,Budget,48843.92
+2024-07-01,Customer Service,Professional Services,Budget,79728.73
+2024-07-01,Customer Service,Utilities,Budget,31775.61
+2024-07-01,Customer Service,Depreciation,Budget,35283.74
+2024-08-01,Sales,Product Sales,Budget,18789.7
+2024-08-01,Sales,Service Revenue,Budget,32448.21
+2024-08-01,Sales,Shipping Revenue,Budget,42131.92
+2024-08-01,Sales,Product Cost,Budget,103087.94
+2024-08-01,Sales,Freight In,Budget,18522.63
+2024-08-01,Sales,Packaging,Budget,27078.11
+2024-08-01,Sales,Salaries,Budget,25701.79
+2024-08-01,Sales,Marketing Spend,Budget,95707.95
+2024-08-01,Sales,Software & SaaS,Budget,93293.03
+2024-08-01,Sales,Office Rent,Budget,117683.42
+2024-08-01,Sales,Travel & Entertainment,Budget,26811.19
+2024-08-01,Sales,Professional Services,Budget,50620.87
+2024-08-01,Sales,Utilities,Budget,118817.29
+2024-08-01,Sales,Depreciation,Budget,112881.54
+2024-08-01,Marketing,Product Cost,Budget,108754.69
+2024-08-01,Marketing,Freight In,Budget,12813.49
+2024-08-01,Marketing,Packaging,Budget,84455.82
+2024-08-01,Marketing,Salaries,Budget,99098.8
+2024-08-01,Marketing,Marketing Spend,Budget,15987.87
+2024-08-01,Marketing,Software & SaaS,Budget,69234.67
+2024-08-01,Marketing,Office Rent,Budget,119859.35
+2024-08-01,Marketing,Travel & Entertainment,Budget,64871.01
+2024-08-01,Marketing,Professional Services,Budget,78607.25
+2024-08-01,Marketing,Utilities,Budget,117468.89
+2024-08-01,Marketing,Depreciation,Budget,44177.42
+2024-08-01,Operations,Product Cost,Budget,117859.63
+2024-08-01,Operations,Freight In,Budget,43946.84
+2024-08-01,Operations,Packaging,Budget,57457.26
+2024-08-01,Operations,Salaries,Budget,10536.12
+2024-08-01,Operations,Marketing Spend,Budget,79716.08
+2024-08-01,Operations,Software & SaaS,Budget,54932.22
+2024-08-01,Operations,Office Rent,Budget,85050.41
+2024-08-01,Operations,Travel & Entertainment,Budget,90165.42
+2024-08-01,Operations,Professional Services,Budget,46892.93
+2024-08-01,Operations,Utilities,Budget,96584.26
+2024-08-01,Operations,Depreciation,Budget,72795.05
+2024-08-01,Finance,Product Cost,Budget,51470.4
+2024-08-01,Finance,Freight In,Budget,103530.47
+2024-08-01,Finance,Packaging,Budget,110441.38
+2024-08-01,Finance,Salaries,Budget,59271.85
+2024-08-01,Finance,Marketing Spend,Budget,63662.58
+2024-08-01,Finance,Software & SaaS,Budget,43458.72
+2024-08-01,Finance,Office Rent,Budget,55415.65
+2024-08-01,Finance,Travel & Entertainment,Budget,88937.53
+2024-08-01,Finance,Professional Services,Budget,62093.43
+2024-08-01,Finance,Utilities,Budget,85022.62
+2024-08-01,Finance,Depreciation,Budget,31168.07
+2024-08-01,HR,Product Cost,Budget,36505.97
+2024-08-01,HR,Freight In,Budget,106276.24
+2024-08-01,HR,Packaging,Budget,55780.63
+2024-08-01,HR,Salaries,Budget,48878.18
+2024-08-01,HR,Marketing Spend,Budget,42808.84
+2024-08-01,HR,Software & SaaS,Budget,52496.87
+2024-08-01,HR,Office Rent,Budget,117835.26
+2024-08-01,HR,Travel & Entertainment,Budget,53544.12
+2024-08-01,HR,Professional Services,Budget,70378.72
+2024-08-01,HR,Utilities,Budget,92083.08
+2024-08-01,HR,Depreciation,Budget,115130.18
+2024-08-01,IT,Product Cost,Budget,77768.13
+2024-08-01,IT,Freight In,Budget,116904.97
+2024-08-01,IT,Packaging,Budget,118347.79
+2024-08-01,IT,Salaries,Budget,92930.27
+2024-08-01,IT,Marketing Spend,Budget,97594.55
+2024-08-01,IT,Software & SaaS,Budget,109998.53
+2024-08-01,IT,Office Rent,Budget,67215.56
+2024-08-01,IT,Travel & Entertainment,Budget,87800.4
+2024-08-01,IT,Professional Services,Budget,19534.53
+2024-08-01,IT,Utilities,Budget,40038.0
+2024-08-01,IT,Depreciation,Budget,117251.86
+2024-08-01,Customer Service,Product Cost,Budget,82135.13
+2024-08-01,Customer Service,Freight In,Budget,69890.97
+2024-08-01,Customer Service,Packaging,Budget,23343.56
+2024-08-01,Customer Service,Salaries,Budget,30967.54
+2024-08-01,Customer Service,Marketing Spend,Budget,74417.87
+2024-08-01,Customer Service,Software & SaaS,Budget,80994.15
+2024-08-01,Customer Service,Office Rent,Budget,32384.02
+2024-08-01,Customer Service,Travel & Entertainment,Budget,76271.46
+2024-08-01,Customer Service,Professional Services,Budget,79480.16
+2024-08-01,Customer Service,Utilities,Budget,98775.83
+2024-08-01,Customer Service,Depreciation,Budget,84079.34
+2024-09-01,Sales,Product Sales,Budget,149068.91
+2024-09-01,Sales,Service Revenue,Budget,69545.54
+2024-09-01,Sales,Shipping Revenue,Budget,124839.63
+2024-09-01,Sales,Product Cost,Budget,10649.43
+2024-09-01,Sales,Freight In,Budget,73793.42
+2024-09-01,Sales,Packaging,Budget,33787.4
+2024-09-01,Sales,Salaries,Budget,36660.25
+2024-09-01,Sales,Marketing Spend,Budget,80087.57
+2024-09-01,Sales,Software & SaaS,Budget,84677.82
+2024-09-01,Sales,Office Rent,Budget,10535.78
+2024-09-01,Sales,Travel & Entertainment,Budget,18750.44
+2024-09-01,Sales,Professional Services,Budget,30195.01
+2024-09-01,Sales,Utilities,Budget,75428.47
+2024-09-01,Sales,Depreciation,Budget,30602.75
+2024-09-01,Marketing,Product Cost,Budget,30122.57
+2024-09-01,Marketing,Freight In,Budget,11998.46
+2024-09-01,Marketing,Packaging,Budget,36937.34
+2024-09-01,Marketing,Salaries,Budget,60214.94
+2024-09-01,Marketing,Marketing Spend,Budget,53873.83
+2024-09-01,Marketing,Software & SaaS,Budget,85818.38
+2024-09-01,Marketing,Office Rent,Budget,10627.35
+2024-09-01,Marketing,Travel & Entertainment,Budget,74001.75
+2024-09-01,Marketing,Professional Services,Budget,92354.85
+2024-09-01,Marketing,Utilities,Budget,51383.99
+2024-09-01,Marketing,Depreciation,Budget,115543.31
+2024-09-01,Operations,Product Cost,Budget,93353.65
+2024-09-01,Operations,Freight In,Budget,103492.96
+2024-09-01,Operations,Packaging,Budget,38289.65
+2024-09-01,Operations,Salaries,Budget,105025.53
+2024-09-01,Operations,Marketing Spend,Budget,62905.55
+2024-09-01,Operations,Software & SaaS,Budget,18000.36
+2024-09-01,Operations,Office Rent,Budget,64209.43
+2024-09-01,Operations,Travel & Entertainment,Budget,22679.58
+2024-09-01,Operations,Professional Services,Budget,78899.17
+2024-09-01,Operations,Utilities,Budget,85894.54
+2024-09-01,Operations,Depreciation,Budget,24671.18
+2024-09-01,Finance,Product Cost,Budget,116409.86
+2024-09-01,Finance,Freight In,Budget,102814.27
+2024-09-01,Finance,Packaging,Budget,78556.9
+2024-09-01,Finance,Salaries,Budget,90605.36
+2024-09-01,Finance,Marketing Spend,Budget,104715.23
+2024-09-01,Finance,Software & SaaS,Budget,89979.93
+2024-09-01,Finance,Office Rent,Budget,88473.6
+2024-09-01,Finance,Travel & Entertainment,Budget,29659.33
+2024-09-01,Finance,Professional Services,Budget,22458.15
+2024-09-01,Finance,Utilities,Budget,11388.07
+2024-09-01,Finance,Depreciation,Budget,76033.38
+2024-09-01,HR,Product Cost,Budget,29574.33
+2024-09-01,HR,Freight In,Budget,70102.29
+2024-09-01,HR,Packaging,Budget,90963.02
+2024-09-01,HR,Salaries,Budget,88253.87
+2024-09-01,HR,Marketing Spend,Budget,49704.06
+2024-09-01,HR,Software & SaaS,Budget,14722.42
+2024-09-01,HR,Office Rent,Budget,34226.68
+2024-09-01,HR,Travel & Entertainment,Budget,61405.47
+2024-09-01,HR,Professional Services,Budget,41914.67
+2024-09-01,HR,Utilities,Budget,109589.23
+2024-09-01,HR,Depreciation,Budget,107959.11
+2024-09-01,IT,Product Cost,Budget,12922.95
+2024-09-01,IT,Freight In,Budget,19178.53
+2024-09-01,IT,Packaging,Budget,22189.84
+2024-09-01,IT,Salaries,Budget,118593.77
+2024-09-01,IT,Marketing Spend,Budget,101227.01
+2024-09-01,IT,Software & SaaS,Budget,91054.04
+2024-09-01,IT,Office Rent,Budget,10776.53
+2024-09-01,IT,Travel & Entertainment,Budget,46640.2
+2024-09-01,IT,Professional Services,Budget,106214.02
+2024-09-01,IT,Utilities,Budget,57554.13
+2024-09-01,IT,Depreciation,Budget,11731.45
+2024-09-01,Customer Service,Product Cost,Budget,77627.09
+2024-09-01,Customer Service,Freight In,Budget,63166.02
+2024-09-01,Customer Service,Packaging,Budget,113710.27
+2024-09-01,Customer Service,Salaries,Budget,104284.3
+2024-09-01,Customer Service,Marketing Spend,Budget,84107.99
+2024-09-01,Customer Service,Software & SaaS,Budget,31712.5
+2024-09-01,Customer Service,Office Rent,Budget,40911.31
+2024-09-01,Customer Service,Travel & Entertainment,Budget,83121.77
+2024-09-01,Customer Service,Professional Services,Budget,45458.71
+2024-09-01,Customer Service,Utilities,Budget,68037.95
+2024-09-01,Customer Service,Depreciation,Budget,28019.83
+2024-10-01,Sales,Product Sales,Budget,156820.45
+2024-10-01,Sales,Service Revenue,Budget,49751.33
+2024-10-01,Sales,Shipping Revenue,Budget,52490.85
+2024-10-01,Sales,Product Cost,Budget,64135.12
+2024-10-01,Sales,Freight In,Budget,71504.58
+2024-10-01,Sales,Packaging,Budget,119580.75
+2024-10-01,Sales,Salaries,Budget,53197.37
+2024-10-01,Sales,Marketing Spend,Budget,101385.56
+2024-10-01,Sales,Software & SaaS,Budget,66093.06
+2024-10-01,Sales,Office Rent,Budget,88967.48
+2024-10-01,Sales,Travel & Entertainment,Budget,64730.57
+2024-10-01,Sales,Professional Services,Budget,28369.77
+2024-10-01,Sales,Utilities,Budget,118009.1
+2024-10-01,Sales,Depreciation,Budget,89759.27
+2024-10-01,Marketing,Product Cost,Budget,72117.86
+2024-10-01,Marketing,Freight In,Budget,85856.53
+2024-10-01,Marketing,Packaging,Budget,24347.97
+2024-10-01,Marketing,Salaries,Budget,19899.0
+2024-10-01,Marketing,Marketing Spend,Budget,100905.87
+2024-10-01,Marketing,Software & SaaS,Budget,56989.54
+2024-10-01,Marketing,Office Rent,Budget,52168.69
+2024-10-01,Marketing,Travel & Entertainment,Budget,107437.44
+2024-10-01,Marketing,Professional Services,Budget,50026.44
+2024-10-01,Marketing,Utilities,Budget,14560.32
+2024-10-01,Marketing,Depreciation,Budget,17275.76
+2024-10-01,Operations,Product Cost,Budget,88458.29
+2024-10-01,Operations,Freight In,Budget,114606.0
+2024-10-01,Operations,Packaging,Budget,89091.67
+2024-10-01,Operations,Salaries,Budget,83512.27
+2024-10-01,Operations,Marketing Spend,Budget,48680.81
+2024-10-01,Operations,Software & SaaS,Budget,58392.66
+2024-10-01,Operations,Office Rent,Budget,66123.66
+2024-10-01,Operations,Travel & Entertainment,Budget,31476.69
+2024-10-01,Operations,Professional Services,Budget,27988.04
+2024-10-01,Operations,Utilities,Budget,97248.4
+2024-10-01,Operations,Depreciation,Budget,59261.41
+2024-10-01,Finance,Product Cost,Budget,12776.38
+2024-10-01,Finance,Freight In,Budget,69732.72
+2024-10-01,Finance,Packaging,Budget,37109.79
+2024-10-01,Finance,Salaries,Budget,67333.72
+2024-10-01,Finance,Marketing Spend,Budget,110530.54
+2024-10-01,Finance,Software & SaaS,Budget,92837.0
+2024-10-01,Finance,Office Rent,Budget,100304.07
+2024-10-01,Finance,Travel & Entertainment,Budget,54756.18
+2024-10-01,Finance,Professional Services,Budget,54232.88
+2024-10-01,Finance,Utilities,Budget,109233.11
+2024-10-01,Finance,Depreciation,Budget,47216.08
+2024-10-01,HR,Product Cost,Budget,53901.65
+2024-10-01,HR,Freight In,Budget,63233.32
+2024-10-01,HR,Packaging,Budget,96916.28
+2024-10-01,HR,Salaries,Budget,43706.6
+2024-10-01,HR,Marketing Spend,Budget,108944.63
+2024-10-01,HR,Software & SaaS,Budget,61337.14
+2024-10-01,HR,Office Rent,Budget,24183.0
+2024-10-01,HR,Travel & Entertainment,Budget,32619.93
+2024-10-01,HR,Professional Services,Budget,87436.55
+2024-10-01,HR,Utilities,Budget,35300.33
+2024-10-01,HR,Depreciation,Budget,106137.32
+2024-10-01,IT,Product Cost,Budget,82283.04
+2024-10-01,IT,Freight In,Budget,30855.62
+2024-10-01,IT,Packaging,Budget,77899.55
+2024-10-01,IT,Salaries,Budget,74686.17
+2024-10-01,IT,Marketing Spend,Budget,68532.69
+2024-10-01,IT,Software & SaaS,Budget,71119.17
+2024-10-01,IT,Office Rent,Budget,49683.7
+2024-10-01,IT,Travel & Entertainment,Budget,29211.68
+2024-10-01,IT,Professional Services,Budget,28853.7
+2024-10-01,IT,Utilities,Budget,114457.09
+2024-10-01,IT,Depreciation,Budget,89722.87
+2024-10-01,Customer Service,Product Cost,Budget,108092.41
+2024-10-01,Customer Service,Freight In,Budget,27975.0
+2024-10-01,Customer Service,Packaging,Budget,13301.41
+2024-10-01,Customer Service,Salaries,Budget,36694.63
+2024-10-01,Customer Service,Marketing Spend,Budget,83257.6
+2024-10-01,Customer Service,Software & SaaS,Budget,76706.94
+2024-10-01,Customer Service,Office Rent,Budget,94236.98
+2024-10-01,Customer Service,Travel & Entertainment,Budget,41459.74
+2024-10-01,Customer Service,Professional Services,Budget,60040.38
+2024-10-01,Customer Service,Utilities,Budget,35577.05
+2024-10-01,Customer Service,Depreciation,Budget,53218.85
+2024-11-01,Sales,Product Sales,Budget,35824.27
+2024-11-01,Sales,Service Revenue,Budget,27193.69
+2024-11-01,Sales,Shipping Revenue,Budget,81931.16
+2024-11-01,Sales,Product Cost,Budget,28262.38
+2024-11-01,Sales,Freight In,Budget,62065.33
+2024-11-01,Sales,Packaging,Budget,117868.7
+2024-11-01,Sales,Salaries,Budget,35814.17
+2024-11-01,Sales,Marketing Spend,Budget,10327.03
+2024-11-01,Sales,Software & SaaS,Budget,27384.13
+2024-11-01,Sales,Office Rent,Budget,55211.25
+2024-11-01,Sales,Travel & Entertainment,Budget,39718.67
+2024-11-01,Sales,Professional Services,Budget,38798.35
+2024-11-01,Sales,Utilities,Budget,20105.28
+2024-11-01,Sales,Depreciation,Budget,31586.97
+2024-11-01,Marketing,Product Cost,Budget,118344.41
+2024-11-01,Marketing,Freight In,Budget,106103.33
+2024-11-01,Marketing,Packaging,Budget,28846.0
+2024-11-01,Marketing,Salaries,Budget,71226.52
+2024-11-01,Marketing,Marketing Spend,Budget,33886.42
+2024-11-01,Marketing,Software & SaaS,Budget,13537.0
+2024-11-01,Marketing,Office Rent,Budget,50018.69
+2024-11-01,Marketing,Travel & Entertainment,Budget,22891.27
+2024-11-01,Marketing,Professional Services,Budget,81764.58
+2024-11-01,Marketing,Utilities,Budget,39798.46
+2024-11-01,Marketing,Depreciation,Budget,26202.8
+2024-11-01,Operations,Product Cost,Budget,61390.75
+2024-11-01,Operations,Freight In,Budget,73345.0
+2024-11-01,Operations,Packaging,Budget,72439.2
+2024-11-01,Operations,Salaries,Budget,41770.08
+2024-11-01,Operations,Marketing Spend,Budget,18915.86
+2024-11-01,Operations,Software & SaaS,Budget,89045.21
+2024-11-01,Operations,Office Rent,Budget,78800.59
+2024-11-01,Operations,Travel & Entertainment,Budget,36140.07
+2024-11-01,Operations,Professional Services,Budget,50379.62
+2024-11-01,Operations,Utilities,Budget,22236.78
+2024-11-01,Operations,Depreciation,Budget,54865.75
+2024-11-01,Finance,Product Cost,Budget,80584.95
+2024-11-01,Finance,Freight In,Budget,37684.29
+2024-11-01,Finance,Packaging,Budget,29583.68
+2024-11-01,Finance,Salaries,Budget,65121.9
+2024-11-01,Finance,Marketing Spend,Budget,37850.47
+2024-11-01,Finance,Software & SaaS,Budget,45552.95
+2024-11-01,Finance,Office Rent,Budget,78394.8
+2024-11-01,Finance,Travel & Entertainment,Budget,64542.67
+2024-11-01,Finance,Professional Services,Budget,72691.14
+2024-11-01,Finance,Utilities,Budget,36385.2
+2024-11-01,Finance,Depreciation,Budget,61118.95
+2024-11-01,HR,Product Cost,Budget,38719.96
+2024-11-01,HR,Freight In,Budget,81600.57
+2024-11-01,HR,Packaging,Budget,34226.54
+2024-11-01,HR,Salaries,Budget,107178.76
+2024-11-01,HR,Marketing Spend,Budget,85610.06
+2024-11-01,HR,Software & SaaS,Budget,47356.48
+2024-11-01,HR,Office Rent,Budget,107751.58
+2024-11-01,HR,Travel & Entertainment,Budget,45671.0
+2024-11-01,HR,Professional Services,Budget,18384.16
+2024-11-01,HR,Utilities,Budget,20096.91
+2024-11-01,HR,Depreciation,Budget,117766.15
+2024-11-01,IT,Product Cost,Budget,36247.32
+2024-11-01,IT,Freight In,Budget,80394.75
+2024-11-01,IT,Packaging,Budget,52232.05
+2024-11-01,IT,Salaries,Budget,32614.69
+2024-11-01,IT,Marketing Spend,Budget,99976.71
+2024-11-01,IT,Software & SaaS,Budget,39551.62
+2024-11-01,IT,Office Rent,Budget,56835.11
+2024-11-01,IT,Travel & Entertainment,Budget,74937.18
+2024-11-01,IT,Professional Services,Budget,12913.34
+2024-11-01,IT,Utilities,Budget,75442.62
+2024-11-01,IT,Depreciation,Budget,92494.67
+2024-11-01,Customer Service,Product Cost,Budget,76784.95
+2024-11-01,Customer Service,Freight In,Budget,26173.87
+2024-11-01,Customer Service,Packaging,Budget,17024.77
+2024-11-01,Customer Service,Salaries,Budget,75749.34
+2024-11-01,Customer Service,Marketing Spend,Budget,14067.15
+2024-11-01,Customer Service,Software & SaaS,Budget,56721.47
+2024-11-01,Customer Service,Office Rent,Budget,39288.61
+2024-11-01,Customer Service,Travel & Entertainment,Budget,73943.91
+2024-11-01,Customer Service,Professional Services,Budget,109043.11
+2024-11-01,Customer Service,Utilities,Budget,25267.25
+2024-11-01,Customer Service,Depreciation,Budget,18953.63
+2024-12-01,Sales,Product Sales,Budget,169431.07
+2024-12-01,Sales,Service Revenue,Budget,47096.01
+2024-12-01,Sales,Shipping Revenue,Budget,43339.08
+2024-12-01,Sales,Product Cost,Budget,78308.24
+2024-12-01,Sales,Freight In,Budget,119453.34
+2024-12-01,Sales,Packaging,Budget,115811.65
+2024-12-01,Sales,Salaries,Budget,22410.21
+2024-12-01,Sales,Marketing Spend,Budget,70960.26
+2024-12-01,Sales,Software & SaaS,Budget,39070.08
+2024-12-01,Sales,Office Rent,Budget,70279.55
+2024-12-01,Sales,Travel & Entertainment,Budget,14035.49
+2024-12-01,Sales,Professional Services,Budget,53453.25
+2024-12-01,Sales,Utilities,Budget,76496.2
+2024-12-01,Sales,Depreciation,Budget,116138.78
+2024-12-01,Marketing,Product Cost,Budget,38739.54
+2024-12-01,Marketing,Freight In,Budget,16781.96
+2024-12-01,Marketing,Packaging,Budget,19325.5
+2024-12-01,Marketing,Salaries,Budget,25005.64
+2024-12-01,Marketing,Marketing Spend,Budget,80580.24
+2024-12-01,Marketing,Software & SaaS,Budget,63717.14
+2024-12-01,Marketing,Office Rent,Budget,102833.48
+2024-12-01,Marketing,Travel & Entertainment,Budget,17450.27
+2024-12-01,Marketing,Professional Services,Budget,73669.68
+2024-12-01,Marketing,Utilities,Budget,87509.38
+2024-12-01,Marketing,Depreciation,Budget,91385.44
+2024-12-01,Operations,Product Cost,Budget,75958.46
+2024-12-01,Operations,Freight In,Budget,45603.54
+2024-12-01,Operations,Packaging,Budget,58049.85
+2024-12-01,Operations,Salaries,Budget,108743.65
+2024-12-01,Operations,Marketing Spend,Budget,76968.48
+2024-12-01,Operations,Software & SaaS,Budget,35258.43
+2024-12-01,Operations,Office Rent,Budget,64880.37
+2024-12-01,Operations,Travel & Entertainment,Budget,82608.52
+2024-12-01,Operations,Professional Services,Budget,68810.64
+2024-12-01,Operations,Utilities,Budget,52894.8
+2024-12-01,Operations,Depreciation,Budget,61595.11
+2024-12-01,Finance,Product Cost,Budget,20967.55
+2024-12-01,Finance,Freight In,Budget,34026.0
+2024-12-01,Finance,Packaging,Budget,83991.8
+2024-12-01,Finance,Salaries,Budget,10488.61
+2024-12-01,Finance,Marketing Spend,Budget,103167.29
+2024-12-01,Finance,Software & SaaS,Budget,117276.48
+2024-12-01,Finance,Office Rent,Budget,98933.72
+2024-12-01,Finance,Travel & Entertainment,Budget,106202.99
+2024-12-01,Finance,Professional Services,Budget,94424.85
+2024-12-01,Finance,Utilities,Budget,78086.94
+2024-12-01,Finance,Depreciation,Budget,56808.84
+2024-12-01,HR,Product Cost,Budget,77914.18
+2024-12-01,HR,Freight In,Budget,43797.96
+2024-12-01,HR,Packaging,Budget,110897.41
+2024-12-01,HR,Salaries,Budget,63478.66
+2024-12-01,HR,Marketing Spend,Budget,97691.83
+2024-12-01,HR,Software & SaaS,Budget,19746.29
+2024-12-01,HR,Office Rent,Budget,52836.19
+2024-12-01,HR,Travel & Entertainment,Budget,51765.86
+2024-12-01,HR,Professional Services,Budget,41428.35
+2024-12-01,HR,Utilities,Budget,12567.33
+2024-12-01,HR,Depreciation,Budget,104006.59
+2024-12-01,IT,Product Cost,Budget,42273.4
+2024-12-01,IT,Freight In,Budget,118093.43
+2024-12-01,IT,Packaging,Budget,35754.62
+2024-12-01,IT,Salaries,Budget,36444.3
+2024-12-01,IT,Marketing Spend,Budget,40406.18
+2024-12-01,IT,Software & SaaS,Budget,95017.07
+2024-12-01,IT,Office Rent,Budget,113973.5
+2024-12-01,IT,Travel & Entertainment,Budget,100525.25
+2024-12-01,IT,Professional Services,Budget,55909.2
+2024-12-01,IT,Utilities,Budget,49877.37
+2024-12-01,IT,Depreciation,Budget,60462.21
+2024-12-01,Customer Service,Product Cost,Budget,106303.18
+2024-12-01,Customer Service,Freight In,Budget,99365.96
+2024-12-01,Customer Service,Packaging,Budget,48788.18
+2024-12-01,Customer Service,Salaries,Budget,27018.07
+2024-12-01,Customer Service,Marketing Spend,Budget,28758.57
+2024-12-01,Customer Service,Software & SaaS,Budget,99954.55
+2024-12-01,Customer Service,Office Rent,Budget,41948.38
+2024-12-01,Customer Service,Travel & Entertainment,Budget,75183.38
+2024-12-01,Customer Service,Professional Services,Budget,19052.01
+2024-12-01,Customer Service,Utilities,Budget,45708.29
+2024-12-01,Customer Service,Depreciation,Budget,27357.83
+2023-01-01,Sales,Product Sales,Actual,95428.6
+2023-01-01,Sales,Service Revenue,Actual,171666.68
+2023-01-01,Sales,Shipping Revenue,Actual,50804.95
+2023-01-01,Sales,Product Cost,Actual,106802.17
+2023-01-01,Sales,Freight In,Actual,12974.03
+2023-01-01,Sales,Packaging,Actual,53987.48
+2023-01-01,Sales,Salaries,Actual,73143.42
+2023-01-01,Sales,Marketing Spend,Actual,116914.36
+2023-01-01,Sales,Software & SaaS,Actual,46558.34
+2023-01-01,Sales,Office Rent,Actual,116067.92
+2023-01-01,Sales,Travel & Entertainment,Actual,85219.63
+2023-01-01,Sales,Professional Services,Actual,116482.67
+2023-01-01,Sales,Utilities,Actual,120328.66
+2023-01-01,Sales,Depreciation,Actual,122991.69
+2023-01-01,Marketing,Product Cost,Actual,88020.69
+2023-01-01,Marketing,Freight In,Actual,138639.24
+2023-01-01,Marketing,Packaging,Actual,117405.44
+2023-01-01,Marketing,Salaries,Actual,40797.89
+2023-01-01,Marketing,Marketing Spend,Actual,25378.17
+2023-01-01,Marketing,Software & SaaS,Actual,75264.63
+2023-01-01,Marketing,Office Rent,Actual,98693.22
+2023-01-01,Marketing,Travel & Entertainment,Actual,90198.83
+2023-01-01,Marketing,Professional Services,Actual,63561.39
+2023-01-01,Marketing,Utilities,Actual,37096.43
+2023-01-01,Marketing,Depreciation,Actual,66759.32
+2023-01-01,Operations,Product Cost,Actual,47989.16
+2023-01-01,Operations,Freight In,Actual,68183.75
+2023-01-01,Operations,Packaging,Actual,49018.5
+2023-01-01,Operations,Salaries,Actual,52940.66
+2023-01-01,Operations,Marketing Spend,Actual,84258.77
+2023-01-01,Operations,Software & SaaS,Actual,53699.01
+2023-01-01,Operations,Office Rent,Actual,36868.37
+2023-01-01,Operations,Travel & Entertainment,Actual,73332.16
+2023-01-01,Operations,Professional Services,Actual,86509.63
+2023-01-01,Operations,Utilities,Actual,68994.71
+2023-01-01,Operations,Depreciation,Actual,11951.21
+2023-01-01,Finance,Product Cost,Actual,96288.34
+2023-01-01,Finance,Freight In,Actual,72720.94
+2023-01-01,Finance,Packaging,Actual,37790.43
+2023-01-01,Finance,Salaries,Actual,37849.36
+2023-01-01,Finance,Marketing Spend,Actual,68250.28
+2023-01-01,Finance,Software & SaaS,Actual,48511.47
+2023-01-01,Finance,Office Rent,Actual,16777.47
+2023-01-01,Finance,Travel & Entertainment,Actual,65618.1
+2023-01-01,Finance,Professional Services,Actual,60952.75
+2023-01-01,Finance,Utilities,Actual,83559.24
+2023-01-01,Finance,Depreciation,Actual,65268.28
+2023-01-01,HR,Product Cost,Actual,69988.59
+2023-01-01,HR,Freight In,Actual,71246.75
+2023-01-01,HR,Packaging,Actual,74914.45
+2023-01-01,HR,Salaries,Actual,129410.21
+2023-01-01,HR,Marketing Spend,Actual,11883.56
+2023-01-01,HR,Software & SaaS,Actual,40760.7
+2023-01-01,HR,Office Rent,Actual,89220.67
+2023-01-01,HR,Travel & Entertainment,Actual,12131.68
+2023-01-01,HR,Professional Services,Actual,39636.16
+2023-01-01,HR,Utilities,Actual,103269.44
+2023-01-01,HR,Depreciation,Actual,36572.17
+2023-01-01,IT,Product Cost,Actual,78744.6
+2023-01-01,IT,Freight In,Actual,44919.74
+2023-01-01,IT,Packaging,Actual,74406.83
+2023-01-01,IT,Salaries,Actual,51235.29
+2023-01-01,IT,Marketing Spend,Actual,41104.9
+2023-01-01,IT,Software & SaaS,Actual,40604.09
+2023-01-01,IT,Office Rent,Actual,107517.77
+2023-01-01,IT,Travel & Entertainment,Actual,112326.88
+2023-01-01,IT,Professional Services,Actual,46972.12
+2023-01-01,IT,Utilities,Actual,40343.64
+2023-01-01,IT,Depreciation,Actual,25478.26
+2023-01-01,Customer Service,Product Cost,Actual,106138.18
+2023-01-01,Customer Service,Freight In,Actual,52878.96
+2023-01-01,Customer Service,Packaging,Actual,86883.63
+2023-01-01,Customer Service,Salaries,Actual,100365.55
+2023-01-01,Customer Service,Marketing Spend,Actual,48088.62
+2023-01-01,Customer Service,Software & SaaS,Actual,13330.88
+2023-01-01,Customer Service,Office Rent,Actual,30292.81
+2023-01-01,Customer Service,Travel & Entertainment,Actual,17360.07
+2023-01-01,Customer Service,Professional Services,Actual,26393.43
+2023-01-01,Customer Service,Utilities,Actual,44976.16
+2023-01-01,Customer Service,Depreciation,Actual,107820.39
+2023-02-01,Sales,Product Sales,Actual,138462.33
+2023-02-01,Sales,Service Revenue,Actual,90702.47
+2023-02-01,Sales,Shipping Revenue,Actual,36560.41
+2023-02-01,Sales,Product Cost,Actual,101004.16
+2023-02-01,Sales,Freight In,Actual,34967.6
+2023-02-01,Sales,Packaging,Actual,53884.52
+2023-02-01,Sales,Salaries,Actual,56811.28
+2023-02-01,Sales,Marketing Spend,Actual,66100.99
+2023-02-01,Sales,Software & SaaS,Actual,84314.65
+2023-02-01,Sales,Office Rent,Actual,94466.89
+2023-02-01,Sales,Travel & Entertainment,Actual,101581.5
+2023-02-01,Sales,Professional Services,Actual,24571.79
+2023-02-01,Sales,Utilities,Actual,76148.27
+2023-02-01,Sales,Depreciation,Actual,56424.97
+2023-02-01,Marketing,Product Cost,Actual,53312.59
+2023-02-01,Marketing,Freight In,Actual,13959.07
+2023-02-01,Marketing,Packaging,Actual,114910.26
+2023-02-01,Marketing,Salaries,Actual,72428.46
+2023-02-01,Marketing,Marketing Spend,Actual,24336.87
+2023-02-01,Marketing,Software & SaaS,Actual,104950.28
+2023-02-01,Marketing,Office Rent,Actual,18355.48
+2023-02-01,Marketing,Travel & Entertainment,Actual,19525.03
+2023-02-01,Marketing,Professional Services,Actual,58586.4
+2023-02-01,Marketing,Utilities,Actual,83691.09
+2023-02-01,Marketing,Depreciation,Actual,47114.96
+2023-02-01,Operations,Product Cost,Actual,107404.22
+2023-02-01,Operations,Freight In,Actual,100312.42
+2023-02-01,Operations,Packaging,Actual,56629.36
+2023-02-01,Operations,Salaries,Actual,13322.91
+2023-02-01,Operations,Marketing Spend,Actual,81327.6
+2023-02-01,Operations,Software & SaaS,Actual,52955.98
+2023-02-01,Operations,Office Rent,Actual,17343.2
+2023-02-01,Operations,Travel & Entertainment,Actual,59315.0
+2023-02-01,Operations,Professional Services,Actual,18792.77
+2023-02-01,Operations,Utilities,Actual,46651.15
+2023-02-01,Operations,Depreciation,Actual,14006.03
+2023-02-01,Finance,Product Cost,Actual,33916.31
+2023-02-01,Finance,Freight In,Actual,80891.45
+2023-02-01,Finance,Packaging,Actual,93142.06
+2023-02-01,Finance,Salaries,Actual,25423.55
+2023-02-01,Finance,Marketing Spend,Actual,44757.22
+2023-02-01,Finance,Software & SaaS,Actual,43575.26
+2023-02-01,Finance,Office Rent,Actual,106412.3
+2023-02-01,Finance,Travel & Entertainment,Actual,45672.6
+2023-02-01,Finance,Professional Services,Actual,126039.04
+2023-02-01,Finance,Utilities,Actual,79444.71
+2023-02-01,Finance,Depreciation,Actual,71635.77
+2023-02-01,HR,Product Cost,Actual,36661.55
+2023-02-01,HR,Freight In,Actual,82912.7
+2023-02-01,HR,Packaging,Actual,40570.55
+2023-02-01,HR,Salaries,Actual,65786.98
+2023-02-01,HR,Marketing Spend,Actual,45421.64
+2023-02-01,HR,Software & SaaS,Actual,64782.5
+2023-02-01,HR,Office Rent,Actual,49524.16
+2023-02-01,HR,Travel & Entertainment,Actual,124077.21
+2023-02-01,HR,Professional Services,Actual,143180.77
+2023-02-01,HR,Utilities,Actual,77406.05
+2023-02-01,HR,Depreciation,Actual,136216.43
+2023-02-01,IT,Product Cost,Actual,60515.46
+2023-02-01,IT,Freight In,Actual,147907.7
+2023-02-01,IT,Packaging,Actual,14825.86
+2023-02-01,IT,Salaries,Actual,40829.66
+2023-02-01,IT,Marketing Spend,Actual,84390.24
+2023-02-01,IT,Software & SaaS,Actual,61161.64
+2023-02-01,IT,Office Rent,Actual,18093.72
+2023-02-01,IT,Travel & Entertainment,Actual,32295.64
+2023-02-01,IT,Professional Services,Actual,98032.37
+2023-02-01,IT,Utilities,Actual,82084.92
+2023-02-01,IT,Depreciation,Actual,76232.7
+2023-02-01,Customer Service,Product Cost,Actual,41982.12
+2023-02-01,Customer Service,Freight In,Actual,87848.27
+2023-02-01,Customer Service,Packaging,Actual,43803.61
+2023-02-01,Customer Service,Salaries,Actual,49587.67
+2023-02-01,Customer Service,Marketing Spend,Actual,9423.8
+2023-02-01,Customer Service,Software & SaaS,Actual,63629.29
+2023-02-01,Customer Service,Office Rent,Actual,21966.97
+2023-02-01,Customer Service,Travel & Entertainment,Actual,116174.53
+2023-02-01,Customer Service,Professional Services,Actual,109028.4
+2023-02-01,Customer Service,Utilities,Actual,28767.12
+2023-02-01,Customer Service,Depreciation,Actual,27274.54
+2023-03-01,Sales,Product Sales,Actual,92337.08
+2023-03-01,Sales,Service Revenue,Actual,30542.09
+2023-03-01,Sales,Shipping Revenue,Actual,45180.38
+2023-03-01,Sales,Product Cost,Actual,20115.49
+2023-03-01,Sales,Freight In,Actual,98565.52
+2023-03-01,Sales,Packaging,Actual,17838.87
+2023-03-01,Sales,Salaries,Actual,126847.73
+2023-03-01,Sales,Marketing Spend,Actual,28885.18
+2023-03-01,Sales,Software & SaaS,Actual,51446.88
+2023-03-01,Sales,Office Rent,Actual,78200.39
+2023-03-01,Sales,Travel & Entertainment,Actual,44633.11
+2023-03-01,Sales,Professional Services,Actual,105203.8
+2023-03-01,Sales,Utilities,Actual,76509.99
+2023-03-01,Sales,Depreciation,Actual,35022.17
+2023-03-01,Marketing,Product Cost,Actual,68835.64
+2023-03-01,Marketing,Freight In,Actual,91066.6
+2023-03-01,Marketing,Packaging,Actual,77277.83
+2023-03-01,Marketing,Salaries,Actual,85120.78
+2023-03-01,Marketing,Marketing Spend,Actual,96576.91
+2023-03-01,Marketing,Software & SaaS,Actual,47710.22
+2023-03-01,Marketing,Office Rent,Actual,25557.79
+2023-03-01,Marketing,Travel & Entertainment,Actual,70225.96
+2023-03-01,Marketing,Professional Services,Actual,92476.93
+2023-03-01,Marketing,Utilities,Actual,57482.31
+2023-03-01,Marketing,Depreciation,Actual,133127.39
+2023-03-01,Operations,Product Cost,Actual,88769.99
+2023-03-01,Operations,Freight In,Actual,19883.15
+2023-03-01,Operations,Packaging,Actual,102014.66
+2023-03-01,Operations,Salaries,Actual,60665.99
+2023-03-01,Operations,Marketing Spend,Actual,70561.74
+2023-03-01,Operations,Software & SaaS,Actual,85268.39
+2023-03-01,Operations,Office Rent,Actual,38655.18
+2023-03-01,Operations,Travel & Entertainment,Actual,16392.82
+2023-03-01,Operations,Professional Services,Actual,82617.68
+2023-03-01,Operations,Utilities,Actual,111987.27
+2023-03-01,Operations,Depreciation,Actual,94485.2
+2023-03-01,Finance,Product Cost,Actual,63533.46
+2023-03-01,Finance,Freight In,Actual,80258.27
+2023-03-01,Finance,Packaging,Actual,115100.89
+2023-03-01,Finance,Salaries,Actual,61514.64
+2023-03-01,Finance,Marketing Spend,Actual,109438.45
+2023-03-01,Finance,Software & SaaS,Actual,116545.92
+2023-03-01,Finance,Office Rent,Actual,56972.06
+2023-03-01,Finance,Travel & Entertainment,Actual,37445.93
+2023-03-01,Finance,Professional Services,Actual,38042.76
+2023-03-01,Finance,Utilities,Actual,46550.7
+2023-03-01,Finance,Depreciation,Actual,110622.0
+2023-03-01,HR,Product Cost,Actual,57316.62
+2023-03-01,HR,Freight In,Actual,88327.64
+2023-03-01,HR,Packaging,Actual,108891.84
+2023-03-01,HR,Salaries,Actual,47981.31
+2023-03-01,HR,Marketing Spend,Actual,107446.22
+2023-03-01,HR,Software & SaaS,Actual,97024.39
+2023-03-01,HR,Office Rent,Actual,67951.29
+2023-03-01,HR,Travel & Entertainment,Actual,49256.98
+2023-03-01,HR,Professional Services,Actual,61125.98
+2023-03-01,HR,Utilities,Actual,62156.16
+2023-03-01,HR,Depreciation,Actual,102568.54
+2023-03-01,IT,Product Cost,Actual,91027.91
+2023-03-01,IT,Freight In,Actual,33895.44
+2023-03-01,IT,Packaging,Actual,117299.9
+2023-03-01,IT,Salaries,Actual,90577.85
+2023-03-01,IT,Marketing Spend,Actual,81398.87
+2023-03-01,IT,Software & SaaS,Actual,9830.29
+2023-03-01,IT,Office Rent,Actual,39240.23
+2023-03-01,IT,Travel & Entertainment,Actual,62199.04
+2023-03-01,IT,Professional Services,Actual,65985.08
+2023-03-01,IT,Utilities,Actual,84584.21
+2023-03-01,IT,Depreciation,Actual,131942.54
+2023-03-01,Customer Service,Product Cost,Actual,87290.74
+2023-03-01,Customer Service,Freight In,Actual,50577.2
+2023-03-01,Customer Service,Packaging,Actual,83134.62
+2023-03-01,Customer Service,Salaries,Actual,84127.29
+2023-03-01,Customer Service,Marketing Spend,Actual,25968.97
+2023-03-01,Customer Service,Software & SaaS,Actual,41368.43
+2023-03-01,Customer Service,Office Rent,Actual,129097.94
+2023-03-01,Customer Service,Travel & Entertainment,Actual,52728.09
+2023-03-01,Customer Service,Professional Services,Actual,73463.36
+2023-03-01,Customer Service,Utilities,Actual,49678.98
+2023-03-01,Customer Service,Depreciation,Actual,137091.25
+2023-04-01,Sales,Product Sales,Actual,81645.93
+2023-04-01,Sales,Service Revenue,Actual,55074.89
+2023-04-01,Sales,Shipping Revenue,Actual,18086.68
+2023-04-01,Sales,Product Cost,Actual,42937.9
+2023-04-01,Sales,Freight In,Actual,73057.45
+2023-04-01,Sales,Packaging,Actual,78692.54
+2023-04-01,Sales,Salaries,Actual,82600.21
+2023-04-01,Sales,Marketing Spend,Actual,39642.3
+2023-04-01,Sales,Software & SaaS,Actual,82195.05
+2023-04-01,Sales,Office Rent,Actual,52765.05
+2023-04-01,Sales,Travel & Entertainment,Actual,55151.4
+2023-04-01,Sales,Professional Services,Actual,129526.77
+2023-04-01,Sales,Utilities,Actual,114340.46
+2023-04-01,Sales,Depreciation,Actual,88290.02
+2023-04-01,Marketing,Product Cost,Actual,32535.29
+2023-04-01,Marketing,Freight In,Actual,127926.96
+2023-04-01,Marketing,Packaging,Actual,103209.99
+2023-04-01,Marketing,Salaries,Actual,57222.11
+2023-04-01,Marketing,Marketing Spend,Actual,82548.51
+2023-04-01,Marketing,Software & SaaS,Actual,39510.8
+2023-04-01,Marketing,Office Rent,Actual,134732.3
+2023-04-01,Marketing,Travel & Entertainment,Actual,20609.2
+2023-04-01,Marketing,Professional Services,Actual,76941.8
+2023-04-01,Marketing,Utilities,Actual,32523.42
+2023-04-01,Marketing,Depreciation,Actual,48138.57
+2023-04-01,Operations,Product Cost,Actual,58435.18
+2023-04-01,Operations,Freight In,Actual,29694.2
+2023-04-01,Operations,Packaging,Actual,78296.88
+2023-04-01,Operations,Salaries,Actual,36271.02
+2023-04-01,Operations,Marketing Spend,Actual,123758.5
+2023-04-01,Operations,Software & SaaS,Actual,96002.2
+2023-04-01,Operations,Office Rent,Actual,116385.57
+2023-04-01,Operations,Travel & Entertainment,Actual,58226.28
+2023-04-01,Operations,Professional Services,Actual,137860.91
+2023-04-01,Operations,Utilities,Actual,123582.92
+2023-04-01,Operations,Depreciation,Actual,65760.14
+2023-04-01,Finance,Product Cost,Actual,19007.39
+2023-04-01,Finance,Freight In,Actual,101590.58
+2023-04-01,Finance,Packaging,Actual,63717.28
+2023-04-01,Finance,Salaries,Actual,45171.65
+2023-04-01,Finance,Marketing Spend,Actual,14551.28
+2023-04-01,Finance,Software & SaaS,Actual,16483.51
+2023-04-01,Finance,Office Rent,Actual,34128.63
+2023-04-01,Finance,Travel & Entertainment,Actual,32416.39
+2023-04-01,Finance,Professional Services,Actual,66175.95
+2023-04-01,Finance,Utilities,Actual,65904.29
+2023-04-01,Finance,Depreciation,Actual,11306.4
+2023-04-01,HR,Product Cost,Actual,37861.9
+2023-04-01,HR,Freight In,Actual,51903.44
+2023-04-01,HR,Packaging,Actual,100776.69
+2023-04-01,HR,Salaries,Actual,77045.67
+2023-04-01,HR,Marketing Spend,Actual,63165.76
+2023-04-01,HR,Software & SaaS,Actual,117142.85
+2023-04-01,HR,Office Rent,Actual,91450.08
+2023-04-01,HR,Travel & Entertainment,Actual,58724.99
+2023-04-01,HR,Professional Services,Actual,85132.03
+2023-04-01,HR,Utilities,Actual,88460.78
+2023-04-01,HR,Depreciation,Actual,9833.01
+2023-04-01,IT,Product Cost,Actual,55869.32
+2023-04-01,IT,Freight In,Actual,48018.96
+2023-04-01,IT,Packaging,Actual,50785.53
+2023-04-01,IT,Salaries,Actual,45768.41
+2023-04-01,IT,Marketing Spend,Actual,51201.71
+2023-04-01,IT,Software & SaaS,Actual,13410.11
+2023-04-01,IT,Office Rent,Actual,81826.03
+2023-04-01,IT,Travel & Entertainment,Actual,107586.13
+2023-04-01,IT,Professional Services,Actual,75566.2
+2023-04-01,IT,Utilities,Actual,38802.95
+2023-04-01,IT,Depreciation,Actual,84344.98
+2023-04-01,Customer Service,Product Cost,Actual,89172.33
+2023-04-01,Customer Service,Freight In,Actual,69655.11
+2023-04-01,Customer Service,Packaging,Actual,42184.88
+2023-04-01,Customer Service,Salaries,Actual,45853.36
+2023-04-01,Customer Service,Marketing Spend,Actual,77839.3
+2023-04-01,Customer Service,Software & SaaS,Actual,111373.12
+2023-04-01,Customer Service,Office Rent,Actual,95757.65
+2023-04-01,Customer Service,Travel & Entertainment,Actual,81044.86
+2023-04-01,Customer Service,Professional Services,Actual,43588.11
+2023-04-01,Customer Service,Utilities,Actual,46179.11
+2023-04-01,Customer Service,Depreciation,Actual,38231.71
+2023-05-01,Sales,Product Sales,Actual,68249.71
+2023-05-01,Sales,Service Revenue,Actual,28394.55
+2023-05-01,Sales,Shipping Revenue,Actual,121365.63
+2023-05-01,Sales,Product Cost,Actual,126103.82
+2023-05-01,Sales,Freight In,Actual,90757.7
+2023-05-01,Sales,Packaging,Actual,112174.99
+2023-05-01,Sales,Salaries,Actual,69915.34
+2023-05-01,Sales,Marketing Spend,Actual,82665.61
+2023-05-01,Sales,Software & SaaS,Actual,29094.94
+2023-05-01,Sales,Office Rent,Actual,25901.03
+2023-05-01,Sales,Travel & Entertainment,Actual,83072.54
+2023-05-01,Sales,Professional Services,Actual,90837.3
+2023-05-01,Sales,Utilities,Actual,127836.39
+2023-05-01,Sales,Depreciation,Actual,41338.31
+2023-05-01,Marketing,Product Cost,Actual,30295.98
+2023-05-01,Marketing,Freight In,Actual,31202.27
+2023-05-01,Marketing,Packaging,Actual,66699.3
+2023-05-01,Marketing,Salaries,Actual,49268.35
+2023-05-01,Marketing,Marketing Spend,Actual,69883.27
+2023-05-01,Marketing,Software & SaaS,Actual,68038.69
+2023-05-01,Marketing,Office Rent,Actual,51596.49
+2023-05-01,Marketing,Travel & Entertainment,Actual,63728.0
+2023-05-01,Marketing,Professional Services,Actual,53635.81
+2023-05-01,Marketing,Utilities,Actual,37180.21
+2023-05-01,Marketing,Depreciation,Actual,82340.96
+2023-05-01,Operations,Product Cost,Actual,104559.66
+2023-05-01,Operations,Freight In,Actual,104667.73
+2023-05-01,Operations,Packaging,Actual,89837.46
+2023-05-01,Operations,Salaries,Actual,93819.67
+2023-05-01,Operations,Marketing Spend,Actual,100685.42
+2023-05-01,Operations,Software & SaaS,Actual,57491.54
+2023-05-01,Operations,Office Rent,Actual,102352.47
+2023-05-01,Operations,Travel & Entertainment,Actual,88911.38
+2023-05-01,Operations,Professional Services,Actual,60840.87
+2023-05-01,Operations,Utilities,Actual,74944.64
+2023-05-01,Operations,Depreciation,Actual,40794.63
+2023-05-01,Finance,Product Cost,Actual,33174.65
+2023-05-01,Finance,Freight In,Actual,35011.18
+2023-05-01,Finance,Packaging,Actual,42789.92
+2023-05-01,Finance,Salaries,Actual,111178.71
+2023-05-01,Finance,Marketing Spend,Actual,124229.06
+2023-05-01,Finance,Software & SaaS,Actual,24442.99
+2023-05-01,Finance,Office Rent,Actual,33021.05
+2023-05-01,Finance,Travel & Entertainment,Actual,66070.48
+2023-05-01,Finance,Professional Services,Actual,50820.41
+2023-05-01,Finance,Utilities,Actual,41595.52
+2023-05-01,Finance,Depreciation,Actual,49697.56
+2023-05-01,HR,Product Cost,Actual,24981.19
+2023-05-01,HR,Freight In,Actual,59080.88
+2023-05-01,HR,Packaging,Actual,11806.88
+2023-05-01,HR,Salaries,Actual,43248.95
+2023-05-01,HR,Marketing Spend,Actual,41389.23
+2023-05-01,HR,Software & SaaS,Actual,57734.02
+2023-05-01,HR,Office Rent,Actual,18032.76
+2023-05-01,HR,Travel & Entertainment,Actual,27061.8
+2023-05-01,HR,Professional Services,Actual,32057.71
+2023-05-01,HR,Utilities,Actual,106971.52
+2023-05-01,HR,Depreciation,Actual,63329.57
+2023-05-01,IT,Product Cost,Actual,38527.51
+2023-05-01,IT,Freight In,Actual,93215.94
+2023-05-01,IT,Packaging,Actual,14104.79
+2023-05-01,IT,Salaries,Actual,34320.46
+2023-05-01,IT,Marketing Spend,Actual,8323.26
+2023-05-01,IT,Software & SaaS,Actual,136886.63
+2023-05-01,IT,Office Rent,Actual,64880.61
+2023-05-01,IT,Travel & Entertainment,Actual,82421.82
+2023-05-01,IT,Professional Services,Actual,42854.9
+2023-05-01,IT,Utilities,Actual,17455.14
+2023-05-01,IT,Depreciation,Actual,71235.5
+2023-05-01,Customer Service,Product Cost,Actual,116028.82
+2023-05-01,Customer Service,Freight In,Actual,84547.24
+2023-05-01,Customer Service,Packaging,Actual,53258.26
+2023-05-01,Customer Service,Salaries,Actual,40159.78
+2023-05-01,Customer Service,Marketing Spend,Actual,10647.05
+2023-05-01,Customer Service,Software & SaaS,Actual,77273.11
+2023-05-01,Customer Service,Office Rent,Actual,133866.26
+2023-05-01,Customer Service,Travel & Entertainment,Actual,40677.74
+2023-05-01,Customer Service,Professional Services,Actual,58037.77
+2023-05-01,Customer Service,Utilities,Actual,52768.93
+2023-05-01,Customer Service,Depreciation,Actual,80259.88
+2023-06-01,Sales,Product Sales,Actual,125861.3
+2023-06-01,Sales,Service Revenue,Actual,19888.02
+2023-06-01,Sales,Shipping Revenue,Actual,20308.14
+2023-06-01,Sales,Product Cost,Actual,32221.56
+2023-06-01,Sales,Freight In,Actual,24901.45
+2023-06-01,Sales,Packaging,Actual,69372.42
+2023-06-01,Sales,Salaries,Actual,87621.76
+2023-06-01,Sales,Marketing Spend,Actual,56174.18
+2023-06-01,Sales,Software & SaaS,Actual,73070.1
+2023-06-01,Sales,Office Rent,Actual,25089.66
+2023-06-01,Sales,Travel & Entertainment,Actual,16361.18
+2023-06-01,Sales,Professional Services,Actual,47580.92
+2023-06-01,Sales,Utilities,Actual,29497.1
+2023-06-01,Sales,Depreciation,Actual,57661.09
+2023-06-01,Marketing,Product Cost,Actual,26101.2
+2023-06-01,Marketing,Freight In,Actual,19240.43
+2023-06-01,Marketing,Packaging,Actual,50592.15
+2023-06-01,Marketing,Salaries,Actual,48499.94
+2023-06-01,Marketing,Marketing Spend,Actual,56868.02
+2023-06-01,Marketing,Software & SaaS,Actual,26625.47
+2023-06-01,Marketing,Office Rent,Actual,20834.16
+2023-06-01,Marketing,Travel & Entertainment,Actual,39656.78
+2023-06-01,Marketing,Professional Services,Actual,51233.74
+2023-06-01,Marketing,Utilities,Actual,56495.75
+2023-06-01,Marketing,Depreciation,Actual,13020.36
+2023-06-01,Operations,Product Cost,Actual,55913.31
+2023-06-01,Operations,Freight In,Actual,113734.62
+2023-06-01,Operations,Packaging,Actual,59151.0
+2023-06-01,Operations,Salaries,Actual,45581.55
+2023-06-01,Operations,Marketing Spend,Actual,50769.53
+2023-06-01,Operations,Software & SaaS,Actual,15673.03
+2023-06-01,Operations,Office Rent,Actual,72973.47
+2023-06-01,Operations,Travel & Entertainment,Actual,62110.55
+2023-06-01,Operations,Professional Services,Actual,88358.49
+2023-06-01,Operations,Utilities,Actual,112721.71
+2023-06-01,Operations,Depreciation,Actual,103232.92
+2023-06-01,Finance,Product Cost,Actual,39255.57
+2023-06-01,Finance,Freight In,Actual,38402.35
+2023-06-01,Finance,Packaging,Actual,52711.41
+2023-06-01,Finance,Salaries,Actual,101219.66
+2023-06-01,Finance,Marketing Spend,Actual,138873.33
+2023-06-01,Finance,Software & SaaS,Actual,56768.6
+2023-06-01,Finance,Office Rent,Actual,16151.99
+2023-06-01,Finance,Travel & Entertainment,Actual,36906.56
+2023-06-01,Finance,Professional Services,Actual,22733.98
+2023-06-01,Finance,Utilities,Actual,12474.07
+2023-06-01,Finance,Depreciation,Actual,49231.06
+2023-06-01,HR,Product Cost,Actual,106623.35
+2023-06-01,HR,Freight In,Actual,87618.45
+2023-06-01,HR,Packaging,Actual,96618.28
+2023-06-01,HR,Salaries,Actual,20955.4
+2023-06-01,HR,Marketing Spend,Actual,20182.81
+2023-06-01,HR,Software & SaaS,Actual,103658.32
+2023-06-01,HR,Office Rent,Actual,44700.78
+2023-06-01,HR,Travel & Entertainment,Actual,80799.97
+2023-06-01,HR,Professional Services,Actual,67972.03
+2023-06-01,HR,Utilities,Actual,51152.68
+2023-06-01,HR,Depreciation,Actual,46247.69
+2023-06-01,IT,Product Cost,Actual,29336.49
+2023-06-01,IT,Freight In,Actual,50046.2
+2023-06-01,IT,Packaging,Actual,47290.47
+2023-06-01,IT,Salaries,Actual,72934.87
+2023-06-01,IT,Marketing Spend,Actual,12060.97
+2023-06-01,IT,Software & SaaS,Actual,93034.96
+2023-06-01,IT,Office Rent,Actual,87099.06
+2023-06-01,IT,Travel & Entertainment,Actual,59713.54
+2023-06-01,IT,Professional Services,Actual,69608.18
+2023-06-01,IT,Utilities,Actual,77659.15
+2023-06-01,IT,Depreciation,Actual,107176.86
+2023-06-01,Customer Service,Product Cost,Actual,19588.51
+2023-06-01,Customer Service,Freight In,Actual,52976.27
+2023-06-01,Customer Service,Packaging,Actual,82254.47
+2023-06-01,Customer Service,Salaries,Actual,98553.62
+2023-06-01,Customer Service,Marketing Spend,Actual,127352.81
+2023-06-01,Customer Service,Software & SaaS,Actual,83336.24
+2023-06-01,Customer Service,Office Rent,Actual,61905.97
+2023-06-01,Customer Service,Travel & Entertainment,Actual,106825.76
+2023-06-01,Customer Service,Professional Services,Actual,44031.46
+2023-06-01,Customer Service,Utilities,Actual,51645.16
+2023-06-01,Customer Service,Depreciation,Actual,15059.77
+2023-07-01,Sales,Product Sales,Actual,75071.34
+2023-07-01,Sales,Service Revenue,Actual,137865.34
+2023-07-01,Sales,Shipping Revenue,Actual,42774.2
+2023-07-01,Sales,Product Cost,Actual,14542.01
+2023-07-01,Sales,Freight In,Actual,46423.47
+2023-07-01,Sales,Packaging,Actual,84434.95
+2023-07-01,Sales,Salaries,Actual,59168.52
+2023-07-01,Sales,Marketing Spend,Actual,34598.22
+2023-07-01,Sales,Software & SaaS,Actual,19276.22
+2023-07-01,Sales,Office Rent,Actual,115762.53
+2023-07-01,Sales,Travel & Entertainment,Actual,65650.78
+2023-07-01,Sales,Professional Services,Actual,89005.61
+2023-07-01,Sales,Utilities,Actual,73334.27
+2023-07-01,Sales,Depreciation,Actual,54504.34
+2023-07-01,Marketing,Product Cost,Actual,96488.82
+2023-07-01,Marketing,Freight In,Actual,123960.09
+2023-07-01,Marketing,Packaging,Actual,111855.62
+2023-07-01,Marketing,Salaries,Actual,38050.64
+2023-07-01,Marketing,Marketing Spend,Actual,67442.11
+2023-07-01,Marketing,Software & SaaS,Actual,129272.57
+2023-07-01,Marketing,Office Rent,Actual,84437.72
+2023-07-01,Marketing,Travel & Entertainment,Actual,34098.33
+2023-07-01,Marketing,Professional Services,Actual,11836.61
+2023-07-01,Marketing,Utilities,Actual,80586.2
+2023-07-01,Marketing,Depreciation,Actual,91967.22
+2023-07-01,Operations,Product Cost,Actual,63174.85
+2023-07-01,Operations,Freight In,Actual,98544.48
+2023-07-01,Operations,Packaging,Actual,116093.35
+2023-07-01,Operations,Salaries,Actual,111042.36
+2023-07-01,Operations,Marketing Spend,Actual,112932.2
+2023-07-01,Operations,Software & SaaS,Actual,18033.59
+2023-07-01,Operations,Office Rent,Actual,78944.11
+2023-07-01,Operations,Travel & Entertainment,Actual,74161.09
+2023-07-01,Operations,Professional Services,Actual,93779.66
+2023-07-01,Operations,Utilities,Actual,40299.8
+2023-07-01,Operations,Depreciation,Actual,61995.97
+2023-07-01,Finance,Product Cost,Actual,42944.45
+2023-07-01,Finance,Freight In,Actual,82697.15
+2023-07-01,Finance,Packaging,Actual,50480.86
+2023-07-01,Finance,Salaries,Actual,27207.4
+2023-07-01,Finance,Marketing Spend,Actual,94529.73
+2023-07-01,Finance,Software & SaaS,Actual,64960.05
+2023-07-01,Finance,Office Rent,Actual,113201.91
+2023-07-01,Finance,Travel & Entertainment,Actual,86607.04
+2023-07-01,Finance,Professional Services,Actual,118964.69
+2023-07-01,Finance,Utilities,Actual,80739.5
+2023-07-01,Finance,Depreciation,Actual,84555.75
+2023-07-01,HR,Product Cost,Actual,89165.76
+2023-07-01,HR,Freight In,Actual,90360.27
+2023-07-01,HR,Packaging,Actual,71377.31
+2023-07-01,HR,Salaries,Actual,92916.35
+2023-07-01,HR,Marketing Spend,Actual,103108.4
+2023-07-01,HR,Software & SaaS,Actual,13372.43
+2023-07-01,HR,Office Rent,Actual,30414.82
+2023-07-01,HR,Travel & Entertainment,Actual,73573.01
+2023-07-01,HR,Professional Services,Actual,108421.08
+2023-07-01,HR,Utilities,Actual,138919.73
+2023-07-01,HR,Depreciation,Actual,25348.4
+2023-07-01,IT,Product Cost,Actual,117704.47
+2023-07-01,IT,Freight In,Actual,112805.52
+2023-07-01,IT,Packaging,Actual,44332.9
+2023-07-01,IT,Salaries,Actual,124129.64
+2023-07-01,IT,Marketing Spend,Actual,96076.55
+2023-07-01,IT,Software & SaaS,Actual,104111.2
+2023-07-01,IT,Office Rent,Actual,73862.56
+2023-07-01,IT,Travel & Entertainment,Actual,14753.02
+2023-07-01,IT,Professional Services,Actual,64403.68
+2023-07-01,IT,Utilities,Actual,120073.34
+2023-07-01,IT,Depreciation,Actual,56480.88
+2023-07-01,Customer Service,Product Cost,Actual,42664.74
+2023-07-01,Customer Service,Freight In,Actual,20742.89
+2023-07-01,Customer Service,Packaging,Actual,82582.92
+2023-07-01,Customer Service,Salaries,Actual,73750.57
+2023-07-01,Customer Service,Marketing Spend,Actual,69657.8
+2023-07-01,Customer Service,Software & SaaS,Actual,63552.43
+2023-07-01,Customer Service,Office Rent,Actual,123349.5
+2023-07-01,Customer Service,Travel & Entertainment,Actual,124741.38
+2023-07-01,Customer Service,Professional Services,Actual,45581.9
+2023-07-01,Customer Service,Utilities,Actual,54684.95
+2023-07-01,Customer Service,Depreciation,Actual,85288.8
+2023-08-01,Sales,Product Sales,Actual,27892.93
+2023-08-01,Sales,Service Revenue,Actual,12759.28
+2023-08-01,Sales,Shipping Revenue,Actual,38946.46
+2023-08-01,Sales,Product Cost,Actual,107218.6
+2023-08-01,Sales,Freight In,Actual,63781.05
+2023-08-01,Sales,Packaging,Actual,84258.3
+2023-08-01,Sales,Salaries,Actual,19579.43
+2023-08-01,Sales,Marketing Spend,Actual,65834.56
+2023-08-01,Sales,Software & SaaS,Actual,55980.75
+2023-08-01,Sales,Office Rent,Actual,27881.52
+2023-08-01,Sales,Travel & Entertainment,Actual,95549.72
+2023-08-01,Sales,Professional Services,Actual,31961.54
+2023-08-01,Sales,Utilities,Actual,45790.13
+2023-08-01,Sales,Depreciation,Actual,110047.91
+2023-08-01,Marketing,Product Cost,Actual,56545.79
+2023-08-01,Marketing,Freight In,Actual,43886.31
+2023-08-01,Marketing,Packaging,Actual,49641.62
+2023-08-01,Marketing,Salaries,Actual,27525.45
+2023-08-01,Marketing,Marketing Spend,Actual,117255.73
+2023-08-01,Marketing,Software & SaaS,Actual,38912.56
+2023-08-01,Marketing,Office Rent,Actual,23666.69
+2023-08-01,Marketing,Travel & Entertainment,Actual,64385.19
+2023-08-01,Marketing,Professional Services,Actual,69628.91
+2023-08-01,Marketing,Utilities,Actual,50695.97
+2023-08-01,Marketing,Depreciation,Actual,63620.9
+2023-08-01,Operations,Product Cost,Actual,25483.86
+2023-08-01,Operations,Freight In,Actual,20819.18
+2023-08-01,Operations,Packaging,Actual,62935.29
+2023-08-01,Operations,Salaries,Actual,130269.0
+2023-08-01,Operations,Marketing Spend,Actual,66980.68
+2023-08-01,Operations,Software & SaaS,Actual,105396.34
+2023-08-01,Operations,Office Rent,Actual,58296.62
+2023-08-01,Operations,Travel & Entertainment,Actual,76630.35
+2023-08-01,Operations,Professional Services,Actual,129180.24
+2023-08-01,Operations,Utilities,Actual,65548.42
+2023-08-01,Operations,Depreciation,Actual,86017.12
+2023-08-01,Finance,Product Cost,Actual,35895.17
+2023-08-01,Finance,Freight In,Actual,22275.28
+2023-08-01,Finance,Packaging,Actual,40765.6
+2023-08-01,Finance,Salaries,Actual,49746.78
+2023-08-01,Finance,Marketing Spend,Actual,71893.98
+2023-08-01,Finance,Software & SaaS,Actual,44412.9
+2023-08-01,Finance,Office Rent,Actual,90023.54
+2023-08-01,Finance,Travel & Entertainment,Actual,101527.71
+2023-08-01,Finance,Professional Services,Actual,80578.11
+2023-08-01,Finance,Utilities,Actual,80182.27
+2023-08-01,Finance,Depreciation,Actual,88924.36
+2023-08-01,HR,Product Cost,Actual,57108.45
+2023-08-01,HR,Freight In,Actual,66965.19
+2023-08-01,HR,Packaging,Actual,34010.22
+2023-08-01,HR,Salaries,Actual,21911.8
+2023-08-01,HR,Marketing Spend,Actual,124715.43
+2023-08-01,HR,Software & SaaS,Actual,136546.94
+2023-08-01,HR,Office Rent,Actual,65353.5
+2023-08-01,HR,Travel & Entertainment,Actual,61610.93
+2023-08-01,HR,Professional Services,Actual,42607.53
+2023-08-01,HR,Utilities,Actual,74508.59
+2023-08-01,HR,Depreciation,Actual,81235.29
+2023-08-01,IT,Product Cost,Actual,71708.56
+2023-08-01,IT,Freight In,Actual,26546.09
+2023-08-01,IT,Packaging,Actual,93580.02
+2023-08-01,IT,Salaries,Actual,75069.69
+2023-08-01,IT,Marketing Spend,Actual,88986.23
+2023-08-01,IT,Software & SaaS,Actual,89102.34
+2023-08-01,IT,Office Rent,Actual,120148.0
+2023-08-01,IT,Travel & Entertainment,Actual,78308.7
+2023-08-01,IT,Professional Services,Actual,83474.6
+2023-08-01,IT,Utilities,Actual,123224.12
+2023-08-01,IT,Depreciation,Actual,29193.07
+2023-08-01,Customer Service,Product Cost,Actual,111738.11
+2023-08-01,Customer Service,Freight In,Actual,37060.35
+2023-08-01,Customer Service,Packaging,Actual,102746.48
+2023-08-01,Customer Service,Salaries,Actual,44883.93
+2023-08-01,Customer Service,Marketing Spend,Actual,67422.01
+2023-08-01,Customer Service,Software & SaaS,Actual,46877.58
+2023-08-01,Customer Service,Office Rent,Actual,97275.9
+2023-08-01,Customer Service,Travel & Entertainment,Actual,41722.45
+2023-08-01,Customer Service,Professional Services,Actual,25017.28
+2023-08-01,Customer Service,Utilities,Actual,65210.55
+2023-08-01,Customer Service,Depreciation,Actual,93079.32
+2023-09-01,Sales,Product Sales,Actual,41483.5
+2023-09-01,Sales,Service Revenue,Actual,51030.33
+2023-09-01,Sales,Shipping Revenue,Actual,56205.37
+2023-09-01,Sales,Product Cost,Actual,135993.78
+2023-09-01,Sales,Freight In,Actual,96671.09
+2023-09-01,Sales,Packaging,Actual,36641.74
+2023-09-01,Sales,Salaries,Actual,77126.89
+2023-09-01,Sales,Marketing Spend,Actual,87672.25
+2023-09-01,Sales,Software & SaaS,Actual,12277.63
+2023-09-01,Sales,Office Rent,Actual,19172.87
+2023-09-01,Sales,Travel & Entertainment,Actual,75231.24
+2023-09-01,Sales,Professional Services,Actual,63379.14
+2023-09-01,Sales,Utilities,Actual,128850.31
+2023-09-01,Sales,Depreciation,Actual,131418.21
+2023-09-01,Marketing,Product Cost,Actual,42682.59
+2023-09-01,Marketing,Freight In,Actual,73459.73
+2023-09-01,Marketing,Packaging,Actual,18012.12
+2023-09-01,Marketing,Salaries,Actual,115978.08
+2023-09-01,Marketing,Marketing Spend,Actual,97446.82
+2023-09-01,Marketing,Software & SaaS,Actual,84496.32
+2023-09-01,Marketing,Office Rent,Actual,19408.26
+2023-09-01,Marketing,Travel & Entertainment,Actual,22629.59
+2023-09-01,Marketing,Professional Services,Actual,78712.08
+2023-09-01,Marketing,Utilities,Actual,35721.62
+2023-09-01,Marketing,Depreciation,Actual,30594.54
+2023-09-01,Operations,Product Cost,Actual,62345.44
+2023-09-01,Operations,Freight In,Actual,42677.27
+2023-09-01,Operations,Packaging,Actual,76523.35
+2023-09-01,Operations,Salaries,Actual,69683.9
+2023-09-01,Operations,Marketing Spend,Actual,109366.92
+2023-09-01,Operations,Software & SaaS,Actual,35167.25
+2023-09-01,Operations,Office Rent,Actual,83785.16
+2023-09-01,Operations,Travel & Entertainment,Actual,57572.88
+2023-09-01,Operations,Professional Services,Actual,24262.59
+2023-09-01,Operations,Utilities,Actual,131598.01
+2023-09-01,Operations,Depreciation,Actual,21013.05
+2023-09-01,Finance,Product Cost,Actual,103581.76
+2023-09-01,Finance,Freight In,Actual,70546.33
+2023-09-01,Finance,Packaging,Actual,85138.54
+2023-09-01,Finance,Salaries,Actual,94198.29
+2023-09-01,Finance,Marketing Spend,Actual,80674.23
+2023-09-01,Finance,Software & SaaS,Actual,34311.66
+2023-09-01,Finance,Office Rent,Actual,65911.45
+2023-09-01,Finance,Travel & Entertainment,Actual,118336.32
+2023-09-01,Finance,Professional Services,Actual,68324.54
+2023-09-01,Finance,Utilities,Actual,43478.09
+2023-09-01,Finance,Depreciation,Actual,101523.25
+2023-09-01,HR,Product Cost,Actual,19046.83
+2023-09-01,HR,Freight In,Actual,9008.78
+2023-09-01,HR,Packaging,Actual,122912.0
+2023-09-01,HR,Salaries,Actual,84419.67
+2023-09-01,HR,Marketing Spend,Actual,65067.17
+2023-09-01,HR,Software & SaaS,Actual,27613.21
+2023-09-01,HR,Office Rent,Actual,48103.57
+2023-09-01,HR,Travel & Entertainment,Actual,128598.83
+2023-09-01,HR,Professional Services,Actual,81607.33
+2023-09-01,HR,Utilities,Actual,71460.21
+2023-09-01,HR,Depreciation,Actual,28839.64
+2023-09-01,IT,Product Cost,Actual,61481.78
+2023-09-01,IT,Freight In,Actual,47220.29
+2023-09-01,IT,Packaging,Actual,80523.66
+2023-09-01,IT,Salaries,Actual,51091.13
+2023-09-01,IT,Marketing Spend,Actual,35585.93
+2023-09-01,IT,Software & SaaS,Actual,70263.64
+2023-09-01,IT,Office Rent,Actual,121271.39
+2023-09-01,IT,Travel & Entertainment,Actual,36216.87
+2023-09-01,IT,Professional Services,Actual,101873.62
+2023-09-01,IT,Utilities,Actual,64901.57
+2023-09-01,IT,Depreciation,Actual,68657.14
+2023-09-01,Customer Service,Product Cost,Actual,91461.44
+2023-09-01,Customer Service,Freight In,Actual,147676.0
+2023-09-01,Customer Service,Packaging,Actual,26931.75
+2023-09-01,Customer Service,Salaries,Actual,24633.29
+2023-09-01,Customer Service,Marketing Spend,Actual,91322.25
+2023-09-01,Customer Service,Software & SaaS,Actual,15799.88
+2023-09-01,Customer Service,Office Rent,Actual,21247.23
+2023-09-01,Customer Service,Travel & Entertainment,Actual,64878.4
+2023-09-01,Customer Service,Professional Services,Actual,113239.06
+2023-09-01,Customer Service,Utilities,Actual,31712.58
+2023-09-01,Customer Service,Depreciation,Actual,42157.18
+2023-10-01,Sales,Product Sales,Actual,11825.15
+2023-10-01,Sales,Service Revenue,Actual,155278.87
+2023-10-01,Sales,Shipping Revenue,Actual,132263.9
+2023-10-01,Sales,Product Cost,Actual,115339.49
+2023-10-01,Sales,Freight In,Actual,17260.54
+2023-10-01,Sales,Packaging,Actual,77104.01
+2023-10-01,Sales,Salaries,Actual,23085.66
+2023-10-01,Sales,Marketing Spend,Actual,116205.6
+2023-10-01,Sales,Software & SaaS,Actual,34393.08
+2023-10-01,Sales,Office Rent,Actual,65687.12
+2023-10-01,Sales,Travel & Entertainment,Actual,100816.78
+2023-10-01,Sales,Professional Services,Actual,15219.23
+2023-10-01,Sales,Utilities,Actual,88195.62
+2023-10-01,Sales,Depreciation,Actual,88686.04
+2023-10-01,Marketing,Product Cost,Actual,88142.56
+2023-10-01,Marketing,Freight In,Actual,74933.82
+2023-10-01,Marketing,Packaging,Actual,109208.43
+2023-10-01,Marketing,Salaries,Actual,54074.51
+2023-10-01,Marketing,Marketing Spend,Actual,16367.55
+2023-10-01,Marketing,Software & SaaS,Actual,126563.44
+2023-10-01,Marketing,Office Rent,Actual,54672.53
+2023-10-01,Marketing,Travel & Entertainment,Actual,15699.88
+2023-10-01,Marketing,Professional Services,Actual,27601.3
+2023-10-01,Marketing,Utilities,Actual,69346.3
+2023-10-01,Marketing,Depreciation,Actual,113215.86
+2023-10-01,Operations,Product Cost,Actual,103502.64
+2023-10-01,Operations,Freight In,Actual,20010.65
+2023-10-01,Operations,Packaging,Actual,113467.66
+2023-10-01,Operations,Salaries,Actual,90553.42
+2023-10-01,Operations,Marketing Spend,Actual,102871.13
+2023-10-01,Operations,Software & SaaS,Actual,75324.0
+2023-10-01,Operations,Office Rent,Actual,42272.89
+2023-10-01,Operations,Travel & Entertainment,Actual,57642.56
+2023-10-01,Operations,Professional Services,Actual,67627.1
+2023-10-01,Operations,Utilities,Actual,126685.37
+2023-10-01,Operations,Depreciation,Actual,28874.73
+2023-10-01,Finance,Product Cost,Actual,119248.47
+2023-10-01,Finance,Freight In,Actual,102093.99
+2023-10-01,Finance,Packaging,Actual,93897.37
+2023-10-01,Finance,Salaries,Actual,39837.51
+2023-10-01,Finance,Marketing Spend,Actual,60197.21
+2023-10-01,Finance,Software & SaaS,Actual,81792.13
+2023-10-01,Finance,Office Rent,Actual,58678.72
+2023-10-01,Finance,Travel & Entertainment,Actual,46037.97
+2023-10-01,Finance,Professional Services,Actual,73287.36
+2023-10-01,Finance,Utilities,Actual,106562.67
+2023-10-01,Finance,Depreciation,Actual,46076.76
+2023-10-01,HR,Product Cost,Actual,121466.38
+2023-10-01,HR,Freight In,Actual,12664.57
+2023-10-01,HR,Packaging,Actual,101991.48
+2023-10-01,HR,Salaries,Actual,126907.77
+2023-10-01,HR,Marketing Spend,Actual,36629.19
+2023-10-01,HR,Software & SaaS,Actual,80838.64
+2023-10-01,HR,Office Rent,Actual,14873.76
+2023-10-01,HR,Travel & Entertainment,Actual,60337.08
+2023-10-01,HR,Professional Services,Actual,25576.5
+2023-10-01,HR,Utilities,Actual,28305.88
+2023-10-01,HR,Depreciation,Actual,98663.58
+2023-10-01,IT,Product Cost,Actual,56099.3
+2023-10-01,IT,Freight In,Actual,147540.65
+2023-10-01,IT,Packaging,Actual,10526.03
+2023-10-01,IT,Salaries,Actual,11222.59
+2023-10-01,IT,Marketing Spend,Actual,133959.79
+2023-10-01,IT,Software & SaaS,Actual,79265.72
+2023-10-01,IT,Office Rent,Actual,89097.65
+2023-10-01,IT,Travel & Entertainment,Actual,62144.86
+2023-10-01,IT,Professional Services,Actual,61795.44
+2023-10-01,IT,Utilities,Actual,86303.73
+2023-10-01,IT,Depreciation,Actual,85758.74
+2023-10-01,Customer Service,Product Cost,Actual,131427.08
+2023-10-01,Customer Service,Freight In,Actual,106043.56
+2023-10-01,Customer Service,Packaging,Actual,90355.39
+2023-10-01,Customer Service,Salaries,Actual,80176.38
+2023-10-01,Customer Service,Marketing Spend,Actual,35583.12
+2023-10-01,Customer Service,Software & SaaS,Actual,115807.64
+2023-10-01,Customer Service,Office Rent,Actual,41776.13
+2023-10-01,Customer Service,Travel & Entertainment,Actual,91220.4
+2023-10-01,Customer Service,Professional Services,Actual,13075.65
+2023-10-01,Customer Service,Utilities,Actual,16228.1
+2023-10-01,Customer Service,Depreciation,Actual,66133.68
+2023-11-01,Sales,Product Sales,Actual,93019.15
+2023-11-01,Sales,Service Revenue,Actual,143196.4
+2023-11-01,Sales,Shipping Revenue,Actual,28577.33
+2023-11-01,Sales,Product Cost,Actual,61799.7
+2023-11-01,Sales,Freight In,Actual,104115.29
+2023-11-01,Sales,Packaging,Actual,98044.37
+2023-11-01,Sales,Salaries,Actual,52039.14
+2023-11-01,Sales,Marketing Spend,Actual,93771.17
+2023-11-01,Sales,Software & SaaS,Actual,38137.35
+2023-11-01,Sales,Office Rent,Actual,15540.34
+2023-11-01,Sales,Travel & Entertainment,Actual,129349.18
+2023-11-01,Sales,Professional Services,Actual,23368.4
+2023-11-01,Sales,Utilities,Actual,62691.74
+2023-11-01,Sales,Depreciation,Actual,118594.01
+2023-11-01,Marketing,Product Cost,Actual,75503.73
+2023-11-01,Marketing,Freight In,Actual,16059.88
+2023-11-01,Marketing,Packaging,Actual,125594.06
+2023-11-01,Marketing,Salaries,Actual,31436.16
+2023-11-01,Marketing,Marketing Spend,Actual,60363.86
+2023-11-01,Marketing,Software & SaaS,Actual,15590.31
+2023-11-01,Marketing,Office Rent,Actual,100750.18
+2023-11-01,Marketing,Travel & Entertainment,Actual,88348.32
+2023-11-01,Marketing,Professional Services,Actual,88718.62
+2023-11-01,Marketing,Utilities,Actual,115527.6
+2023-11-01,Marketing,Depreciation,Actual,108371.01
+2023-11-01,Operations,Product Cost,Actual,39002.76
+2023-11-01,Operations,Freight In,Actual,83444.56
+2023-11-01,Operations,Packaging,Actual,31539.16
+2023-11-01,Operations,Salaries,Actual,113181.94
+2023-11-01,Operations,Marketing Spend,Actual,95566.96
+2023-11-01,Operations,Software & SaaS,Actual,83033.21
+2023-11-01,Operations,Office Rent,Actual,51432.07
+2023-11-01,Operations,Travel & Entertainment,Actual,40664.54
+2023-11-01,Operations,Professional Services,Actual,17410.38
+2023-11-01,Operations,Utilities,Actual,67562.41
+2023-11-01,Operations,Depreciation,Actual,96548.98
+2023-11-01,Finance,Product Cost,Actual,65863.18
+2023-11-01,Finance,Freight In,Actual,101878.6
+2023-11-01,Finance,Packaging,Actual,45230.78
+2023-11-01,Finance,Salaries,Actual,15095.2
+2023-11-01,Finance,Marketing Spend,Actual,70585.75
+2023-11-01,Finance,Software & SaaS,Actual,13472.13
+2023-11-01,Finance,Office Rent,Actual,52526.19
+2023-11-01,Finance,Travel & Entertainment,Actual,97979.59
+2023-11-01,Finance,Professional Services,Actual,95197.09
+2023-11-01,Finance,Utilities,Actual,60990.57
+2023-11-01,Finance,Depreciation,Actual,71101.92
+2023-11-01,HR,Product Cost,Actual,16079.07
+2023-11-01,HR,Freight In,Actual,82868.78
+2023-11-01,HR,Packaging,Actual,18339.16
+2023-11-01,HR,Salaries,Actual,61796.57
+2023-11-01,HR,Marketing Spend,Actual,86120.63
+2023-11-01,HR,Software & SaaS,Actual,86686.67
+2023-11-01,HR,Office Rent,Actual,77891.13
+2023-11-01,HR,Travel & Entertainment,Actual,89033.84
+2023-11-01,HR,Professional Services,Actual,102504.5
+2023-11-01,HR,Utilities,Actual,44480.51
+2023-11-01,HR,Depreciation,Actual,76020.56
+2023-11-01,IT,Product Cost,Actual,84111.61
+2023-11-01,IT,Freight In,Actual,19888.24
+2023-11-01,IT,Packaging,Actual,59276.38
+2023-11-01,IT,Salaries,Actual,91866.73
+2023-11-01,IT,Marketing Spend,Actual,44347.67
+2023-11-01,IT,Software & SaaS,Actual,67291.2
+2023-11-01,IT,Office Rent,Actual,22275.19
+2023-11-01,IT,Travel & Entertainment,Actual,53060.53
+2023-11-01,IT,Professional Services,Actual,62632.11
+2023-11-01,IT,Utilities,Actual,101954.36
+2023-11-01,IT,Depreciation,Actual,132788.11
+2023-11-01,Customer Service,Product Cost,Actual,21768.55
+2023-11-01,Customer Service,Freight In,Actual,114508.68
+2023-11-01,Customer Service,Packaging,Actual,116350.01
+2023-11-01,Customer Service,Salaries,Actual,20414.4
+2023-11-01,Customer Service,Marketing Spend,Actual,59365.42
+2023-11-01,Customer Service,Software & SaaS,Actual,102323.89
+2023-11-01,Customer Service,Office Rent,Actual,86729.54
+2023-11-01,Customer Service,Travel & Entertainment,Actual,119115.66
+2023-11-01,Customer Service,Professional Services,Actual,107113.27
+2023-11-01,Customer Service,Utilities,Actual,102660.17
+2023-11-01,Customer Service,Depreciation,Actual,62191.15
+2023-12-01,Sales,Product Sales,Actual,56359.13
+2023-12-01,Sales,Service Revenue,Actual,87808.78
+2023-12-01,Sales,Shipping Revenue,Actual,28471.27
+2023-12-01,Sales,Product Cost,Actual,64270.04
+2023-12-01,Sales,Freight In,Actual,105176.91
+2023-12-01,Sales,Packaging,Actual,65398.37
+2023-12-01,Sales,Salaries,Actual,25604.45
+2023-12-01,Sales,Marketing Spend,Actual,51027.38
+2023-12-01,Sales,Software & SaaS,Actual,52926.11
+2023-12-01,Sales,Office Rent,Actual,51082.64
+2023-12-01,Sales,Travel & Entertainment,Actual,56708.09
+2023-12-01,Sales,Professional Services,Actual,110335.81
+2023-12-01,Sales,Utilities,Actual,113685.17
+2023-12-01,Sales,Depreciation,Actual,29419.58
+2023-12-01,Marketing,Product Cost,Actual,78823.54
+2023-12-01,Marketing,Freight In,Actual,80317.08
+2023-12-01,Marketing,Packaging,Actual,94691.13
+2023-12-01,Marketing,Salaries,Actual,73679.77
+2023-12-01,Marketing,Marketing Spend,Actual,91361.13
+2023-12-01,Marketing,Software & SaaS,Actual,49131.01
+2023-12-01,Marketing,Office Rent,Actual,42797.15
+2023-12-01,Marketing,Travel & Entertainment,Actual,32942.44
+2023-12-01,Marketing,Professional Services,Actual,98426.12
+2023-12-01,Marketing,Utilities,Actual,50257.17
+2023-12-01,Marketing,Depreciation,Actual,72709.57
+2023-12-01,Operations,Product Cost,Actual,127844.09
+2023-12-01,Operations,Freight In,Actual,87158.25
+2023-12-01,Operations,Packaging,Actual,74308.86
+2023-12-01,Operations,Salaries,Actual,79312.49
+2023-12-01,Operations,Marketing Spend,Actual,13216.11
+2023-12-01,Operations,Software & SaaS,Actual,78939.83
+2023-12-01,Operations,Office Rent,Actual,87295.82
+2023-12-01,Operations,Travel & Entertainment,Actual,133049.48
+2023-12-01,Operations,Professional Services,Actual,96690.12
+2023-12-01,Operations,Utilities,Actual,49376.03
+2023-12-01,Operations,Depreciation,Actual,72672.5
+2023-12-01,Finance,Product Cost,Actual,81770.5
+2023-12-01,Finance,Freight In,Actual,81385.87
+2023-12-01,Finance,Packaging,Actual,42253.78
+2023-12-01,Finance,Salaries,Actual,41864.62
+2023-12-01,Finance,Marketing Spend,Actual,76335.84
+2023-12-01,Finance,Software & SaaS,Actual,113408.59
+2023-12-01,Finance,Office Rent,Actual,97122.72
+2023-12-01,Finance,Travel & Entertainment,Actual,67042.96
+2023-12-01,Finance,Professional Services,Actual,67755.08
+2023-12-01,Finance,Utilities,Actual,124469.05
+2023-12-01,Finance,Depreciation,Actual,116014.79
+2023-12-01,HR,Product Cost,Actual,93604.66
+2023-12-01,HR,Freight In,Actual,99238.98
+2023-12-01,HR,Packaging,Actual,126624.88
+2023-12-01,HR,Salaries,Actual,51869.27
+2023-12-01,HR,Marketing Spend,Actual,101297.48
+2023-12-01,HR,Software & SaaS,Actual,14119.7
+2023-12-01,HR,Office Rent,Actual,50403.19
+2023-12-01,HR,Travel & Entertainment,Actual,14970.43
+2023-12-01,HR,Professional Services,Actual,28567.51
+2023-12-01,HR,Utilities,Actual,82705.18
+2023-12-01,HR,Depreciation,Actual,71260.76
+2023-12-01,IT,Product Cost,Actual,100145.64
+2023-12-01,IT,Freight In,Actual,92125.68
+2023-12-01,IT,Packaging,Actual,81146.54
+2023-12-01,IT,Salaries,Actual,58029.2
+2023-12-01,IT,Marketing Spend,Actual,61718.06
+2023-12-01,IT,Software & SaaS,Actual,49372.8
+2023-12-01,IT,Office Rent,Actual,22235.41
+2023-12-01,IT,Travel & Entertainment,Actual,124005.14
+2023-12-01,IT,Professional Services,Actual,15141.78
+2023-12-01,IT,Utilities,Actual,71157.14
+2023-12-01,IT,Depreciation,Actual,18277.99
+2023-12-01,Customer Service,Product Cost,Actual,23115.04
+2023-12-01,Customer Service,Freight In,Actual,86455.04
+2023-12-01,Customer Service,Packaging,Actual,27504.05
+2023-12-01,Customer Service,Salaries,Actual,14084.0
+2023-12-01,Customer Service,Marketing Spend,Actual,48813.67
+2023-12-01,Customer Service,Software & SaaS,Actual,12016.73
+2023-12-01,Customer Service,Office Rent,Actual,42528.09
+2023-12-01,Customer Service,Travel & Entertainment,Actual,58725.76
+2023-12-01,Customer Service,Professional Services,Actual,142176.03
+2023-12-01,Customer Service,Utilities,Actual,75334.13
+2023-12-01,Customer Service,Depreciation,Actual,109730.48
+2024-01-01,Sales,Product Sales,Actual,155726.73
+2024-01-01,Sales,Service Revenue,Actual,29037.97
+2024-01-01,Sales,Shipping Revenue,Actual,66984.38
+2024-01-01,Sales,Product Cost,Actual,98213.49
+2024-01-01,Sales,Freight In,Actual,85483.36
+2024-01-01,Sales,Packaging,Actual,119224.74
+2024-01-01,Sales,Salaries,Actual,45641.97
+2024-01-01,Sales,Marketing Spend,Actual,27975.35
+2024-01-01,Sales,Software & SaaS,Actual,42609.39
+2024-01-01,Sales,Office Rent,Actual,26344.03
+2024-01-01,Sales,Travel & Entertainment,Actual,26169.31
+2024-01-01,Sales,Professional Services,Actual,70502.45
+2024-01-01,Sales,Utilities,Actual,33680.77
+2024-01-01,Sales,Depreciation,Actual,120955.35
+2024-01-01,Marketing,Product Cost,Actual,100161.9
+2024-01-01,Marketing,Freight In,Actual,23844.57
+2024-01-01,Marketing,Packaging,Actual,27283.15
+2024-01-01,Marketing,Salaries,Actual,22037.33
+2024-01-01,Marketing,Marketing Spend,Actual,14802.04
+2024-01-01,Marketing,Software & SaaS,Actual,41806.53
+2024-01-01,Marketing,Office Rent,Actual,44881.41
+2024-01-01,Marketing,Travel & Entertainment,Actual,32394.36
+2024-01-01,Marketing,Professional Services,Actual,99757.29
+2024-01-01,Marketing,Utilities,Actual,15289.36
+2024-01-01,Marketing,Depreciation,Actual,129228.73
+2024-01-01,Operations,Product Cost,Actual,28535.16
+2024-01-01,Operations,Freight In,Actual,21904.77
+2024-01-01,Operations,Packaging,Actual,23127.51
+2024-01-01,Operations,Salaries,Actual,91948.89
+2024-01-01,Operations,Marketing Spend,Actual,68145.94
+2024-01-01,Operations,Software & SaaS,Actual,122902.4
+2024-01-01,Operations,Office Rent,Actual,65331.59
+2024-01-01,Operations,Travel & Entertainment,Actual,9538.87
+2024-01-01,Operations,Professional Services,Actual,99478.85
+2024-01-01,Operations,Utilities,Actual,37385.37
+2024-01-01,Operations,Depreciation,Actual,42595.61
+2024-01-01,Finance,Product Cost,Actual,20189.62
+2024-01-01,Finance,Freight In,Actual,42687.15
+2024-01-01,Finance,Packaging,Actual,68928.42
+2024-01-01,Finance,Salaries,Actual,100440.49
+2024-01-01,Finance,Marketing Spend,Actual,89031.19
+2024-01-01,Finance,Software & SaaS,Actual,29440.23
+2024-01-01,Finance,Office Rent,Actual,28683.56
+2024-01-01,Finance,Travel & Entertainment,Actual,27241.05
+2024-01-01,Finance,Professional Services,Actual,24334.07
+2024-01-01,Finance,Utilities,Actual,90127.98
+2024-01-01,Finance,Depreciation,Actual,83373.59
+2024-01-01,HR,Product Cost,Actual,89520.13
+2024-01-01,HR,Freight In,Actual,90706.97
+2024-01-01,HR,Packaging,Actual,98250.4
+2024-01-01,HR,Salaries,Actual,37804.2
+2024-01-01,HR,Marketing Spend,Actual,112767.51
+2024-01-01,HR,Software & SaaS,Actual,114575.8
+2024-01-01,HR,Office Rent,Actual,26122.04
+2024-01-01,HR,Travel & Entertainment,Actual,52596.24
+2024-01-01,HR,Professional Services,Actual,42659.99
+2024-01-01,HR,Utilities,Actual,109421.78
+2024-01-01,HR,Depreciation,Actual,102724.89
+2024-01-01,IT,Product Cost,Actual,27576.29
+2024-01-01,IT,Freight In,Actual,75823.7
+2024-01-01,IT,Packaging,Actual,103829.5
+2024-01-01,IT,Salaries,Actual,105898.45
+2024-01-01,IT,Marketing Spend,Actual,98593.53
+2024-01-01,IT,Software & SaaS,Actual,93281.19
+2024-01-01,IT,Office Rent,Actual,63699.84
+2024-01-01,IT,Travel & Entertainment,Actual,114453.41
+2024-01-01,IT,Professional Services,Actual,15368.39
+2024-01-01,IT,Utilities,Actual,69874.14
+2024-01-01,IT,Depreciation,Actual,102677.88
+2024-01-01,Customer Service,Product Cost,Actual,116769.79
+2024-01-01,Customer Service,Freight In,Actual,57366.72
+2024-01-01,Customer Service,Packaging,Actual,121610.61
+2024-01-01,Customer Service,Salaries,Actual,45750.06
+2024-01-01,Customer Service,Marketing Spend,Actual,89013.57
+2024-01-01,Customer Service,Software & SaaS,Actual,58549.35
+2024-01-01,Customer Service,Office Rent,Actual,116068.04
+2024-01-01,Customer Service,Travel & Entertainment,Actual,41613.3
+2024-01-01,Customer Service,Professional Services,Actual,13624.69
+2024-01-01,Customer Service,Utilities,Actual,81161.19
+2024-01-01,Customer Service,Depreciation,Actual,11568.74
+2024-02-01,Sales,Product Sales,Actual,189451.32
+2024-02-01,Sales,Service Revenue,Actual,81272.93
+2024-02-01,Sales,Shipping Revenue,Actual,39707.3
+2024-02-01,Sales,Product Cost,Actual,70142.78
+2024-02-01,Sales,Freight In,Actual,100572.59
+2024-02-01,Sales,Packaging,Actual,86852.21
+2024-02-01,Sales,Salaries,Actual,105009.23
+2024-02-01,Sales,Marketing Spend,Actual,130065.38
+2024-02-01,Sales,Software & SaaS,Actual,79475.0
+2024-02-01,Sales,Office Rent,Actual,63946.56
+2024-02-01,Sales,Travel & Entertainment,Actual,14684.87
+2024-02-01,Sales,Professional Services,Actual,11040.15
+2024-02-01,Sales,Utilities,Actual,57814.43
+2024-02-01,Sales,Depreciation,Actual,43537.37
+2024-02-01,Marketing,Product Cost,Actual,48696.0
+2024-02-01,Marketing,Freight In,Actual,61109.69
+2024-02-01,Marketing,Packaging,Actual,141050.49
+2024-02-01,Marketing,Salaries,Actual,85987.48
+2024-02-01,Marketing,Marketing Spend,Actual,72688.22
+2024-02-01,Marketing,Software & SaaS,Actual,14138.96
+2024-02-01,Marketing,Office Rent,Actual,46235.6
+2024-02-01,Marketing,Travel & Entertainment,Actual,100377.95
+2024-02-01,Marketing,Professional Services,Actual,21770.42
+2024-02-01,Marketing,Utilities,Actual,35630.71
+2024-02-01,Marketing,Depreciation,Actual,85413.72
+2024-02-01,Operations,Product Cost,Actual,55577.05
+2024-02-01,Operations,Freight In,Actual,39186.73
+2024-02-01,Operations,Packaging,Actual,91610.89
+2024-02-01,Operations,Salaries,Actual,40294.31
+2024-02-01,Operations,Marketing Spend,Actual,68509.8
+2024-02-01,Operations,Software & SaaS,Actual,139617.31
+2024-02-01,Operations,Office Rent,Actual,64103.12
+2024-02-01,Operations,Travel & Entertainment,Actual,32934.61
+2024-02-01,Operations,Professional Services,Actual,65783.67
+2024-02-01,Operations,Utilities,Actual,78543.97
+2024-02-01,Operations,Depreciation,Actual,81896.8
+2024-02-01,Finance,Product Cost,Actual,54456.32
+2024-02-01,Finance,Freight In,Actual,86959.55
+2024-02-01,Finance,Packaging,Actual,52917.18
+2024-02-01,Finance,Salaries,Actual,116037.24
+2024-02-01,Finance,Marketing Spend,Actual,93367.7
+2024-02-01,Finance,Software & SaaS,Actual,101124.02
+2024-02-01,Finance,Office Rent,Actual,76649.54
+2024-02-01,Finance,Travel & Entertainment,Actual,100916.25
+2024-02-01,Finance,Professional Services,Actual,97891.66
+2024-02-01,Finance,Utilities,Actual,19602.7
+2024-02-01,Finance,Depreciation,Actual,126198.29
+2024-02-01,HR,Product Cost,Actual,33062.04
+2024-02-01,HR,Freight In,Actual,41298.48
+2024-02-01,HR,Packaging,Actual,58666.57
+2024-02-01,HR,Salaries,Actual,23606.35
+2024-02-01,HR,Marketing Spend,Actual,73740.01
+2024-02-01,HR,Software & SaaS,Actual,32358.91
+2024-02-01,HR,Office Rent,Actual,103312.1
+2024-02-01,HR,Travel & Entertainment,Actual,49341.23
+2024-02-01,HR,Professional Services,Actual,45352.47
+2024-02-01,HR,Utilities,Actual,19802.26
+2024-02-01,HR,Depreciation,Actual,29631.43
+2024-02-01,IT,Product Cost,Actual,18971.99
+2024-02-01,IT,Freight In,Actual,9231.78
+2024-02-01,IT,Packaging,Actual,90751.14
+2024-02-01,IT,Salaries,Actual,77712.08
+2024-02-01,IT,Marketing Spend,Actual,68223.56
+2024-02-01,IT,Software & SaaS,Actual,80670.69
+2024-02-01,IT,Office Rent,Actual,56938.42
+2024-02-01,IT,Travel & Entertainment,Actual,139508.94
+2024-02-01,IT,Professional Services,Actual,114103.54
+2024-02-01,IT,Utilities,Actual,111200.92
+2024-02-01,IT,Depreciation,Actual,58106.58
+2024-02-01,Customer Service,Product Cost,Actual,29244.6
+2024-02-01,Customer Service,Freight In,Actual,78018.63
+2024-02-01,Customer Service,Packaging,Actual,108387.41
+2024-02-01,Customer Service,Salaries,Actual,120090.11
+2024-02-01,Customer Service,Marketing Spend,Actual,77785.6
+2024-02-01,Customer Service,Software & SaaS,Actual,72101.11
+2024-02-01,Customer Service,Office Rent,Actual,88122.61
+2024-02-01,Customer Service,Travel & Entertainment,Actual,61549.66
+2024-02-01,Customer Service,Professional Services,Actual,98567.16
+2024-02-01,Customer Service,Utilities,Actual,10979.85
+2024-02-01,Customer Service,Depreciation,Actual,72840.26
+2024-03-01,Sales,Product Sales,Actual,21635.78
+2024-03-01,Sales,Service Revenue,Actual,100931.36
+2024-03-01,Sales,Shipping Revenue,Actual,173041.41
+2024-03-01,Sales,Product Cost,Actual,121675.73
+2024-03-01,Sales,Freight In,Actual,119503.62
+2024-03-01,Sales,Packaging,Actual,106813.7
+2024-03-01,Sales,Salaries,Actual,88226.99
+2024-03-01,Sales,Marketing Spend,Actual,110858.1
+2024-03-01,Sales,Software & SaaS,Actual,18066.92
+2024-03-01,Sales,Office Rent,Actual,31529.19
+2024-03-01,Sales,Travel & Entertainment,Actual,59338.39
+2024-03-01,Sales,Professional Services,Actual,48696.11
+2024-03-01,Sales,Utilities,Actual,123332.57
+2024-03-01,Sales,Depreciation,Actual,16950.02
+2024-03-01,Marketing,Product Cost,Actual,103586.79
+2024-03-01,Marketing,Freight In,Actual,124928.64
+2024-03-01,Marketing,Packaging,Actual,18544.94
+2024-03-01,Marketing,Salaries,Actual,55330.12
+2024-03-01,Marketing,Marketing Spend,Actual,139632.02
+2024-03-01,Marketing,Software & SaaS,Actual,94628.13
+2024-03-01,Marketing,Office Rent,Actual,19454.5
+2024-03-01,Marketing,Travel & Entertainment,Actual,30642.77
+2024-03-01,Marketing,Professional Services,Actual,104515.99
+2024-03-01,Marketing,Utilities,Actual,90011.09
+2024-03-01,Marketing,Depreciation,Actual,89799.0
+2024-03-01,Operations,Product Cost,Actual,62081.53
+2024-03-01,Operations,Freight In,Actual,8288.09
+2024-03-01,Operations,Packaging,Actual,21594.59
+2024-03-01,Operations,Salaries,Actual,83297.11
+2024-03-01,Operations,Marketing Spend,Actual,129640.38
+2024-03-01,Operations,Software & SaaS,Actual,24805.37
+2024-03-01,Operations,Office Rent,Actual,85888.06
+2024-03-01,Operations,Travel & Entertainment,Actual,31833.72
+2024-03-01,Operations,Professional Services,Actual,76349.55
+2024-03-01,Operations,Utilities,Actual,45334.27
+2024-03-01,Operations,Depreciation,Actual,29857.38
+2024-03-01,Finance,Product Cost,Actual,49716.94
+2024-03-01,Finance,Freight In,Actual,103505.71
+2024-03-01,Finance,Packaging,Actual,109548.69
+2024-03-01,Finance,Salaries,Actual,21795.94
+2024-03-01,Finance,Marketing Spend,Actual,78769.42
+2024-03-01,Finance,Software & SaaS,Actual,22902.71
+2024-03-01,Finance,Office Rent,Actual,117088.1
+2024-03-01,Finance,Travel & Entertainment,Actual,16158.9
+2024-03-01,Finance,Professional Services,Actual,11079.36
+2024-03-01,Finance,Utilities,Actual,114326.09
+2024-03-01,Finance,Depreciation,Actual,13890.69
+2024-03-01,HR,Product Cost,Actual,77587.04
+2024-03-01,HR,Freight In,Actual,27821.97
+2024-03-01,HR,Packaging,Actual,63592.52
+2024-03-01,HR,Salaries,Actual,61773.17
+2024-03-01,HR,Marketing Spend,Actual,76840.67
+2024-03-01,HR,Software & SaaS,Actual,50600.77
+2024-03-01,HR,Office Rent,Actual,58793.18
+2024-03-01,HR,Travel & Entertainment,Actual,79033.98
+2024-03-01,HR,Professional Services,Actual,19650.85
+2024-03-01,HR,Utilities,Actual,50009.26
+2024-03-01,HR,Depreciation,Actual,70105.08
+2024-03-01,IT,Product Cost,Actual,57225.48
+2024-03-01,IT,Freight In,Actual,72453.63
+2024-03-01,IT,Packaging,Actual,29375.69
+2024-03-01,IT,Salaries,Actual,49340.62
+2024-03-01,IT,Marketing Spend,Actual,27179.0
+2024-03-01,IT,Software & SaaS,Actual,23260.57
+2024-03-01,IT,Office Rent,Actual,104993.12
+2024-03-01,IT,Travel & Entertainment,Actual,81116.72
+2024-03-01,IT,Professional Services,Actual,37452.17
+2024-03-01,IT,Utilities,Actual,105404.6
+2024-03-01,IT,Depreciation,Actual,45904.29
+2024-03-01,Customer Service,Product Cost,Actual,97644.79
+2024-03-01,Customer Service,Freight In,Actual,29181.23
+2024-03-01,Customer Service,Packaging,Actual,125362.13
+2024-03-01,Customer Service,Salaries,Actual,92826.27
+2024-03-01,Customer Service,Marketing Spend,Actual,116913.16
+2024-03-01,Customer Service,Software & SaaS,Actual,106272.56
+2024-03-01,Customer Service,Office Rent,Actual,73417.72
+2024-03-01,Customer Service,Travel & Entertainment,Actual,70439.27
+2024-03-01,Customer Service,Professional Services,Actual,85503.74
+2024-03-01,Customer Service,Utilities,Actual,57816.11
+2024-03-01,Customer Service,Depreciation,Actual,124238.51
+2024-04-01,Sales,Product Sales,Actual,177046.66
+2024-04-01,Sales,Service Revenue,Actual,91136.9
+2024-04-01,Sales,Shipping Revenue,Actual,127840.01
+2024-04-01,Sales,Product Cost,Actual,19034.2
+2024-04-01,Sales,Freight In,Actual,98871.76
+2024-04-01,Sales,Packaging,Actual,99867.19
+2024-04-01,Sales,Salaries,Actual,35219.98
+2024-04-01,Sales,Marketing Spend,Actual,53683.59
+2024-04-01,Sales,Software & SaaS,Actual,76798.83
+2024-04-01,Sales,Office Rent,Actual,97111.51
+2024-04-01,Sales,Travel & Entertainment,Actual,51620.56
+2024-04-01,Sales,Professional Services,Actual,29233.92
+2024-04-01,Sales,Utilities,Actual,90592.53
+2024-04-01,Sales,Depreciation,Actual,87834.2
+2024-04-01,Marketing,Product Cost,Actual,86603.09
+2024-04-01,Marketing,Freight In,Actual,31491.53
+2024-04-01,Marketing,Packaging,Actual,146835.71
+2024-04-01,Marketing,Salaries,Actual,46973.87
+2024-04-01,Marketing,Marketing Spend,Actual,54453.4
+2024-04-01,Marketing,Software & SaaS,Actual,67179.97
+2024-04-01,Marketing,Office Rent,Actual,43851.85
+2024-04-01,Marketing,Travel & Entertainment,Actual,66063.25
+2024-04-01,Marketing,Professional Services,Actual,56581.22
+2024-04-01,Marketing,Utilities,Actual,142707.74
+2024-04-01,Marketing,Depreciation,Actual,94308.07
+2024-04-01,Operations,Product Cost,Actual,19194.77
+2024-04-01,Operations,Freight In,Actual,117672.96
+2024-04-01,Operations,Packaging,Actual,102448.28
+2024-04-01,Operations,Salaries,Actual,33783.77
+2024-04-01,Operations,Marketing Spend,Actual,133356.95
+2024-04-01,Operations,Software & SaaS,Actual,22130.09
+2024-04-01,Operations,Office Rent,Actual,134540.92
+2024-04-01,Operations,Travel & Entertainment,Actual,103280.85
+2024-04-01,Operations,Professional Services,Actual,30379.01
+2024-04-01,Operations,Utilities,Actual,96424.67
+2024-04-01,Operations,Depreciation,Actual,69544.12
+2024-04-01,Finance,Product Cost,Actual,82322.47
+2024-04-01,Finance,Freight In,Actual,39956.59
+2024-04-01,Finance,Packaging,Actual,34446.56
+2024-04-01,Finance,Salaries,Actual,41659.09
+2024-04-01,Finance,Marketing Spend,Actual,78086.72
+2024-04-01,Finance,Software & SaaS,Actual,12035.66
+2024-04-01,Finance,Office Rent,Actual,129151.64
+2024-04-01,Finance,Travel & Entertainment,Actual,36555.71
+2024-04-01,Finance,Professional Services,Actual,18535.47
+2024-04-01,Finance,Utilities,Actual,16147.3
+2024-04-01,Finance,Depreciation,Actual,46258.52
+2024-04-01,HR,Product Cost,Actual,137230.13
+2024-04-01,HR,Freight In,Actual,59779.58
+2024-04-01,HR,Packaging,Actual,24511.42
+2024-04-01,HR,Salaries,Actual,70474.99
+2024-04-01,HR,Marketing Spend,Actual,47259.86
+2024-04-01,HR,Software & SaaS,Actual,90451.09
+2024-04-01,HR,Office Rent,Actual,122196.69
+2024-04-01,HR,Travel & Entertainment,Actual,81080.41
+2024-04-01,HR,Professional Services,Actual,53122.55
+2024-04-01,HR,Utilities,Actual,15199.82
+2024-04-01,HR,Depreciation,Actual,95661.71
+2024-04-01,IT,Product Cost,Actual,36839.23
+2024-04-01,IT,Freight In,Actual,86221.23
+2024-04-01,IT,Packaging,Actual,14427.22
+2024-04-01,IT,Salaries,Actual,84665.75
+2024-04-01,IT,Marketing Spend,Actual,103011.71
+2024-04-01,IT,Software & SaaS,Actual,100272.89
+2024-04-01,IT,Office Rent,Actual,52466.99
+2024-04-01,IT,Travel & Entertainment,Actual,89792.63
+2024-04-01,IT,Professional Services,Actual,100315.38
+2024-04-01,IT,Utilities,Actual,73007.57
+2024-04-01,IT,Depreciation,Actual,69276.45
+2024-04-01,Customer Service,Product Cost,Actual,131819.33
+2024-04-01,Customer Service,Freight In,Actual,101924.22
+2024-04-01,Customer Service,Packaging,Actual,115034.86
+2024-04-01,Customer Service,Salaries,Actual,36851.51
+2024-04-01,Customer Service,Marketing Spend,Actual,64724.69
+2024-04-01,Customer Service,Software & SaaS,Actual,62904.49
+2024-04-01,Customer Service,Office Rent,Actual,71029.91
+2024-04-01,Customer Service,Travel & Entertainment,Actual,15234.08
+2024-04-01,Customer Service,Professional Services,Actual,78587.07
+2024-04-01,Customer Service,Utilities,Actual,72161.79
+2024-04-01,Customer Service,Depreciation,Actual,96302.18
+2024-05-01,Sales,Product Sales,Actual,71750.02
+2024-05-01,Sales,Service Revenue,Actual,37745.29
+2024-05-01,Sales,Shipping Revenue,Actual,76660.1
+2024-05-01,Sales,Product Cost,Actual,24726.93
+2024-05-01,Sales,Freight In,Actual,40585.0
+2024-05-01,Sales,Packaging,Actual,105446.03
+2024-05-01,Sales,Salaries,Actual,124342.12
+2024-05-01,Sales,Marketing Spend,Actual,24749.41
+2024-05-01,Sales,Software & SaaS,Actual,12713.31
+2024-05-01,Sales,Office Rent,Actual,89918.75
+2024-05-01,Sales,Travel & Entertainment,Actual,128095.92
+2024-05-01,Sales,Professional Services,Actual,12063.13
+2024-05-01,Sales,Utilities,Actual,104728.68
+2024-05-01,Sales,Depreciation,Actual,94803.89
+2024-05-01,Marketing,Product Cost,Actual,113537.91
+2024-05-01,Marketing,Freight In,Actual,58588.39
+2024-05-01,Marketing,Packaging,Actual,44367.01
+2024-05-01,Marketing,Salaries,Actual,68023.04
+2024-05-01,Marketing,Marketing Spend,Actual,49443.33
+2024-05-01,Marketing,Software & SaaS,Actual,59587.58
+2024-05-01,Marketing,Office Rent,Actual,29644.65
+2024-05-01,Marketing,Travel & Entertainment,Actual,23124.33
+2024-05-01,Marketing,Professional Services,Actual,88211.93
+2024-05-01,Marketing,Utilities,Actual,83554.25
+2024-05-01,Marketing,Depreciation,Actual,106246.37
+2024-05-01,Operations,Product Cost,Actual,69425.96
+2024-05-01,Operations,Freight In,Actual,131382.09
+2024-05-01,Operations,Packaging,Actual,86763.24
+2024-05-01,Operations,Salaries,Actual,106453.0
+2024-05-01,Operations,Marketing Spend,Actual,56170.68
+2024-05-01,Operations,Software & SaaS,Actual,24426.62
+2024-05-01,Operations,Office Rent,Actual,86913.74
+2024-05-01,Operations,Travel & Entertainment,Actual,85614.66
+2024-05-01,Operations,Professional Services,Actual,52864.79
+2024-05-01,Operations,Utilities,Actual,93094.75
+2024-05-01,Operations,Depreciation,Actual,46481.47
+2024-05-01,Finance,Product Cost,Actual,81202.4
+2024-05-01,Finance,Freight In,Actual,72783.02
+2024-05-01,Finance,Packaging,Actual,81310.64
+2024-05-01,Finance,Salaries,Actual,57460.54
+2024-05-01,Finance,Marketing Spend,Actual,35301.86
+2024-05-01,Finance,Software & SaaS,Actual,63689.94
+2024-05-01,Finance,Office Rent,Actual,78854.91
+2024-05-01,Finance,Travel & Entertainment,Actual,59629.05
+2024-05-01,Finance,Professional Services,Actual,78555.56
+2024-05-01,Finance,Utilities,Actual,87010.19
+2024-05-01,Finance,Depreciation,Actual,78286.94
+2024-05-01,HR,Product Cost,Actual,33374.9
+2024-05-01,HR,Freight In,Actual,84599.01
+2024-05-01,HR,Packaging,Actual,68547.61
+2024-05-01,HR,Salaries,Actual,26333.81
+2024-05-01,HR,Marketing Spend,Actual,33136.2
+2024-05-01,HR,Software & SaaS,Actual,31568.52
+2024-05-01,HR,Office Rent,Actual,22028.23
+2024-05-01,HR,Travel & Entertainment,Actual,140298.54
+2024-05-01,HR,Professional Services,Actual,42444.44
+2024-05-01,HR,Utilities,Actual,92226.38
+2024-05-01,HR,Depreciation,Actual,26587.8
+2024-05-01,IT,Product Cost,Actual,31506.01
+2024-05-01,IT,Freight In,Actual,50162.0
+2024-05-01,IT,Packaging,Actual,47184.58
+2024-05-01,IT,Salaries,Actual,38853.39
+2024-05-01,IT,Marketing Spend,Actual,36370.81
+2024-05-01,IT,Software & SaaS,Actual,50782.5
+2024-05-01,IT,Office Rent,Actual,39824.02
+2024-05-01,IT,Travel & Entertainment,Actual,55122.57
+2024-05-01,IT,Professional Services,Actual,73787.35
+2024-05-01,IT,Utilities,Actual,27667.9
+2024-05-01,IT,Depreciation,Actual,63268.51
+2024-05-01,Customer Service,Product Cost,Actual,76570.7
+2024-05-01,Customer Service,Freight In,Actual,73218.2
+2024-05-01,Customer Service,Packaging,Actual,77937.6
+2024-05-01,Customer Service,Salaries,Actual,143372.84
+2024-05-01,Customer Service,Marketing Spend,Actual,109907.77
+2024-05-01,Customer Service,Software & SaaS,Actual,116628.29
+2024-05-01,Customer Service,Office Rent,Actual,38142.14
+2024-05-01,Customer Service,Travel & Entertainment,Actual,93521.08
+2024-05-01,Customer Service,Professional Services,Actual,100071.44
+2024-05-01,Customer Service,Utilities,Actual,53034.11
+2024-05-01,Customer Service,Depreciation,Actual,63493.91
+2024-06-01,Sales,Product Sales,Actual,37023.09
+2024-06-01,Sales,Service Revenue,Actual,51147.93
+2024-06-01,Sales,Shipping Revenue,Actual,29982.64
+2024-06-01,Sales,Product Cost,Actual,63015.89
+2024-06-01,Sales,Freight In,Actual,113577.04
+2024-06-01,Sales,Packaging,Actual,28709.4
+2024-06-01,Sales,Salaries,Actual,105770.64
+2024-06-01,Sales,Marketing Spend,Actual,68962.43
+2024-06-01,Sales,Software & SaaS,Actual,25306.78
+2024-06-01,Sales,Office Rent,Actual,108772.66
+2024-06-01,Sales,Travel & Entertainment,Actual,59495.92
+2024-06-01,Sales,Professional Services,Actual,65255.37
+2024-06-01,Sales,Utilities,Actual,28228.13
+2024-06-01,Sales,Depreciation,Actual,60052.51
+2024-06-01,Marketing,Product Cost,Actual,84889.43
+2024-06-01,Marketing,Freight In,Actual,88358.98
+2024-06-01,Marketing,Packaging,Actual,79688.99
+2024-06-01,Marketing,Salaries,Actual,99995.33
+2024-06-01,Marketing,Marketing Spend,Actual,120571.29
+2024-06-01,Marketing,Software & SaaS,Actual,63398.46
+2024-06-01,Marketing,Office Rent,Actual,104161.23
+2024-06-01,Marketing,Travel & Entertainment,Actual,118077.49
+2024-06-01,Marketing,Professional Services,Actual,123564.16
+2024-06-01,Marketing,Utilities,Actual,37713.0
+2024-06-01,Marketing,Depreciation,Actual,50690.75
+2024-06-01,Operations,Product Cost,Actual,27747.67
+2024-06-01,Operations,Freight In,Actual,106686.52
+2024-06-01,Operations,Packaging,Actual,79152.83
+2024-06-01,Operations,Salaries,Actual,122936.42
+2024-06-01,Operations,Marketing Spend,Actual,61046.96
+2024-06-01,Operations,Software & SaaS,Actual,112209.85
+2024-06-01,Operations,Office Rent,Actual,49300.71
+2024-06-01,Operations,Travel & Entertainment,Actual,13584.86
+2024-06-01,Operations,Professional Services,Actual,50945.59
+2024-06-01,Operations,Utilities,Actual,103988.33
+2024-06-01,Operations,Depreciation,Actual,113512.98
+2024-06-01,Finance,Product Cost,Actual,62664.28
+2024-06-01,Finance,Freight In,Actual,88005.62
+2024-06-01,Finance,Packaging,Actual,50228.94
+2024-06-01,Finance,Salaries,Actual,18532.83
+2024-06-01,Finance,Marketing Spend,Actual,39058.61
+2024-06-01,Finance,Software & SaaS,Actual,54544.27
+2024-06-01,Finance,Office Rent,Actual,78289.01
+2024-06-01,Finance,Travel & Entertainment,Actual,45451.34
+2024-06-01,Finance,Professional Services,Actual,89657.12
+2024-06-01,Finance,Utilities,Actual,111347.69
+2024-06-01,Finance,Depreciation,Actual,37852.46
+2024-06-01,HR,Product Cost,Actual,14278.81
+2024-06-01,HR,Freight In,Actual,14255.37
+2024-06-01,HR,Packaging,Actual,86053.53
+2024-06-01,HR,Salaries,Actual,32791.2
+2024-06-01,HR,Marketing Spend,Actual,16955.51
+2024-06-01,HR,Software & SaaS,Actual,119582.4
+2024-06-01,HR,Office Rent,Actual,78694.45
+2024-06-01,HR,Travel & Entertainment,Actual,31388.72
+2024-06-01,HR,Professional Services,Actual,99850.27
+2024-06-01,HR,Utilities,Actual,13642.82
+2024-06-01,HR,Depreciation,Actual,51850.58
+2024-06-01,IT,Product Cost,Actual,64598.48
+2024-06-01,IT,Freight In,Actual,51227.25
+2024-06-01,IT,Packaging,Actual,97191.56
+2024-06-01,IT,Salaries,Actual,107122.79
+2024-06-01,IT,Marketing Spend,Actual,82375.27
+2024-06-01,IT,Software & SaaS,Actual,44877.87
+2024-06-01,IT,Office Rent,Actual,53595.77
+2024-06-01,IT,Travel & Entertainment,Actual,59649.79
+2024-06-01,IT,Professional Services,Actual,32836.8
+2024-06-01,IT,Utilities,Actual,60478.12
+2024-06-01,IT,Depreciation,Actual,51890.74
+2024-06-01,Customer Service,Product Cost,Actual,108116.21
+2024-06-01,Customer Service,Freight In,Actual,25982.99
+2024-06-01,Customer Service,Packaging,Actual,33374.5
+2024-06-01,Customer Service,Salaries,Actual,107744.38
+2024-06-01,Customer Service,Marketing Spend,Actual,22102.29
+2024-06-01,Customer Service,Software & SaaS,Actual,50112.71
+2024-06-01,Customer Service,Office Rent,Actual,21001.96
+2024-06-01,Customer Service,Travel & Entertainment,Actual,17937.82
+2024-06-01,Customer Service,Professional Services,Actual,30041.52
+2024-06-01,Customer Service,Utilities,Actual,112928.08
+2024-06-01,Customer Service,Depreciation,Actual,72379.04
+2024-07-01,Sales,Product Sales,Actual,87033.77
+2024-07-01,Sales,Service Revenue,Actual,88449.86
+2024-07-01,Sales,Shipping Revenue,Actual,130717.69
+2024-07-01,Sales,Product Cost,Actual,125974.05
+2024-07-01,Sales,Freight In,Actual,55646.72
+2024-07-01,Sales,Packaging,Actual,113121.98
+2024-07-01,Sales,Salaries,Actual,108687.4
+2024-07-01,Sales,Marketing Spend,Actual,62615.43
+2024-07-01,Sales,Software & SaaS,Actual,50589.44
+2024-07-01,Sales,Office Rent,Actual,65911.92
+2024-07-01,Sales,Travel & Entertainment,Actual,62662.45
+2024-07-01,Sales,Professional Services,Actual,83588.14
+2024-07-01,Sales,Utilities,Actual,49147.99
+2024-07-01,Sales,Depreciation,Actual,18245.33
+2024-07-01,Marketing,Product Cost,Actual,34527.38
+2024-07-01,Marketing,Freight In,Actual,24283.84
+2024-07-01,Marketing,Packaging,Actual,26892.08
+2024-07-01,Marketing,Salaries,Actual,113629.6
+2024-07-01,Marketing,Marketing Spend,Actual,117199.31
+2024-07-01,Marketing,Software & SaaS,Actual,38447.76
+2024-07-01,Marketing,Office Rent,Actual,9634.43
+2024-07-01,Marketing,Travel & Entertainment,Actual,36800.22
+2024-07-01,Marketing,Professional Services,Actual,103923.4
+2024-07-01,Marketing,Utilities,Actual,37494.53
+2024-07-01,Marketing,Depreciation,Actual,31791.03
+2024-07-01,Operations,Product Cost,Actual,97760.82
+2024-07-01,Operations,Freight In,Actual,17516.36
+2024-07-01,Operations,Packaging,Actual,106626.78
+2024-07-01,Operations,Salaries,Actual,95224.47
+2024-07-01,Operations,Marketing Spend,Actual,52900.6
+2024-07-01,Operations,Software & SaaS,Actual,136859.8
+2024-07-01,Operations,Office Rent,Actual,55126.97
+2024-07-01,Operations,Travel & Entertainment,Actual,45458.0
+2024-07-01,Operations,Professional Services,Actual,16412.5
+2024-07-01,Operations,Utilities,Actual,132658.55
+2024-07-01,Operations,Depreciation,Actual,105133.89
+2024-07-01,Finance,Product Cost,Actual,52051.48
+2024-07-01,Finance,Freight In,Actual,97996.17
+2024-07-01,Finance,Packaging,Actual,83136.47
+2024-07-01,Finance,Salaries,Actual,12316.49
+2024-07-01,Finance,Marketing Spend,Actual,119788.77
+2024-07-01,Finance,Software & SaaS,Actual,41242.17
+2024-07-01,Finance,Office Rent,Actual,53771.34
+2024-07-01,Finance,Travel & Entertainment,Actual,69730.09
+2024-07-01,Finance,Professional Services,Actual,134789.58
+2024-07-01,Finance,Utilities,Actual,39819.1
+2024-07-01,Finance,Depreciation,Actual,56323.76
+2024-07-01,HR,Product Cost,Actual,66488.16
+2024-07-01,HR,Freight In,Actual,49463.7
+2024-07-01,HR,Packaging,Actual,48578.5
+2024-07-01,HR,Salaries,Actual,72062.27
+2024-07-01,HR,Marketing Spend,Actual,103214.18
+2024-07-01,HR,Software & SaaS,Actual,56489.89
+2024-07-01,HR,Office Rent,Actual,92357.87
+2024-07-01,HR,Travel & Entertainment,Actual,97491.57
+2024-07-01,HR,Professional Services,Actual,83304.47
+2024-07-01,HR,Utilities,Actual,41990.34
+2024-07-01,HR,Depreciation,Actual,27409.08
+2024-07-01,IT,Product Cost,Actual,39584.54
+2024-07-01,IT,Freight In,Actual,133436.65
+2024-07-01,IT,Packaging,Actual,103097.21
+2024-07-01,IT,Salaries,Actual,24710.56
+2024-07-01,IT,Marketing Spend,Actual,116559.32
+2024-07-01,IT,Software & SaaS,Actual,80969.39
+2024-07-01,IT,Office Rent,Actual,96118.12
+2024-07-01,IT,Travel & Entertainment,Actual,69897.84
+2024-07-01,IT,Professional Services,Actual,45281.63
+2024-07-01,IT,Utilities,Actual,136224.68
+2024-07-01,IT,Depreciation,Actual,100241.3
+2024-07-01,Customer Service,Product Cost,Actual,38675.65
+2024-07-01,Customer Service,Freight In,Actual,28390.11
+2024-07-01,Customer Service,Packaging,Actual,49319.81
+2024-07-01,Customer Service,Salaries,Actual,32953.69
+2024-07-01,Customer Service,Marketing Spend,Actual,9553.75
+2024-07-01,Customer Service,Software & SaaS,Actual,100147.6
+2024-07-01,Customer Service,Office Rent,Actual,18559.21
+2024-07-01,Customer Service,Travel & Entertainment,Actual,59248.36
+2024-07-01,Customer Service,Professional Services,Actual,93890.99
+2024-07-01,Customer Service,Utilities,Actual,34588.65
+2024-07-01,Customer Service,Depreciation,Actual,34522.47
+2024-08-01,Sales,Product Sales,Actual,15624.37
+2024-08-01,Sales,Service Revenue,Actual,32232.09
+2024-08-01,Sales,Shipping Revenue,Actual,37210.85
+2024-08-01,Sales,Product Cost,Actual,84615.33
+2024-08-01,Sales,Freight In,Actual,21403.53
+2024-08-01,Sales,Packaging,Actual,28855.84
+2024-08-01,Sales,Salaries,Actual,20748.12
+2024-08-01,Sales,Marketing Spend,Actual,92144.42
+2024-08-01,Sales,Software & SaaS,Actual,87707.46
+2024-08-01,Sales,Office Rent,Actual,104218.86
+2024-08-01,Sales,Travel & Entertainment,Actual,28776.72
+2024-08-01,Sales,Professional Services,Actual,42477.35
+2024-08-01,Sales,Utilities,Actual,130719.41
+2024-08-01,Sales,Depreciation,Actual,119145.86
+2024-08-01,Marketing,Product Cost,Actual,114262.72
+2024-08-01,Marketing,Freight In,Actual,14893.98
+2024-08-01,Marketing,Packaging,Actual,92937.43
+2024-08-01,Marketing,Salaries,Actual,88114.83
+2024-08-01,Marketing,Marketing Spend,Actual,16716.86
+2024-08-01,Marketing,Software & SaaS,Actual,62005.74
+2024-08-01,Marketing,Office Rent,Actual,111748.0
+2024-08-01,Marketing,Travel & Entertainment,Actual,65264.02
+2024-08-01,Marketing,Professional Services,Actual,64664.98
+2024-08-01,Marketing,Utilities,Actual,120711.14
+2024-08-01,Marketing,Depreciation,Actual,43278.73
+2024-08-01,Operations,Product Cost,Actual,114297.75
+2024-08-01,Operations,Freight In,Actual,46271.79
+2024-08-01,Operations,Packaging,Actual,63658.49
+2024-08-01,Operations,Salaries,Actual,13017.27
+2024-08-01,Operations,Marketing Spend,Actual,71319.01
+2024-08-01,Operations,Software & SaaS,Actual,47870.47
+2024-08-01,Operations,Office Rent,Actual,81664.68
+2024-08-01,Operations,Travel & Entertainment,Actual,93611.53
+2024-08-01,Operations,Professional Services,Actual,41328.87
+2024-08-01,Operations,Utilities,Actual,95833.62
+2024-08-01,Operations,Depreciation,Actual,84204.99
+2024-08-01,Finance,Product Cost,Actual,54275.77
+2024-08-01,Finance,Freight In,Actual,92641.32
+2024-08-01,Finance,Packaging,Actual,95447.75
+2024-08-01,Finance,Salaries,Actual,69145.23
+2024-08-01,Finance,Marketing Spend,Actual,69035.91
+2024-08-01,Finance,Software & SaaS,Actual,50957.91
+2024-08-01,Finance,Office Rent,Actual,57805.94
+2024-08-01,Finance,Travel & Entertainment,Actual,99629.78
+2024-08-01,Finance,Professional Services,Actual,51207.43
+2024-08-01,Finance,Utilities,Actual,85905.68
+2024-08-01,Finance,Depreciation,Actual,34359.32
+2024-08-01,HR,Product Cost,Actual,39686.19
+2024-08-01,HR,Freight In,Actual,131799.91
+2024-08-01,HR,Packaging,Actual,47269.05
+2024-08-01,HR,Salaries,Actual,59719.53
+2024-08-01,HR,Marketing Spend,Actual,48287.96
+2024-08-01,HR,Software & SaaS,Actual,54915.97
+2024-08-01,HR,Office Rent,Actual,140405.43
+2024-08-01,HR,Travel & Entertainment,Actual,54934.61
+2024-08-01,HR,Professional Services,Actual,80301.28
+2024-08-01,HR,Utilities,Actual,102481.9
+2024-08-01,HR,Depreciation,Actual,140941.33
+2024-08-01,IT,Product Cost,Actual,68143.14
+2024-08-01,IT,Freight In,Actual,125302.48
+2024-08-01,IT,Packaging,Actual,142049.56
+2024-08-01,IT,Salaries,Actual,102788.44
+2024-08-01,IT,Marketing Spend,Actual,106622.51
+2024-08-01,IT,Software & SaaS,Actual,105829.8
+2024-08-01,IT,Office Rent,Actual,66695.3
+2024-08-01,IT,Travel & Entertainment,Actual,86719.54
+2024-08-01,IT,Professional Services,Actual,21492.86
+2024-08-01,IT,Utilities,Actual,47346.64
+2024-08-01,IT,Depreciation,Actual,105824.04
+2024-08-01,Customer Service,Product Cost,Actual,97820.65
+2024-08-01,Customer Service,Freight In,Actual,73036.41
+2024-08-01,Customer Service,Packaging,Actual,24760.19
+2024-08-01,Customer Service,Salaries,Actual,31308.56
+2024-08-01,Customer Service,Marketing Spend,Actual,86475.46
+2024-08-01,Customer Service,Software & SaaS,Actual,93588.22
+2024-08-01,Customer Service,Office Rent,Actual,39978.08
+2024-08-01,Customer Service,Travel & Entertainment,Actual,87961.75
+2024-08-01,Customer Service,Professional Services,Actual,85398.62
+2024-08-01,Customer Service,Utilities,Actual,83068.15
+2024-08-01,Customer Service,Depreciation,Actual,73232.15
+2024-09-01,Sales,Product Sales,Actual,121120.18
+2024-09-01,Sales,Service Revenue,Actual,58634.55
+2024-09-01,Sales,Shipping Revenue,Actual,110005.09
+2024-09-01,Sales,Product Cost,Actual,9254.15
+2024-09-01,Sales,Freight In,Actual,71115.87
+2024-09-01,Sales,Packaging,Actual,41142.28
+2024-09-01,Sales,Salaries,Actual,42954.32
+2024-09-01,Sales,Marketing Spend,Actual,88783.48
+2024-09-01,Sales,Software & SaaS,Actual,78834.2
+2024-09-01,Sales,Office Rent,Actual,11051.94
+2024-09-01,Sales,Travel & Entertainment,Actual,19092.92
+2024-09-01,Sales,Professional Services,Actual,25816.34
+2024-09-01,Sales,Utilities,Actual,74817.59
+2024-09-01,Sales,Depreciation,Actual,35963.88
+2024-09-01,Marketing,Product Cost,Actual,28810.96
+2024-09-01,Marketing,Freight In,Actual,14178.3
+2024-09-01,Marketing,Packaging,Actual,40571.57
+2024-09-01,Marketing,Salaries,Actual,65394.74
+2024-09-01,Marketing,Marketing Spend,Actual,57046.07
+2024-09-01,Marketing,Software & SaaS,Actual,68956.03
+2024-09-01,Marketing,Office Rent,Actual,9004.97
+2024-09-01,Marketing,Travel & Entertainment,Actual,92425.09
+2024-09-01,Marketing,Professional Services,Actual,113416.18
+2024-09-01,Marketing,Utilities,Actual,49032.61
+2024-09-01,Marketing,Depreciation,Actual,103486.88
+2024-09-01,Operations,Product Cost,Actual,114129.97
+2024-09-01,Operations,Freight In,Actual,107458.77
+2024-09-01,Operations,Packaging,Actual,34400.31
+2024-09-01,Operations,Salaries,Actual,127012.81
+2024-09-01,Operations,Marketing Spend,Actual,60875.16
+2024-09-01,Operations,Software & SaaS,Actual,16706.23
+2024-09-01,Operations,Office Rent,Actual,63947.03
+2024-09-01,Operations,Travel & Entertainment,Actual,22891.37
+2024-09-01,Operations,Professional Services,Actual,94999.27
+2024-09-01,Operations,Utilities,Actual,86194.16
+2024-09-01,Operations,Depreciation,Actual,21298.24
+2024-09-01,Finance,Product Cost,Actual,140594.14
+2024-09-01,Finance,Freight In,Actual,84714.12
+2024-09-01,Finance,Packaging,Actual,86063.4
+2024-09-01,Finance,Salaries,Actual,93672.67
+2024-09-01,Finance,Marketing Spend,Actual,109468.48
+2024-09-01,Finance,Software & SaaS,Actual,83444.19
+2024-09-01,Finance,Office Rent,Actual,96319.5
+2024-09-01,Finance,Travel & Entertainment,Actual,26462.14
+2024-09-01,Finance,Professional Services,Actual,24697.89
+2024-09-01,Finance,Utilities,Actual,11030.44
+2024-09-01,Finance,Depreciation,Actual,85125.83
+2024-09-01,HR,Product Cost,Actual,32947.35
+2024-09-01,HR,Freight In,Actual,60461.44
+2024-09-01,HR,Packaging,Actual,87109.5
+2024-09-01,HR,Salaries,Actual,85868.47
+2024-09-01,HR,Marketing Spend,Actual,54425.61
+2024-09-01,HR,Software & SaaS,Actual,12864.62
+2024-09-01,HR,Office Rent,Actual,28901.96
+2024-09-01,HR,Travel & Entertainment,Actual,58694.12
+2024-09-01,HR,Professional Services,Actual,43512.02
+2024-09-01,HR,Utilities,Actual,98279.33
+2024-09-01,HR,Depreciation,Actual,110371.82
+2024-09-01,IT,Product Cost,Actual,14695.78
+2024-09-01,IT,Freight In,Actual,19191.39
+2024-09-01,IT,Packaging,Actual,25772.21
+2024-09-01,IT,Salaries,Actual,119865.87
+2024-09-01,IT,Marketing Spend,Actual,105443.92
+2024-09-01,IT,Software & SaaS,Actual,111895.24
+2024-09-01,IT,Office Rent,Actual,10172.36
+2024-09-01,IT,Travel & Entertainment,Actual,47957.34
+2024-09-01,IT,Professional Services,Actual,121010.23
+2024-09-01,IT,Utilities,Actual,52100.18
+2024-09-01,IT,Depreciation,Actual,10288.51
+2024-09-01,Customer Service,Product Cost,Actual,72541.73
+2024-09-01,Customer Service,Freight In,Actual,73469.28
+2024-09-01,Customer Service,Packaging,Actual,101648.12
+2024-09-01,Customer Service,Salaries,Actual,96703.98
+2024-09-01,Customer Service,Marketing Spend,Actual,80950.27
+2024-09-01,Customer Service,Software & SaaS,Actual,34051.31
+2024-09-01,Customer Service,Office Rent,Actual,34096.18
+2024-09-01,Customer Service,Travel & Entertainment,Actual,67524.88
+2024-09-01,Customer Service,Professional Services,Actual,42907.48
+2024-09-01,Customer Service,Utilities,Actual,69794.03
+2024-09-01,Customer Service,Depreciation,Actual,26087.75
+2024-10-01,Sales,Product Sales,Actual,156971.22
+2024-10-01,Sales,Service Revenue,Actual,50918.4
+2024-10-01,Sales,Shipping Revenue,Actual,52671.31
+2024-10-01,Sales,Product Cost,Actual,72487.21
+2024-10-01,Sales,Freight In,Actual,80566.69
+2024-10-01,Sales,Packaging,Actual,130664.12
+2024-10-01,Sales,Salaries,Actual,58354.63
+2024-10-01,Sales,Marketing Spend,Actual,96608.69
+2024-10-01,Sales,Software & SaaS,Actual,62449.27
+2024-10-01,Sales,Office Rent,Actual,71485.4
+2024-10-01,Sales,Travel & Entertainment,Actual,56544.69
+2024-10-01,Sales,Professional Services,Actual,30882.15
+2024-10-01,Sales,Utilities,Actual,107278.37
+2024-10-01,Sales,Depreciation,Actual,93962.16
+2024-10-01,Marketing,Product Cost,Actual,61517.41
+2024-10-01,Marketing,Freight In,Actual,103757.51
+2024-10-01,Marketing,Packaging,Actual,23433.78
+2024-10-01,Marketing,Salaries,Actual,17330.89
+2024-10-01,Marketing,Marketing Spend,Actual,92331.75
+2024-10-01,Marketing,Software & SaaS,Actual,50603.93
+2024-10-01,Marketing,Office Rent,Actual,42463.51
+2024-10-01,Marketing,Travel & Entertainment,Actual,114790.68
+2024-10-01,Marketing,Professional Services,Actual,44045.61
+2024-10-01,Marketing,Utilities,Actual,13710.86
+2024-10-01,Marketing,Depreciation,Actual,17467.15
+2024-10-01,Operations,Product Cost,Actual,81640.31
+2024-10-01,Operations,Freight In,Actual,133044.66
+2024-10-01,Operations,Packaging,Actual,89750.92
+2024-10-01,Operations,Salaries,Actual,77013.55
+2024-10-01,Operations,Marketing Spend,Actual,56732.54
+2024-10-01,Operations,Software & SaaS,Actual,58161.05
+2024-10-01,Operations,Office Rent,Actual,64966.0
+2024-10-01,Operations,Travel & Entertainment,Actual,34492.59
+2024-10-01,Operations,Professional Services,Actual,34422.41
+2024-10-01,Operations,Utilities,Actual,114097.32
+2024-10-01,Operations,Depreciation,Actual,65016.28
+2024-10-01,Finance,Product Cost,Actual,13870.34
+2024-10-01,Finance,Freight In,Actual,58304.4
+2024-10-01,Finance,Packaging,Actual,46097.72
+2024-10-01,Finance,Salaries,Actual,71366.82
+2024-10-01,Finance,Marketing Spend,Actual,93388.28
+2024-10-01,Finance,Software & SaaS,Actual,109550.65
+2024-10-01,Finance,Office Rent,Actual,95376.2
+2024-10-01,Finance,Travel & Entertainment,Actual,63411.91
+2024-10-01,Finance,Professional Services,Actual,54099.48
+2024-10-01,Finance,Utilities,Actual,116116.12
+2024-10-01,Finance,Depreciation,Actual,43466.58
+2024-10-01,HR,Product Cost,Actual,43824.43
+2024-10-01,HR,Freight In,Actual,66756.04
+2024-10-01,HR,Packaging,Actual,97152.05
+2024-10-01,HR,Salaries,Actual,36442.37
+2024-10-01,HR,Marketing Spend,Actual,129807.61
+2024-10-01,HR,Software & SaaS,Actual,71110.62
+2024-10-01,HR,Office Rent,Actual,21006.72
+2024-10-01,HR,Travel & Entertainment,Actual,26157.54
+2024-10-01,HR,Professional Services,Actual,83720.76
+2024-10-01,HR,Utilities,Actual,35422.2
+2024-10-01,HR,Depreciation,Actual,105945.48
+2024-10-01,IT,Product Cost,Actual,77771.29
+2024-10-01,IT,Freight In,Actual,26750.15
+2024-10-01,IT,Packaging,Actual,74704.97
+2024-10-01,IT,Salaries,Actual,82929.6
+2024-10-01,IT,Marketing Spend,Actual,70990.31
+2024-10-01,IT,Software & SaaS,Actual,81981.07
+2024-10-01,IT,Office Rent,Actual,50971.21
+2024-10-01,IT,Travel & Entertainment,Actual,29397.49
+2024-10-01,IT,Professional Services,Actual,30973.23
+2024-10-01,IT,Utilities,Actual,102637.35
+2024-10-01,IT,Depreciation,Actual,100064.71
+2024-10-01,Customer Service,Product Cost,Actual,116972.97
+2024-10-01,Customer Service,Freight In,Actual,33724.25
+2024-10-01,Customer Service,Packaging,Actual,15522.88
+2024-10-01,Customer Service,Salaries,Actual,37662.02
+2024-10-01,Customer Service,Marketing Spend,Actual,73928.73
+2024-10-01,Customer Service,Software & SaaS,Actual,79608.68
+2024-10-01,Customer Service,Office Rent,Actual,87525.59
+2024-10-01,Customer Service,Travel & Entertainment,Actual,35692.35
+2024-10-01,Customer Service,Professional Services,Actual,63852.42
+2024-10-01,Customer Service,Utilities,Actual,40034.01
+2024-10-01,Customer Service,Depreciation,Actual,58789.04
+2024-11-01,Sales,Product Sales,Actual,32524.35
+2024-11-01,Sales,Service Revenue,Actual,30725.31
+2024-11-01,Sales,Shipping Revenue,Actual,82282.5
+2024-11-01,Sales,Product Cost,Actual,34961.89
+2024-11-01,Sales,Freight In,Actual,58966.45
+2024-11-01,Sales,Packaging,Actual,106268.82
+2024-11-01,Sales,Salaries,Actual,33675.42
+2024-11-01,Sales,Marketing Spend,Actual,10076.01
+2024-11-01,Sales,Software & SaaS,Actual,32407.61
+2024-11-01,Sales,Office Rent,Actual,48999.67
+2024-11-01,Sales,Travel & Entertainment,Actual,32831.27
+2024-11-01,Sales,Professional Services,Actual,46359.66
+2024-11-01,Sales,Utilities,Actual,19688.31
+2024-11-01,Sales,Depreciation,Actual,37809.84
+2024-11-01,Marketing,Product Cost,Actual,104104.47
+2024-11-01,Marketing,Freight In,Actual,94994.44
+2024-11-01,Marketing,Packaging,Actual,34353.68
+2024-11-01,Marketing,Salaries,Actual,62812.98
+2024-11-01,Marketing,Marketing Spend,Actual,32666.4
+2024-11-01,Marketing,Software & SaaS,Actual,12510.52
+2024-11-01,Marketing,Office Rent,Actual,58003.96
+2024-11-01,Marketing,Travel & Entertainment,Actual,27663.92
+2024-11-01,Marketing,Professional Services,Actual,76688.41
+2024-11-01,Marketing,Utilities,Actual,37041.25
+2024-11-01,Marketing,Depreciation,Actual,21876.02
+2024-11-01,Operations,Product Cost,Actual,56437.25
+2024-11-01,Operations,Freight In,Actual,68347.46
+2024-11-01,Operations,Packaging,Actual,73534.7
+2024-11-01,Operations,Salaries,Actual,47801.23
+2024-11-01,Operations,Marketing Spend,Actual,19850.23
+2024-11-01,Operations,Software & SaaS,Actual,78434.08
+2024-11-01,Operations,Office Rent,Actual,73687.59
+2024-11-01,Operations,Travel & Entertainment,Actual,30695.47
+2024-11-01,Operations,Professional Services,Actual,43963.22
+2024-11-01,Operations,Utilities,Actual,27582.86
+2024-11-01,Operations,Depreciation,Actual,62469.81
+2024-11-01,Finance,Product Cost,Actual,70764.62
+2024-11-01,Finance,Freight In,Actual,36716.85
+2024-11-01,Finance,Packaging,Actual,31604.37
+2024-11-01,Finance,Salaries,Actual,65054.94
+2024-11-01,Finance,Marketing Spend,Actual,42687.68
+2024-11-01,Finance,Software & SaaS,Actual,49803.79
+2024-11-01,Finance,Office Rent,Actual,81353.46
+2024-11-01,Finance,Travel & Entertainment,Actual,73843.47
+2024-11-01,Finance,Professional Services,Actual,62021.16
+2024-11-01,Finance,Utilities,Actual,29142.55
+2024-11-01,Finance,Depreciation,Actual,71159.84
+2024-11-01,HR,Product Cost,Actual,48078.86
+2024-11-01,HR,Freight In,Actual,94544.21
+2024-11-01,HR,Packaging,Actual,31662.34
+2024-11-01,HR,Salaries,Actual,94300.16
+2024-11-01,HR,Marketing Spend,Actual,77526.22
+2024-11-01,HR,Software & SaaS,Actual,47805.98
+2024-11-01,HR,Office Rent,Actual,94517.78
+2024-11-01,HR,Travel & Entertainment,Actual,40576.69
+2024-11-01,HR,Professional Services,Actual,20698.69
+2024-11-01,HR,Utilities,Actual,18347.42
+2024-11-01,HR,Depreciation,Actual,142124.91
+2024-11-01,IT,Product Cost,Actual,36801.19
+2024-11-01,IT,Freight In,Actual,94194.63
+2024-11-01,IT,Packaging,Actual,45734.17
+2024-11-01,IT,Salaries,Actual,26788.1
+2024-11-01,IT,Marketing Spend,Actual,83176.14
+2024-11-01,IT,Software & SaaS,Actual,39041.14
+2024-11-01,IT,Office Rent,Actual,64301.63
+2024-11-01,IT,Travel & Entertainment,Actual,63801.84
+2024-11-01,IT,Professional Services,Actual,15031.79
+2024-11-01,IT,Utilities,Actual,74382.59
+2024-11-01,IT,Depreciation,Actual,112002.78
+2024-11-01,Customer Service,Product Cost,Actual,91867.7
+2024-11-01,Customer Service,Freight In,Actual,31048.37
+2024-11-01,Customer Service,Packaging,Actual,20613.38
+2024-11-01,Customer Service,Salaries,Actual,84462.34
+2024-11-01,Customer Service,Marketing Spend,Actual,13394.38
+2024-11-01,Customer Service,Software & SaaS,Actual,67060.49
+2024-11-01,Customer Service,Office Rent,Actual,32907.59
+2024-11-01,Customer Service,Travel & Entertainment,Actual,62561.64
+2024-11-01,Customer Service,Professional Services,Actual,102859.22
+2024-11-01,Customer Service,Utilities,Actual,31481.02
+2024-11-01,Customer Service,Depreciation,Actual,15539.04
+2024-12-01,Sales,Product Sales,Actual,193607.69
+2024-12-01,Sales,Service Revenue,Actual,58506.44
+2024-12-01,Sales,Shipping Revenue,Actual,52776.6
+2024-12-01,Sales,Product Cost,Actual,77292.64
+2024-12-01,Sales,Freight In,Actual,141793.89
+2024-12-01,Sales,Packaging,Actual,125944.27
+2024-12-01,Sales,Salaries,Actual,19669.29
+2024-12-01,Sales,Marketing Spend,Actual,85141.94
+2024-12-01,Sales,Software & SaaS,Actual,43598.59
+2024-12-01,Sales,Office Rent,Actual,60683.19
+2024-12-01,Sales,Travel & Entertainment,Actual,14146.96
+2024-12-01,Sales,Professional Services,Actual,51920.59
+2024-12-01,Sales,Utilities,Actual,83112.56
+2024-12-01,Sales,Depreciation,Actual,119316.89
+2024-12-01,Marketing,Product Cost,Actual,31556.81
+2024-12-01,Marketing,Freight In,Actual,13934.93
+2024-12-01,Marketing,Packaging,Actual,22749.33
+2024-12-01,Marketing,Salaries,Actual,24418.39
+2024-12-01,Marketing,Marketing Spend,Actual,72544.54
+2024-12-01,Marketing,Software & SaaS,Actual,58047.01
+2024-12-01,Marketing,Office Rent,Actual,124717.51
+2024-12-01,Marketing,Travel & Entertainment,Actual,21653.87
+2024-12-01,Marketing,Professional Services,Actual,64560.11
+2024-12-01,Marketing,Utilities,Actual,103206.43
+2024-12-01,Marketing,Depreciation,Actual,102252.03
+2024-12-01,Operations,Product Cost,Actual,76386.17
+2024-12-01,Operations,Freight In,Actual,46139.02
+2024-12-01,Operations,Packaging,Actual,69829.67
+2024-12-01,Operations,Salaries,Actual,121363.07
+2024-12-01,Operations,Marketing Spend,Actual,67477.99
+2024-12-01,Operations,Software & SaaS,Actual,33601.51
+2024-12-01,Operations,Office Rent,Actual,68685.71
+2024-12-01,Operations,Travel & Entertainment,Actual,88421.54
+2024-12-01,Operations,Professional Services,Actual,80805.53
+2024-12-01,Operations,Utilities,Actual,52659.25
+2024-12-01,Operations,Depreciation,Actual,69229.88
+2024-12-01,Finance,Product Cost,Actual,20255.44
+2024-12-01,Finance,Freight In,Actual,31394.68
+2024-12-01,Finance,Packaging,Actual,71100.7
+2024-12-01,Finance,Salaries,Actual,9715.95
+2024-12-01,Finance,Marketing Spend,Actual,108986.98
+2024-12-01,Finance,Software & SaaS,Actual,111817.27
+2024-12-01,Finance,Office Rent,Actual,112184.27
+2024-12-01,Finance,Travel & Entertainment,Actual,110327.12
+2024-12-01,Finance,Professional Services,Actual,102422.92
+2024-12-01,Finance,Utilities,Actual,96337.7
+2024-12-01,Finance,Depreciation,Actual,45832.53
+2024-12-01,HR,Product Cost,Actual,69746.09
+2024-12-01,HR,Freight In,Actual,44262.28
+2024-12-01,HR,Packaging,Actual,89570.84
+2024-12-01,HR,Salaries,Actual,74928.13
+2024-12-01,HR,Marketing Spend,Actual,81981.29
+2024-12-01,HR,Software & SaaS,Actual,18382.49
+2024-12-01,HR,Office Rent,Actual,58039.42
+2024-12-01,HR,Travel & Entertainment,Actual,60944.32
+2024-12-01,HR,Professional Services,Actual,35077.48
+2024-12-01,HR,Utilities,Actual,14493.58
+2024-12-01,HR,Depreciation,Actual,99363.17
+2024-12-01,IT,Product Cost,Actual,43362.75
+2024-12-01,IT,Freight In,Actual,126707.72
+2024-12-01,IT,Packaging,Actual,35124.48
+2024-12-01,IT,Salaries,Actual,31738.06
+2024-12-01,IT,Marketing Spend,Actual,36764.67
+2024-12-01,IT,Software & SaaS,Actual,108671.33
+2024-12-01,IT,Office Rent,Actual,108147.56
+2024-12-01,IT,Travel & Entertainment,Actual,113114.14
+2024-12-01,IT,Professional Services,Actual,61880.96
+2024-12-01,IT,Utilities,Actual,57275.71
+2024-12-01,IT,Depreciation,Actual,54451.0
+2024-12-01,Customer Service,Product Cost,Actual,97097.67
+2024-12-01,Customer Service,Freight In,Actual,115215.45
+2024-12-01,Customer Service,Packaging,Actual,59239.49
+2024-12-01,Customer Service,Salaries,Actual,22539.06
+2024-12-01,Customer Service,Marketing Spend,Actual,27289.9
+2024-12-01,Customer Service,Software & SaaS,Actual,104738.8
+2024-12-01,Customer Service,Office Rent,Actual,42203.61
+2024-12-01,Customer Service,Travel & Entertainment,Actual,81807.05
+2024-12-01,Customer Service,Professional Services,Actual,19457.78
+2024-12-01,Customer Service,Utilities,Actual,40061.21
+2024-12-01,Customer Service,Depreciation,Actual,27799.18

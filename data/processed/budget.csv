@@ -1,0 +1,1921 @@
+year,month,department,gl_category,gl_account,amount
+2023,1,Sales,Revenue,Product Sales,113181.89
+2023,1,Sales,Revenue,Service Revenue,155471.62
+2023,1,Sales,Revenue,Shipping Revenue,43655.55
+2023,1,Sales,COGS,Product Cost,90317.32
+2023,1,Sales,COGS,Freight In,10506.26
+2023,1,Sales,COGS,Packaging,56641.16
+2023,1,Sales,OpEx,Salaries,65922.47
+2023,1,Sales,OpEx,Marketing Spend,105423.21
+2023,1,Sales,OpEx,Software & SaaS,56211.11
+2023,1,Sales,OpEx,Office Rent,112068.7
+2023,1,Sales,OpEx,Travel & Entertainment,84090.53
+2023,1,Sales,OpEx,Professional Services,113594.03
+2023,1,Sales,OpEx,Utilities,118494.11
+2023,1,Sales,OpEx,Depreciation,101294.87
+2023,1,Marketing,COGS,Product Cost,75027.77
+2023,1,Marketing,COGS,Freight In,114378.19
+2023,1,Marketing,COGS,Packaging,119214.53
+2023,1,Marketing,OpEx,Salaries,39869.61
+2023,1,Marketing,OpEx,Marketing Spend,28503.78
+2023,1,Marketing,OpEx,Software & SaaS,63900.25
+2023,1,Marketing,OpEx,Office Rent,82363.82
+2023,1,Marketing,OpEx,Travel & Entertainment,94173.66
+2023,1,Marketing,OpEx,Professional Services,53307.89
+2023,1,Marketing,OpEx,Utilities,39022.16
+2023,1,Marketing,OpEx,Depreciation,58889.48
+2023,1,Operations,COGS,Product Cost,52351.2
+2023,1,Operations,COGS,Freight In,74170.42
+2023,1,Operations,COGS,Packaging,58688.06
+2023,1,Operations,OpEx,Salaries,48894.15
+2023,1,Operations,OpEx,Marketing Spend,91210.44
+2023,1,Operations,OpEx,Software & SaaS,58768.77
+2023,1,Operations,OpEx,Office Rent,45168.79
+2023,1,Operations,OpEx,Travel & Entertainment,80237.87
+2023,1,Operations,OpEx,Professional Services,95211.81
+2023,1,Operations,OpEx,Utilities,64467.05
+2023,1,Operations,OpEx,Depreciation,10611.61
+2023,1,Finance,COGS,Product Cost,84714.87
+2023,1,Finance,COGS,Freight In,77225.56
+2023,1,Finance,COGS,Packaging,34968.97
+2023,1,Finance,OpEx,Salaries,46604.28
+2023,1,Finance,OpEx,Marketing Spend,58501.89
+2023,1,Finance,OpEx,Software & SaaS,40762.35
+2023,1,Finance,OpEx,Office Rent,13579.2
+2023,1,Finance,OpEx,Travel & Entertainment,67747.48
+2023,1,Finance,OpEx,Professional Services,68530.53
+2023,1,Finance,OpEx,Utilities,68704.57
+2023,1,Finance,OpEx,Depreciation,73838.05
+2023,1,HR,COGS,Product Cost,76787.88
+2023,1,HR,COGS,Freight In,76091.92
+2023,1,HR,COGS,Packaging,91436.62
+2023,1,HR,OpEx,Salaries,111068.37
+2023,1,HR,OpEx,Marketing Spend,13209.31
+2023,1,HR,OpEx,Software & SaaS,32993.51
+2023,1,HR,OpEx,Office Rent,106302.09
+2023,1,HR,OpEx,Travel & Entertainment,10143.88
+2023,1,HR,OpEx,Professional Services,34026.57
+2023,1,HR,OpEx,Utilities,87717.63
+2023,1,HR,OpEx,Depreciation,44564.87
+2023,1,IT,COGS,Product Cost,91190.4
+2023,1,IT,COGS,Freight In,49706.06
+2023,1,IT,COGS,Packaging,68625.93
+2023,1,IT,OpEx,Salaries,57506.94
+2023,1,IT,OpEx,Marketing Spend,42048.65
+2023,1,IT,OpEx,Software & SaaS,40924.59
+2023,1,IT,OpEx,Office Rent,86082.26
+2023,1,IT,OpEx,Travel & Entertainment,114930.86
+2023,1,IT,OpEx,Professional Services,57507.2
+2023,1,IT,OpEx,Utilities,34025.16
+2023,1,IT,OpEx,Depreciation,25013.96
+2023,1,Customer Service,COGS,Product Cost,100445.97
+2023,1,Customer Service,COGS,Freight In,62199.07
+2023,1,Customer Service,COGS,Packaging,75409.88
+2023,1,Customer Service,OpEx,Salaries,87958.35
+2023,1,Customer Service,OpEx,Marketing Spend,41204.49
+2023,1,Customer Service,OpEx,Software & SaaS,15870.95
+2023,1,Customer Service,OpEx,Office Rent,29694.32
+2023,1,Customer Service,OpEx,Travel & Entertainment,14941.27
+2023,1,Customer Service,OpEx,Professional Services,22119.25
+2023,1,Customer Service,OpEx,Utilities,46068.77
+2023,1,Customer Service,OpEx,Depreciation,117442.85
+2023,2,Sales,Revenue,Product Sales,136537.23
+2023,2,Sales,Revenue,Service Revenue,101800.44
+2023,2,Sales,Revenue,Shipping Revenue,40343.56
+2023,2,Sales,COGS,Product Cost,101797.95
+2023,2,Sales,COGS,Freight In,38994.43
+2023,2,Sales,COGS,Packaging,45357.53
+2023,2,Sales,OpEx,Salaries,50832.53
+2023,2,Sales,OpEx,Marketing Spend,62036.43
+2023,2,Sales,OpEx,Software & SaaS,104051.43
+2023,2,Sales,OpEx,Office Rent,98941.81
+2023,2,Sales,OpEx,Travel & Entertainment,93314.13
+2023,2,Sales,OpEx,Professional Services,30176.58
+2023,2,Sales,OpEx,Utilities,93657.9
+2023,2,Sales,OpEx,Depreciation,54383.64
+2023,2,Marketing,COGS,Product Cost,46753.22
+2023,2,Marketing,COGS,Freight In,16650.88
+2023,2,Marketing,COGS,Packaging,103075.24
+2023,2,Marketing,OpEx,Salaries,84822.01
+2023,2,Marketing,OpEx,Marketing Spend,27591.26
+2023,2,Marketing,OpEx,Software & SaaS,107135.08
+2023,2,Marketing,OpEx,Office Rent,20433.81
+2023,2,Marketing,OpEx,Travel & Entertainment,22076.61
+2023,2,Marketing,OpEx,Professional Services,60789.28
+2023,2,Marketing,OpEx,Utilities,80906.86
+2023,2,Marketing,OpEx,Depreciation,42735.54
+2023,2,Operations,COGS,Product Cost,86987.1
+2023,2,Operations,COGS,Freight In,110014.94
+2023,2,Operations,COGS,Packaging,55234.85
+2023,2,Operations,OpEx,Salaries,10987.97
+2023,2,Operations,OpEx,Marketing Spend,65552.67
+2023,2,Operations,OpEx,Software & SaaS,63820.67
+2023,2,Operations,OpEx,Office Rent,14935.71
+2023,2,Operations,OpEx,Travel & Entertainment,54490.87
+2023,2,Operations,OpEx,Professional Services,23101.61
+2023,2,Operations,OpEx,Utilities,57004.74
+2023,2,Operations,OpEx,Depreciation,13939.39
+2023,2,Finance,COGS,Product Cost,32548.34
+2023,2,Finance,COGS,Freight In,81003.61
+2023,2,Finance,COGS,Packaging,90382.62
+2023,2,Finance,OpEx,Salaries,31590.55
+2023,2,Finance,OpEx,Marketing Spend,37973.57
+2023,2,Finance,OpEx,Software & SaaS,48639.61
+2023,2,Finance,OpEx,Office Rent,112266.62
+2023,2,Finance,OpEx,Travel & Entertainment,41322.31
+2023,2,Finance,OpEx,Professional Services,105477.44
+2023,2,Finance,OpEx,Utilities,78221.02
+2023,2,Finance,OpEx,Depreciation,66548.0
+2023,2,HR,COGS,Product Cost,30805.64
+2023,2,HR,COGS,Freight In,70948.91
+2023,2,HR,COGS,Packaging,36934.39
+2023,2,HR,OpEx,Salaries,52895.64
+2023,2,HR,OpEx,Marketing Spend,37027.49
+2023,2,HR,OpEx,Software & SaaS,57082.49
+2023,2,HR,OpEx,Office Rent,45818.42
+2023,2,HR,OpEx,Travel & Entertainment,101149.26
+2023,2,HR,OpEx,Professional Services,119323.19
+2023,2,HR,OpEx,Utilities,70590.85
+2023,2,HR,OpEx,Depreciation,109110.01
+2023,2,IT,COGS,Product Cost,74638.6
+2023,2,IT,COGS,Freight In,119543.3
+2023,2,IT,COGS,Packaging,13704.17
+2023,2,IT,OpEx,Salaries,50891.68
+2023,2,IT,OpEx,Marketing Spend,88457.05
+2023,2,IT,OpEx,Software & SaaS,56565.81
+2023,2,IT,OpEx,Office Rent,15949.36
+2023,2,IT,OpEx,Travel & Entertainment,27484.9
+2023,2,IT,OpEx,Professional Services,81387.1
+2023,2,IT,OpEx,Utilities,76775.69
+2023,2,IT,OpEx,Depreciation,78469.57
+2023,2,Customer Service,COGS,Product Cost,34083.93
+2023,2,Customer Service,COGS,Freight In,100477.3
+2023,2,Customer Service,COGS,Packaging,37047.65
+2023,2,Customer Service,OpEx,Salaries,53950.56
+2023,2,Customer Service,OpEx,Marketing Spend,10353.88
+2023,2,Customer Service,OpEx,Software & SaaS,58418.36
+2023,2,Customer Service,OpEx,Office Rent,22907.34
+2023,2,Customer Service,OpEx,Travel & Entertainment,98560.37
+2023,2,Customer Service,OpEx,Professional Services,98474.16
+2023,2,Customer Service,OpEx,Utilities,32932.84
+2023,2,Customer Service,OpEx,Depreciation,22922.25
+2023,3,Sales,Revenue,Product Sales,96106.66
+2023,3,Sales,Revenue,Service Revenue,24643.11
+2023,3,Sales,Revenue,Shipping Revenue,55785.39
+2023,3,Sales,COGS,Product Cost,24082.51
+2023,3,Sales,COGS,Freight In,114210.78
+2023,3,Sales,COGS,Packaging,14288.02
+2023,3,Sales,OpEx,Salaries,103975.58
+2023,3,Sales,OpEx,Marketing Spend,23894.67
+2023,3,Sales,OpEx,Software & SaaS,43105.21
+2023,3,Sales,OpEx,Office Rent,95993.84
+2023,3,Sales,OpEx,Travel & Entertainment,36126.52
+2023,3,Sales,OpEx,Professional Services,110049.78
+2023,3,Sales,OpEx,Utilities,68375.53
+2023,3,Sales,OpEx,Depreciation,33926.6
+2023,3,Marketing,COGS,Product Cost,58781.15
+2023,3,Marketing,COGS,Freight In,76000.34
+2023,3,Marketing,COGS,Packaging,74560.41
+2023,3,Marketing,OpEx,Salaries,92331.61
+2023,3,Marketing,OpEx,Marketing Spend,88835.91
+2023,3,Marketing,OpEx,Software & SaaS,46015.91
+2023,3,Marketing,OpEx,Office Rent,21547.58
+2023,3,Marketing,OpEx,Travel & Entertainment,68936.25
+2023,3,Marketing,OpEx,Professional Services,104551.92
+2023,3,Marketing,OpEx,Utilities,66674.18
+2023,3,Marketing,OpEx,Depreciation,112497.74
+2023,3,Operations,COGS,Product Cost,74556.97
+2023,3,Operations,COGS,Freight In,20831.33
+2023,3,Operations,COGS,Packaging,105790.5
+2023,3,Operations,OpEx,Salaries,61374.17
+2023,3,Operations,OpEx,Marketing Spend,68065.32
+2023,3,Operations,OpEx,Software & SaaS,89619.92
+2023,3,Operations,OpEx,Office Rent,47229.26
+2023,3,Operations,OpEx,Travel & Entertainment,15900.14
+2023,3,Operations,OpEx,Professional Services,73270.63
+2023,3,Operations,OpEx,Utilities,103763.11
+2023,3,Operations,OpEx,Depreciation,102946.27
+2023,3,Finance,COGS,Product Cost,65198.88
+2023,3,Finance,COGS,Freight In,84272.78
+2023,3,Finance,COGS,Packaging,100701.29
+2023,3,Finance,OpEx,Salaries,66374.86
+2023,3,Finance,OpEx,Marketing Spend,91339.61
+2023,3,Finance,OpEx,Software & SaaS,102983.74
+2023,3,Finance,OpEx,Office Rent,66146.31
+2023,3,Finance,OpEx,Travel & Entertainment,38083.84
+2023,3,Finance,OpEx,Professional Services,41952.89
+2023,3,Finance,OpEx,Utilities,46567.98
+2023,3,Finance,OpEx,Depreciation,103574.11
+2023,3,HR,COGS,Product Cost,49722.31
+2023,3,HR,COGS,Freight In,76146.78
+2023,3,HR,COGS,Packaging,112757.12
+2023,3,HR,OpEx,Salaries,46590.54
+2023,3,HR,OpEx,Marketing Spend,104468.32
+2023,3,HR,OpEx,Software & SaaS,88298.61
+2023,3,HR,OpEx,Office Rent,59130.04
+2023,3,HR,OpEx,Travel & Entertainment,43002.76
+2023,3,HR,OpEx,Professional Services,59722.86
+2023,3,HR,OpEx,Utilities,64247.63
+2023,3,HR,OpEx,Depreciation,106126.78
+2023,3,IT,COGS,Product Cost,106732.24
+2023,3,IT,COGS,Freight In,33850.76
+2023,3,IT,COGS,Packaging,103667.85
+2023,3,IT,OpEx,Salaries,99345.73
+2023,3,IT,OpEx,Marketing Spend,75574.86
+2023,3,IT,OpEx,Software & SaaS,11872.96
+2023,3,IT,OpEx,Office Rent,41352.5
+2023,3,IT,OpEx,Travel & Entertainment,50060.69
+2023,3,IT,OpEx,Professional Services,70216.11
+2023,3,IT,OpEx,Utilities,85678.79
+2023,3,IT,OpEx,Depreciation,108602.7
+2023,3,Customer Service,COGS,Product Cost,102999.71
+2023,3,Customer Service,COGS,Freight In,56900.87
+2023,3,Customer Service,COGS,Packaging,72000.38
+2023,3,Customer Service,OpEx,Salaries,82489.01
+2023,3,Customer Service,OpEx,Marketing Spend,26944.18
+2023,3,Customer Service,OpEx,Software & SaaS,34309.66
+2023,3,Customer Service,OpEx,Office Rent,112314.21
+2023,3,Customer Service,OpEx,Travel & Entertainment,57401.84
+2023,3,Customer Service,OpEx,Professional Services,90766.13
+2023,3,Customer Service,OpEx,Utilities,43123.84
+2023,3,Customer Service,OpEx,Depreciation,110239.32
+2023,4,Sales,Revenue,Product Sales,73834.73
+2023,4,Sales,Revenue,Service Revenue,61965.1
+2023,4,Sales,Revenue,Shipping Revenue,19503.36
+2023,4,Sales,COGS,Product Cost,50460.02
+2023,4,Sales,COGS,Freight In,79037.66
+2023,4,Sales,COGS,Packaging,64608.0
+2023,4,Sales,OpEx,Salaries,100103.63
+2023,4,Sales,OpEx,Marketing Spend,41120.94
+2023,4,Sales,OpEx,Software & SaaS,71125.28
+2023,4,Sales,OpEx,Office Rent,48851.14
+2023,4,Sales,OpEx,Travel & Entertainment,46983.31
+2023,4,Sales,OpEx,Professional Services,111599.53
+2023,4,Sales,OpEx,Utilities,115404.12
+2023,4,Sales,OpEx,Depreciation,71406.79
+2023,4,Marketing,COGS,Product Cost,33615.86
+2023,4,Marketing,COGS,Freight In,116709.73
+2023,4,Marketing,COGS,Packaging,86929.1
+2023,4,Marketing,OpEx,Salaries,55607.35
+2023,4,Marketing,OpEx,Marketing Spend,71653.98
+2023,4,Marketing,OpEx,Software & SaaS,49173.35
+2023,4,Marketing,OpEx,Office Rent,118736.36
+2023,4,Marketing,OpEx,Travel & Entertainment,20082.36
+2023,4,Marketing,OpEx,Professional Services,93504.56
+2023,4,Marketing,OpEx,Utilities,32101.53
+2023,4,Marketing,OpEx,Depreciation,50761.25
+2023,4,Operations,COGS,Product Cost,61870.41
+2023,4,Operations,COGS,Freight In,27454.31
+2023,4,Operations,COGS,Packaging,73699.37
+2023,4,Operations,OpEx,Salaries,34537.43
+2023,4,Operations,OpEx,Marketing Spend,107588.36
+2023,4,Operations,OpEx,Software & SaaS,77766.88
+2023,4,Operations,OpEx,Office Rent,105737.45
+2023,4,Operations,OpEx,Travel & Entertainment,56225.74
+2023,4,Operations,OpEx,Professional Services,115123.08
+2023,4,Operations,OpEx,Utilities,118165.65
+2023,4,Operations,OpEx,Depreciation,81085.28
+2023,4,Finance,COGS,Product Cost,19679.46
+2023,4,Finance,COGS,Freight In,96906.08
+2023,4,Finance,COGS,Packaging,75693.9
+2023,4,Finance,OpEx,Salaries,50636.65
+2023,4,Finance,OpEx,Marketing Spend,14808.15
+2023,4,Finance,OpEx,Software & SaaS,15333.64
+2023,4,Finance,OpEx,Office Rent,30884.53
+2023,4,Finance,OpEx,Travel & Entertainment,36110.09
+2023,4,Finance,OpEx,Professional Services,72773.03
+2023,4,Finance,OpEx,Utilities,74617.91
+2023,4,Finance,OpEx,Depreciation,10268.28
+2023,4,HR,COGS,Product Cost,35982.45
+2023,4,HR,COGS,Freight In,59230.09
+2023,4,HR,COGS,Packaging,82037.16
+2023,4,HR,OpEx,Salaries,71555.75
+2023,4,HR,OpEx,Marketing Spend,68103.47
+2023,4,HR,OpEx,Software & SaaS,113304.12
+2023,4,HR,OpEx,Office Rent,92795.96
+2023,4,HR,OpEx,Travel & Entertainment,59808.64
+2023,4,HR,OpEx,Professional Services,92250.43
+2023,4,HR,OpEx,Utilities,102765.59
+2023,4,HR,OpEx,Depreciation,10869.24
+2023,4,IT,COGS,Product Cost,66375.4
+2023,4,IT,COGS,Freight In,42334.08
+2023,4,IT,COGS,Packaging,54523.33
+2023,4,IT,OpEx,Salaries,40590.35
+2023,4,IT,OpEx,Marketing Spend,55433.13
+2023,4,IT,OpEx,Software & SaaS,13298.47
+2023,4,IT,OpEx,Office Rent,71468.58
+2023,4,IT,OpEx,Travel & Entertainment,94148.22
+2023,4,IT,OpEx,Professional Services,75919.81
+2023,4,IT,OpEx,Utilities,36357.97
+2023,4,IT,OpEx,Depreciation,81632.54
+2023,4,Customer Service,COGS,Product Cost,85140.93
+2023,4,Customer Service,COGS,Freight In,58798.95
+2023,4,Customer Service,COGS,Packaging,39988.88
+2023,4,Customer Service,OpEx,Salaries,44221.01
+2023,4,Customer Service,OpEx,Marketing Spend,83012.66
+2023,4,Customer Service,OpEx,Software & SaaS,114485.99
+2023,4,Customer Service,OpEx,Office Rent,77084.59
+2023,4,Customer Service,OpEx,Travel & Entertainment,72594.03
+2023,4,Customer Service,OpEx,Professional Services,37425.35
+2023,4,Customer Service,OpEx,Utilities,46330.93
+2023,4,Customer Service,OpEx,Depreciation,44204.76
+2023,5,Sales,Revenue,Product Sales,84823.7
+2023,5,Sales,Revenue,Service Revenue,29258.11
+2023,5,Sales,Revenue,Shipping Revenue,106316.34
+2023,5,Sales,COGS,Product Cost,103157.96
+2023,5,Sales,COGS,Freight In,98572.42
+2023,5,Sales,COGS,Packaging,115066.56
+2023,5,Sales,OpEx,Salaries,56012.94
+2023,5,Sales,OpEx,Marketing Spend,67129.68
+2023,5,Sales,OpEx,Software & SaaS,23390.87
+2023,5,Sales,OpEx,Office Rent,30026.79
+2023,5,Sales,OpEx,Travel & Entertainment,95965.25
+2023,5,Sales,OpEx,Professional Services,83148.79
+2023,5,Sales,OpEx,Utilities,117225.07
+2023,5,Sales,OpEx,Depreciation,39291.86
+2023,5,Marketing,COGS,Product Cost,25110.8
+2023,5,Marketing,COGS,Freight In,34921.21
+2023,5,Marketing,COGS,Packaging,63456.74
+2023,5,Marketing,OpEx,Salaries,39682.56
+2023,5,Marketing,OpEx,Marketing Spend,84303.89
+2023,5,Marketing,OpEx,Software & SaaS,66614.93
+2023,5,Marketing,OpEx,Office Rent,43088.18
+2023,5,Marketing,OpEx,Travel & Entertainment,67290.93
+2023,5,Marketing,OpEx,Professional Services,65158.74
+2023,5,Marketing,OpEx,Utilities,39204.49
+2023,5,Marketing,OpEx,Depreciation,74253.38
+2023,5,Operations,COGS,Product Cost,110469.99
+2023,5,Operations,COGS,Freight In,95311.34
+2023,5,Operations,COGS,Packaging,81689.87
+2023,5,Operations,OpEx,Salaries,96988.48
+2023,5,Operations,OpEx,Marketing Spend,98125.61
+2023,5,Operations,OpEx,Software & SaaS,71778.47
+2023,5,Operations,OpEx,Office Rent,107536.16
+2023,5,Operations,OpEx,Travel & Entertainment,103470.25
+2023,5,Operations,OpEx,Professional Services,53515.89
+2023,5,Operations,OpEx,Utilities,81682.44
+2023,5,Operations,OpEx,Depreciation,38099.31
+2023,5,Finance,COGS,Product Cost,33631.91
+2023,5,Finance,COGS,Freight In,34661.05
+2023,5,Finance,COGS,Packaging,50440.96
+2023,5,Finance,OpEx,Salaries,115834.17
+2023,5,Finance,OpEx,Marketing Spend,107109.14
+2023,5,Finance,OpEx,Software & SaaS,29532.88
+2023,5,Finance,OpEx,Office Rent,26601.81
+2023,5,Finance,OpEx,Travel & Entertainment,66111.17
+2023,5,Finance,OpEx,Professional Services,60150.44
+2023,5,Finance,OpEx,Utilities,50552.45
+2023,5,Finance,OpEx,Depreciation,45837.68
+2023,5,HR,COGS,Product Cost,20195.71
+2023,5,HR,COGS,Freight In,48236.16
+2023,5,HR,COGS,Packaging,12387.23
+2023,5,HR,OpEx,Salaries,51147.28
+2023,5,HR,OpEx,Marketing Spend,34617.79
+2023,5,HR,OpEx,Software & SaaS,70206.32
+2023,5,HR,OpEx,Office Rent,19634.97
+2023,5,HR,OpEx,Travel & Entertainment,30629.07
+2023,5,HR,OpEx,Professional Services,30438.54
+2023,5,HR,OpEx,Utilities,105483.47
+2023,5,HR,OpEx,Depreciation,56564.57
+2023,5,IT,COGS,Product Cost,32529.31
+2023,5,IT,COGS,Freight In,83878.0
+2023,5,IT,COGS,Packaging,15238.25
+2023,5,IT,OpEx,Salaries,32792.8
+2023,5,IT,OpEx,Marketing Spend,10172.02
+2023,5,IT,OpEx,Software & SaaS,117987.39
+2023,5,IT,OpEx,Office Rent,77716.3
+2023,5,IT,OpEx,Travel & Entertainment,100582.13
+2023,5,IT,OpEx,Professional Services,49999.34
+2023,5,IT,OpEx,Utilities,18967.37
+2023,5,IT,OpEx,Depreciation,60504.09
+2023,5,Customer Service,COGS,Product Cost,95635.77
+2023,5,Customer Service,COGS,Freight In,73841.67
+2023,5,Customer Service,COGS,Packaging,49803.44
+2023,5,Customer Service,OpEx,Salaries,46712.76
+2023,5,Customer Service,OpEx,Marketing Spend,12084.01
+2023,5,Customer Service,OpEx,Software & SaaS,77806.35
+2023,5,Customer Service,OpEx,Office Rent,115322.62
+2023,5,Customer Service,OpEx,Travel & Entertainment,33712.57
+2023,5,Customer Service,OpEx,Professional Services,65418.02
+2023,5,Customer Service,OpEx,Utilities,44332.24
+2023,5,Customer Service,OpEx,Depreciation,79026.23
+2023,6,Sales,Revenue,Product Sales,111996.67
+2023,6,Sales,Revenue,Service Revenue,24311.0
+2023,6,Sales,Revenue,Shipping Revenue,19016.85
+2023,6,Sales,COGS,Product Cost,26845.7
+2023,6,Sales,COGS,Freight In,25392.7
+2023,6,Sales,COGS,Packaging,74644.14
+2023,6,Sales,OpEx,Salaries,98393.39
+2023,6,Sales,OpEx,Marketing Spend,60589.17
+2023,6,Sales,OpEx,Software & SaaS,59171.25
+2023,6,Sales,OpEx,Office Rent,27049.73
+2023,6,Sales,OpEx,Travel & Entertainment,19095.31
+2023,6,Sales,OpEx,Professional Services,41020.42
+2023,6,Sales,OpEx,Utilities,29757.68
+2023,6,Sales,OpEx,Depreciation,48652.9
+2023,6,Marketing,COGS,Product Cost,29308.72
+2023,6,Marketing,COGS,Freight In,19509.27
+2023,6,Marketing,COGS,Packaging,49138.31
+2023,6,Marketing,OpEx,Salaries,56037.19
+2023,6,Marketing,OpEx,Marketing Spend,59905.81
+2023,6,Marketing,OpEx,Software & SaaS,26477.03
+2023,6,Marketing,OpEx,Office Rent,25273.05
+2023,6,Marketing,OpEx,Travel & Entertainment,36614.97
+2023,6,Marketing,OpEx,Professional Services,62037.63
+2023,6,Marketing,OpEx,Utilities,60016.41
+2023,6,Marketing,OpEx,Depreciation,10848.79
+2023,6,Operations,COGS,Product Cost,49187.13
+2023,6,Operations,COGS,Freight In,102617.72
+2023,6,Operations,COGS,Packaging,58028.57
+2023,6,Operations,OpEx,Salaries,56889.25
+2023,6,Operations,OpEx,Marketing Spend,60859.64
+2023,6,Operations,OpEx,Software & SaaS,17809.78
+2023,6,Operations,OpEx,Office Rent,86760.67
+2023,6,Operations,OpEx,Travel & Entertainment,52137.87
+2023,6,Operations,OpEx,Professional Services,75871.11
+2023,6,Operations,OpEx,Utilities,116902.26
+2023,6,Operations,OpEx,Depreciation,97531.49
+2023,6,Finance,COGS,Product Cost,35259.99
+2023,6,Finance,COGS,Freight In,35448.11
+2023,6,Finance,COGS,Packaging,50763.3
+2023,6,Finance,OpEx,Salaries,90748.36
+2023,6,Finance,OpEx,Marketing Spend,116514.95
+2023,6,Finance,OpEx,Software & SaaS,56046.38
+2023,6,Finance,OpEx,Office Rent,16167.15
+2023,6,Finance,OpEx,Travel & Entertainment,42648.0
+2023,6,Finance,OpEx,Professional Services,21910.03
+2023,6,Finance,OpEx,Utilities,13527.39
+2023,6,Finance,OpEx,Depreciation,53553.93
+2023,6,HR,COGS,Product Cost,92486.38
+2023,6,HR,COGS,Freight In,79088.8
+2023,6,HR,COGS,Packaging,91313.71
+2023,6,HR,OpEx,Salaries,25695.29
+2023,6,HR,OpEx,Marketing Spend,17570.64
+2023,6,HR,OpEx,Software & SaaS,109651.06
+2023,6,HR,OpEx,Office Rent,43525.97
+2023,6,HR,OpEx,Travel & Entertainment,95696.37
+2023,6,HR,OpEx,Professional Services,76747.09
+2023,6,HR,OpEx,Utilities,53048.58
+2023,6,HR,OpEx,Depreciation,37259.43
+2023,6,IT,COGS,Product Cost,32339.1
+2023,6,IT,COGS,Freight In,44728.01
+2023,6,IT,COGS,Packaging,50513.5
+2023,6,IT,OpEx,Salaries,61200.85
+2023,6,IT,OpEx,Marketing Spend,10318.8
+2023,6,IT,OpEx,Software & SaaS,108967.91
+2023,6,IT,OpEx,Office Rent,94817.58
+2023,6,IT,OpEx,Travel & Entertainment,59592.09
+2023,6,IT,OpEx,Professional Services,80376.63
+2023,6,IT,OpEx,Utilities,96491.87
+2023,6,IT,OpEx,Depreciation,116332.26
+2023,6,Customer Service,COGS,Product Cost,16763.64
+2023,6,Customer Service,COGS,Freight In,47510.99
+2023,6,Customer Service,COGS,Packaging,78463.9
+2023,6,Customer Service,OpEx,Salaries,84795.77
+2023,6,Customer Service,OpEx,Marketing Spend,104886.92
+2023,6,Customer Service,OpEx,Software & SaaS,79034.48
+2023,6,Customer Service,OpEx,Office Rent,61777.08
+2023,6,Customer Service,OpEx,Travel & Entertainment,102462.44
+2023,6,Customer Service,OpEx,Professional Services,51875.05
+2023,6,Customer Service,OpEx,Utilities,51645.03
+2023,6,Customer Service,OpEx,Depreciation,14049.11
+2023,7,Sales,Revenue,Product Sales,66272.15
+2023,7,Sales,Revenue,Service Revenue,120049.53
+2023,7,Sales,Revenue,Shipping Revenue,37404.32
+2023,7,Sales,COGS,Product Cost,17610.83
+2023,7,Sales,COGS,Freight In,48187.74
+2023,7,Sales,COGS,Packaging,100783.79
+2023,7,Sales,OpEx,Salaries,51626.64
+2023,7,Sales,OpEx,Marketing Spend,30812.49
+2023,7,Sales,OpEx,Software & SaaS,18099.97
+2023,7,Sales,OpEx,Office Rent,119452.81
+2023,7,Sales,OpEx,Travel & Entertainment,80794.15
+2023,7,Sales,OpEx,Professional Services,76237.4
+2023,7,Sales,OpEx,Utilities,89495.1
+2023,7,Sales,OpEx,Depreciation,48542.41
+2023,7,Marketing,COGS,Product Cost,79242.85
+2023,7,Marketing,COGS,Freight In,105712.47
+2023,7,Marketing,COGS,Packaging,117702.86
+2023,7,Marketing,OpEx,Salaries,32289.5
+2023,7,Marketing,OpEx,Marketing Spend,61379.3
+2023,7,Marketing,OpEx,Software & SaaS,103774.11
+2023,7,Marketing,OpEx,Office Rent,105150.48
+2023,7,Marketing,OpEx,Travel & Entertainment,38705.57
+2023,7,Marketing,OpEx,Professional Services,11358.5
+2023,7,Marketing,OpEx,Utilities,81283.58
+2023,7,Marketing,OpEx,Depreciation,81780.83
+2023,7,Operations,COGS,Product Cost,59518.34
+2023,7,Operations,COGS,Freight In,100065.33
+2023,7,Operations,COGS,Packaging,93609.56
+2023,7,Operations,OpEx,Salaries,101321.42
+2023,7,Operations,OpEx,Marketing Spend,96639.95
+2023,7,Operations,OpEx,Software & SaaS,17134.04
+2023,7,Operations,OpEx,Office Rent,66378.6
+2023,7,Operations,OpEx,Travel & Entertainment,91345.42
+2023,7,Operations,OpEx,Professional Services,76700.03
+2023,7,Operations,OpEx,Utilities,34230.79
+2023,7,Operations,OpEx,Depreciation,74639.85
+2023,7,Finance,COGS,Product Cost,40617.2
+2023,7,Finance,COGS,Freight In,99603.99
+2023,7,Finance,COGS,Packaging,61408.87
+2023,7,Finance,OpEx,Salaries,31593.52
+2023,7,Finance,OpEx,Marketing Spend,85932.42
+2023,7,Finance,OpEx,Software & SaaS,68011.98
+2023,7,Finance,OpEx,Office Rent,102840.97
+2023,7,Finance,OpEx,Travel & Entertainment,85934.64
+2023,7,Finance,OpEx,Professional Services,100560.87
+2023,7,Finance,OpEx,Utilities,96338.42
+2023,7,Finance,OpEx,Depreciation,83812.7
+2023,7,HR,COGS,Product Cost,86742.67
+2023,7,HR,COGS,Freight In,106903.54
+2023,7,HR,COGS,Packaging,71948.5
+2023,7,HR,OpEx,Salaries,82164.17
+2023,7,HR,OpEx,Marketing Spend,109963.65
+2023,7,HR,OpEx,Software & SaaS,13098.85
+2023,7,HR,OpEx,Office Rent,32250.84
+2023,7,HR,OpEx,Travel & Entertainment,75408.87
+2023,7,HR,OpEx,Professional Services,97797.26
+2023,7,HR,OpEx,Utilities,118953.81
+2023,7,HR,OpEx,Depreciation,26422.6
+2023,7,IT,COGS,Product Cost,99755.0
+2023,7,IT,COGS,Freight In,116802.78
+2023,7,IT,COGS,Packaging,36417.39
+2023,7,IT,OpEx,Salaries,101729.94
+2023,7,IT,OpEx,Marketing Spend,82918.52
+2023,7,IT,OpEx,Software & SaaS,90366.77
+2023,7,IT,OpEx,Office Rent,77079.26
+2023,7,IT,OpEx,Travel & Entertainment,15357.87
+2023,7,IT,OpEx,Professional Services,56685.73
+2023,7,IT,OpEx,Utilities,106720.88
+2023,7,IT,OpEx,Depreciation,55767.19
+2023,7,Customer Service,COGS,Product Cost,49941.67
+2023,7,Customer Service,COGS,Freight In,24378.95
+2023,7,Customer Service,COGS,Packaging,89963.22
+2023,7,Customer Service,OpEx,Salaries,59420.21
+2023,7,Customer Service,OpEx,Marketing Spend,64903.87
+2023,7,Customer Service,OpEx,Software & SaaS,51119.75
+2023,7,Customer Service,OpEx,Office Rent,112135.86
+2023,7,Customer Service,OpEx,Travel & Entertainment,113963.57
+2023,7,Customer Service,OpEx,Professional Services,43758.44
+2023,7,Customer Service,OpEx,Utilities,51012.81
+2023,7,Customer Service,OpEx,Depreciation,74928.01
+2023,8,Sales,Revenue,Product Sales,32243.63
+2023,8,Sales,Revenue,Service Revenue,15260.21
+2023,8,Sales,Revenue,Shipping Revenue,34971.5
+2023,8,Sales,COGS,Product Cost,108126.47
+2023,8,Sales,COGS,Freight In,73572.29
+2023,8,Sales,COGS,Packaging,99084.15
+2023,8,Sales,OpEx,Salaries,19795.14
+2023,8,Sales,OpEx,Marketing Spend,74379.49
+2023,8,Sales,OpEx,Software & SaaS,50651.7
+2023,8,Sales,OpEx,Office Rent,33417.63
+2023,8,Sales,OpEx,Travel & Entertainment,94112.1
+2023,8,Sales,OpEx,Professional Services,33842.45
+2023,8,Sales,OpEx,Utilities,53264.64
+2023,8,Sales,OpEx,Depreciation,97762.66
+2023,8,Marketing,COGS,Product Cost,62518.54
+2023,8,Marketing,COGS,Freight In,46236.64
+2023,8,Marketing,COGS,Packaging,56587.83
+2023,8,Marketing,OpEx,Salaries,24932.66
+2023,8,Marketing,OpEx,Marketing Spend,95310.72
+2023,8,Marketing,OpEx,Software & SaaS,37893.92
+2023,8,Marketing,OpEx,Office Rent,22511.0
+2023,8,Marketing,OpEx,Travel & Entertainment,54355.41
+2023,8,Marketing,OpEx,Professional Services,74815.71
+2023,8,Marketing,OpEx,Utilities,50522.88
+2023,8,Marketing,OpEx,Depreciation,72764.4
+2023,8,Operations,COGS,Product Cost,24028.82
+2023,8,Operations,COGS,Freight In,19097.45
+2023,8,Operations,COGS,Packaging,66175.15
+2023,8,Operations,OpEx,Salaries,112597.2
+2023,8,Operations,OpEx,Marketing Spend,72442.38
+2023,8,Operations,OpEx,Software & SaaS,89334.32
+2023,8,Operations,OpEx,Office Rent,51087.38
+2023,8,Operations,OpEx,Travel & Entertainment,81320.98
+2023,8,Operations,OpEx,Professional Services,116197.97
+2023,8,Operations,OpEx,Utilities,64444.35
+2023,8,Operations,OpEx,Depreciation,102953.49
+2023,8,Finance,COGS,Product Cost,43072.11
+2023,8,Finance,COGS,Freight In,23809.3
+2023,8,Finance,COGS,Packaging,43199.04
+2023,8,Finance,OpEx,Salaries,48471.64
+2023,8,Finance,OpEx,Marketing Spend,86523.42
+2023,8,Finance,OpEx,Software & SaaS,46346.8
+2023,8,Finance,OpEx,Office Rent,104275.36
+2023,8,Finance,OpEx,Travel & Entertainment,116555.9
+2023,8,Finance,OpEx,Professional Services,78079.1
+2023,8,Finance,OpEx,Utilities,90638.02
+2023,8,Finance,OpEx,Depreciation,75067.66
+2023,8,HR,COGS,Product Cost,59577.81
+2023,8,HR,COGS,Freight In,55947.59
+2023,8,HR,COGS,Packaging,38224.03
+2023,8,HR,OpEx,Salaries,21046.2
+2023,8,HR,OpEx,Marketing Spend,107890.34
+2023,8,HR,OpEx,Software & SaaS,117412.87
+2023,8,HR,OpEx,Office Rent,69081.78
+2023,8,HR,OpEx,Travel & Entertainment,53970.93
+2023,8,HR,OpEx,Professional Services,35061.22
+2023,8,HR,OpEx,Utilities,80753.79
+2023,8,HR,OpEx,Depreciation,98205.2
+2023,8,IT,COGS,Product Cost,88853.93
+2023,8,IT,COGS,Freight In,26049.76
+2023,8,IT,COGS,Packaging,92354.07
+2023,8,IT,OpEx,Salaries,78445.72
+2023,8,IT,OpEx,Marketing Spend,102564.29
+2023,8,IT,OpEx,Software & SaaS,111290.48
+2023,8,IT,OpEx,Office Rent,103588.07
+2023,8,IT,OpEx,Travel & Entertainment,65542.3
+2023,8,IT,OpEx,Professional Services,77644.79
+2023,8,IT,OpEx,Utilities,113187.18
+2023,8,IT,OpEx,Depreciation,33554.07
+2023,8,Customer Service,COGS,Product Cost,103227.5
+2023,8,Customer Service,COGS,Freight In,36996.19
+2023,8,Customer Service,COGS,Packaging,114856.78
+2023,8,Customer Service,OpEx,Salaries,43735.49
+2023,8,Customer Service,OpEx,Marketing Spend,79757.7
+2023,8,Customer Service,OpEx,Software & SaaS,45744.58
+2023,8,Customer Service,OpEx,Office Rent,104060.02
+2023,8,Customer Service,OpEx,Travel & Entertainment,50637.44
+2023,8,Customer Service,OpEx,Professional Services,20175.94
+2023,8,Customer Service,OpEx,Utilities,55323.98
+2023,8,Customer Service,OpEx,Depreciation,106666.84
+2023,9,Sales,Revenue,Product Sales,35320.85
+2023,9,Sales,Revenue,Service Revenue,53971.77
+2023,9,Sales,Revenue,Shipping Revenue,64367.13
+2023,9,Sales,COGS,Product Cost,110323.59
+2023,9,Sales,COGS,Freight In,101358.18
+2023,9,Sales,COGS,Packaging,37572.65
+2023,9,Sales,OpEx,Salaries,88011.47
+2023,9,Sales,OpEx,Marketing Spend,82997.25
+2023,9,Sales,OpEx,Software & SaaS,10436.26
+2023,9,Sales,OpEx,Office Rent,19169.6
+2023,9,Sales,OpEx,Travel & Entertainment,83304.88
+2023,9,Sales,OpEx,Professional Services,52341.33
+2023,9,Sales,OpEx,Utilities,111015.91
+2023,9,Sales,OpEx,Depreciation,111850.99
+2023,9,Marketing,COGS,Product Cost,38510.68
+2023,9,Marketing,COGS,Freight In,89281.66
+2023,9,Marketing,COGS,Packaging,15579.61
+2023,9,Marketing,OpEx,Salaries,111897.16
+2023,9,Marketing,OpEx,Marketing Spend,118381.08
+2023,9,Marketing,OpEx,Software & SaaS,73589.88
+2023,9,Marketing,OpEx,Office Rent,21919.13
+2023,9,Marketing,OpEx,Travel & Entertainment,24680.78
+2023,9,Marketing,OpEx,Professional Services,93879.94
+2023,9,Marketing,OpEx,Utilities,29505.33
+2023,9,Marketing,OpEx,Depreciation,28200.37
+2023,9,Operations,COGS,Product Cost,63636.5
+2023,9,Operations,COGS,Freight In,52126.67
+2023,9,Operations,COGS,Packaging,76811.0
+2023,9,Operations,OpEx,Salaries,83090.33
+2023,9,Operations,OpEx,Marketing Spend,90512.54
+2023,9,Operations,OpEx,Software & SaaS,39679.38
+2023,9,Operations,OpEx,Office Rent,84152.25
+2023,9,Operations,OpEx,Travel & Entertainment,49562.21
+2023,9,Operations,OpEx,Professional Services,25452.63
+2023,9,Operations,OpEx,Utilities,113441.09
+2023,9,Operations,OpEx,Depreciation,17407.07
+2023,9,Finance,COGS,Product Cost,86630.67
+2023,9,Finance,COGS,Freight In,70711.78
+2023,9,Finance,COGS,Packaging,77388.67
+2023,9,Finance,OpEx,Salaries,89972.99
+2023,9,Finance,OpEx,Marketing Spend,72240.16
+2023,9,Finance,OpEx,Software & SaaS,29544.7
+2023,9,Finance,OpEx,Office Rent,75191.36
+2023,9,Finance,OpEx,Travel & Entertainment,99588.39
+2023,9,Finance,OpEx,Professional Services,80743.75
+2023,9,Finance,OpEx,Utilities,41145.43
+2023,9,Finance,OpEx,Depreciation,110153.73
+2023,9,HR,COGS,Product Cost,22419.34
+2023,9,HR,COGS,Freight In,10752.38
+2023,9,HR,COGS,Packaging,99712.42
+2023,9,HR,OpEx,Salaries,86270.42
+2023,9,HR,OpEx,Marketing Spend,73497.11
+2023,9,HR,OpEx,Software & SaaS,23309.68
+2023,9,HR,OpEx,Office Rent,55340.68
+2023,9,HR,OpEx,Travel & Entertainment,109634.12
+2023,9,HR,OpEx,Professional Services,100287.0
+2023,9,HR,OpEx,Utilities,59524.71
+2023,9,HR,OpEx,Depreciation,26736.15
+2023,9,IT,COGS,Product Cost,65669.76
+2023,9,IT,COGS,Freight In,43794.6
+2023,9,IT,COGS,Packaging,65351.61
+2023,9,IT,OpEx,Salaries,53010.41
+2023,9,IT,OpEx,Marketing Spend,42702.45
+2023,9,IT,OpEx,Software & SaaS,69670.88
+2023,9,IT,OpEx,Office Rent,113344.52
+2023,9,IT,OpEx,Travel & Entertainment,37202.23
+2023,9,IT,OpEx,Professional Services,107560.68
+2023,9,IT,OpEx,Utilities,76733.81
+2023,9,IT,OpEx,Depreciation,55797.66
+2023,9,Customer Service,COGS,Product Cost,86323.36
+2023,9,Customer Service,COGS,Freight In,119575.85
+2023,9,Customer Service,COGS,Packaging,31052.76
+2023,9,Customer Service,OpEx,Salaries,22504.7
+2023,9,Customer Service,OpEx,Marketing Spend,108167.34
+2023,9,Customer Service,OpEx,Software & SaaS,16779.99
+2023,9,Customer Service,OpEx,Office Rent,25113.34
+2023,9,Customer Service,OpEx,Travel & Entertainment,54290.64
+2023,9,Customer Service,OpEx,Professional Services,94425.28
+2023,9,Customer Service,OpEx,Utilities,35940.48
+2023,9,Customer Service,OpEx,Depreciation,37577.62
+2023,10,Sales,Revenue,Product Sales,13807.6
+2023,10,Sales,Revenue,Service Revenue,129991.31
+2023,10,Sales,Revenue,Shipping Revenue,135302.63
+2023,10,Sales,COGS,Product Cost,113693.65
+2023,10,Sales,COGS,Freight In,18984.04
+2023,10,Sales,COGS,Packaging,95839.42
+2023,10,Sales,OpEx,Salaries,25338.13
+2023,10,Sales,OpEx,Marketing Spend,101853.62
+2023,10,Sales,OpEx,Software & SaaS,37845.18
+2023,10,Sales,OpEx,Office Rent,56630.31
+2023,10,Sales,OpEx,Travel & Entertainment,99489.68
+2023,10,Sales,OpEx,Professional Services,13260.16
+2023,10,Sales,OpEx,Utilities,78098.74
+2023,10,Sales,OpEx,Depreciation,81699.41
+2023,10,Marketing,COGS,Product Cost,82722.64
+2023,10,Marketing,COGS,Freight In,68878.93
+2023,10,Marketing,COGS,Packaging,110092.16
+2023,10,Marketing,OpEx,Salaries,53465.29
+2023,10,Marketing,OpEx,Marketing Spend,15698.99
+2023,10,Marketing,OpEx,Software & SaaS,106416.41
+2023,10,Marketing,OpEx,Office Rent,63547.43
+2023,10,Marketing,OpEx,Travel & Entertainment,14368.89
+2023,10,Marketing,OpEx,Professional Services,29632.6
+2023,10,Marketing,OpEx,Utilities,85696.41
+2023,10,Marketing,OpEx,Depreciation,101581.61
+2023,10,Operations,COGS,Product Cost,107071.67
+2023,10,Operations,COGS,Freight In,18034.68
+2023,10,Operations,COGS,Packaging,99581.31
+2023,10,Operations,OpEx,Salaries,88615.32
+2023,10,Operations,OpEx,Marketing Spend,110894.84
+2023,10,Operations,OpEx,Software & SaaS,60814.72
+2023,10,Operations,OpEx,Office Rent,47913.18
+2023,10,Operations,OpEx,Travel & Entertainment,48099.07
+2023,10,Operations,OpEx,Professional Services,58055.48
+2023,10,Operations,OpEx,Utilities,118766.63
+2023,10,Operations,OpEx,Depreciation,32810.45
+2023,10,Finance,COGS,Product Cost,119789.81
+2023,10,Finance,COGS,Freight In,89630.99
+2023,10,Finance,COGS,Packaging,88464.04
+2023,10,Finance,OpEx,Salaries,45096.89
+2023,10,Finance,OpEx,Marketing Spend,71110.62
+2023,10,Finance,OpEx,Software & SaaS,70646.51
+2023,10,Finance,OpEx,Office Rent,66241.82
+2023,10,Finance,OpEx,Travel & Entertainment,51945.95
+2023,10,Finance,OpEx,Professional Services,83767.95
+2023,10,Finance,OpEx,Utilities,101761.92
+2023,10,Finance,OpEx,Depreciation,56912.73
+2023,10,HR,COGS,Product Cost,107310.31
+2023,10,HR,COGS,Freight In,14370.48
+2023,10,HR,COGS,Packaging,106404.41
+2023,10,HR,OpEx,Salaries,110549.45
+2023,10,HR,OpEx,Marketing Spend,35408.35
+2023,10,HR,OpEx,Software & SaaS,76229.36
+2023,10,HR,OpEx,Office Rent,17785.42
+2023,10,HR,OpEx,Travel & Entertainment,56901.97
+2023,10,HR,OpEx,Professional Services,30579.5
+2023,10,HR,OpEx,Utilities,31028.61
+2023,10,HR,OpEx,Depreciation,87781.98
+2023,10,IT,COGS,Product Cost,48079.9
+2023,10,IT,COGS,Freight In,118174.61
+2023,10,IT,COGS,Packaging,10362.62
+2023,10,IT,OpEx,Salaries,10674.3
+2023,10,IT,OpEx,Marketing Spend,111070.96
+2023,10,IT,OpEx,Software & SaaS,72297.66
+2023,10,IT,OpEx,Office Rent,77036.38
+2023,10,IT,OpEx,Travel & Entertainment,53944.86
+2023,10,IT,OpEx,Professional Services,60167.55
+2023,10,IT,OpEx,Utilities,87478.43
+2023,10,IT,OpEx,Depreciation,94556.66
+2023,10,Customer Service,COGS,Product Cost,112780.03
+2023,10,Customer Service,COGS,Freight In,110314.8
+2023,10,Customer Service,COGS,Packaging,77197.62
+2023,10,Customer Service,OpEx,Salaries,70768.95
+2023,10,Customer Service,OpEx,Marketing Spend,40569.44
+2023,10,Customer Service,OpEx,Software & SaaS,109024.72
+2023,10,Customer Service,OpEx,Office Rent,47031.16
+2023,10,Customer Service,OpEx,Travel & Entertainment,103071.84
+2023,10,Customer Service,OpEx,Professional Services,13802.59
+2023,10,Customer Service,OpEx,Utilities,17405.3
+2023,10,Customer Service,OpEx,Depreciation,74001.85
+2023,11,Sales,Revenue,Product Sales,109514.15
+2023,11,Sales,Revenue,Service Revenue,117786.54
+2023,11,Sales,Revenue,Shipping Revenue,26745.46
+2023,11,Sales,COGS,Product Cost,64767.26
+2023,11,Sales,COGS,Freight In,83977.68
+2023,11,Sales,COGS,Packaging,98735.56
+2023,11,Sales,OpEx,Salaries,54209.31
+2023,11,Sales,OpEx,Marketing Spend,76594.68
+2023,11,Sales,OpEx,Software & SaaS,46869.21
+2023,11,Sales,OpEx,Office Rent,17137.41
+2023,11,Sales,OpEx,Travel & Entertainment,107119.31
+2023,11,Sales,OpEx,Professional Services,25473.35
+2023,11,Sales,OpEx,Utilities,56179.01
+2023,11,Sales,OpEx,Depreciation,102760.59
+2023,11,Marketing,COGS,Product Cost,61273.4
+2023,11,Marketing,COGS,Freight In,14349.22
+2023,11,Marketing,COGS,Packaging,107187.17
+2023,11,Marketing,OpEx,Salaries,28973.81
+2023,11,Marketing,OpEx,Marketing Spend,69949.18
+2023,11,Marketing,OpEx,Software & SaaS,18819.61
+2023,11,Marketing,OpEx,Office Rent,97169.71
+2023,11,Marketing,OpEx,Travel & Entertainment,78429.64
+2023,11,Marketing,OpEx,Professional Services,92512.84
+2023,11,Marketing,OpEx,Utilities,104679.13
+2023,11,Marketing,OpEx,Depreciation,91589.59
+2023,11,Operations,COGS,Product Cost,45217.31
+2023,11,Operations,COGS,Freight In,100321.34
+2023,11,Operations,COGS,Packaging,27735.46
+2023,11,Operations,OpEx,Salaries,114278.99
+2023,11,Operations,OpEx,Marketing Spend,93316.2
+2023,11,Operations,OpEx,Software & SaaS,99841.7
+2023,11,Operations,OpEx,Office Rent,43639.45
+2023,11,Operations,OpEx,Travel & Entertainment,32642.89
+2023,11,Operations,OpEx,Professional Services,21567.07
+2023,11,Operations,OpEx,Utilities,68854.29
+2023,11,Operations,OpEx,Depreciation,117138.8
+2023,11,Finance,COGS,Product Cost,57518.32
+2023,11,Finance,COGS,Freight In,95961.66
+2023,11,Finance,COGS,Packaging,38535.74
+2023,11,Finance,OpEx,Salaries,12942.62
+2023,11,Finance,OpEx,Marketing Spend,68580.18
+2023,11,Finance,OpEx,Software & SaaS,12058.37
+2023,11,Finance,OpEx,Office Rent,42762.43
+2023,11,Finance,OpEx,Travel & Entertainment,88678.97
+2023,11,Finance,OpEx,Professional Services,110946.48
+2023,11,Finance,OpEx,Utilities,65087.98
+2023,11,Finance,OpEx,Depreciation,87706.41
+2023,11,HR,COGS,Product Cost,19596.83
+2023,11,HR,COGS,Freight In,66957.54
+2023,11,HR,COGS,Packaging,16894.93
+2023,11,HR,OpEx,Salaries,61764.03
+2023,11,HR,OpEx,Marketing Spend,97179.46
+2023,11,HR,OpEx,Software & SaaS,93543.71
+2023,11,HR,OpEx,Office Rent,76724.06
+2023,11,HR,OpEx,Travel & Entertainment,110623.68
+2023,11,HR,OpEx,Professional Services,83121.39
+2023,11,HR,OpEx,Utilities,40811.47
+2023,11,HR,OpEx,Depreciation,83072.07
+2023,11,IT,COGS,Product Cost,89666.05
+2023,11,IT,COGS,Freight In,24268.02
+2023,11,IT,COGS,Packaging,49734.56
+2023,11,IT,OpEx,Salaries,98526.85
+2023,11,IT,OpEx,Marketing Spend,53460.81
+2023,11,IT,OpEx,Software & SaaS,79190.68
+2023,11,IT,OpEx,Office Rent,23415.46
+2023,11,IT,OpEx,Travel & Entertainment,46735.39
+2023,11,IT,OpEx,Professional Services,72834.72
+2023,11,IT,OpEx,Utilities,89282.68
+2023,11,IT,OpEx,Depreciation,119835.71
+2023,11,Customer Service,COGS,Product Cost,24069.35
+2023,11,Customer Service,COGS,Freight In,115610.63
+2023,11,Customer Service,COGS,Packaging,104668.77
+2023,11,Customer Service,OpEx,Salaries,24352.46
+2023,11,Customer Service,OpEx,Marketing Spend,51555.01
+2023,11,Customer Service,OpEx,Software & SaaS,88185.02
+2023,11,Customer Service,OpEx,Office Rent,75990.09
+2023,11,Customer Service,OpEx,Travel & Entertainment,113503.8
+2023,11,Customer Service,OpEx,Professional Services,88684.58
+2023,11,Customer Service,OpEx,Utilities,100548.85
+2023,11,Customer Service,OpEx,Depreciation,62373.31
+2023,12,Sales,Revenue,Product Sales,68016.85
+2023,12,Sales,Revenue,Service Revenue,87014.88
+2023,12,Sales,Revenue,Shipping Revenue,24641.38
+2023,12,Sales,COGS,Product Cost,76711.86
+2023,12,Sales,COGS,Freight In,116805.75
+2023,12,Sales,COGS,Packaging,60211.87
+2023,12,Sales,OpEx,Salaries,27681.06
+2023,12,Sales,OpEx,Marketing Spend,62420.67
+2023,12,Sales,OpEx,Software & SaaS,49737.07
+2023,12,Sales,OpEx,Office Rent,45099.36
+2023,12,Sales,OpEx,Travel & Entertainment,55087.81
+2023,12,Sales,OpEx,Professional Services,101193.93
+2023,12,Sales,OpEx,Utilities,96940.23
+2023,12,Sales,OpEx,Depreciation,34568.12
+2023,12,Marketing,COGS,Product Cost,71107.27
+2023,12,Marketing,COGS,Freight In,64849.43
+2023,12,Marketing,COGS,Packaging,82305.27
+2023,12,Marketing,OpEx,Salaries,90070.58
+2023,12,Marketing,OpEx,Marketing Spend,78901.64
+2023,12,Marketing,OpEx,Software & SaaS,48261.96
+2023,12,Marketing,OpEx,Office Rent,45089.82
+2023,12,Marketing,OpEx,Travel & Entertainment,31197.63
+2023,12,Marketing,OpEx,Professional Services,94395.45
+2023,12,Marketing,OpEx,Utilities,45781.83
+2023,12,Marketing,OpEx,Depreciation,89232.19
+2023,12,Operations,COGS,Product Cost,109058.03
+2023,12,Operations,COGS,Freight In,76104.57
+2023,12,Operations,COGS,Packaging,74188.21
+2023,12,Operations,OpEx,Salaries,84169.93
+2023,12,Operations,OpEx,Marketing Spend,13420.64
+2023,12,Operations,OpEx,Software & SaaS,66821.83
+2023,12,Operations,OpEx,Office Rent,108604.59
+2023,12,Operations,OpEx,Travel & Entertainment,117483.33
+2023,12,Operations,OpEx,Professional Services,115988.73
+2023,12,Operations,OpEx,Utilities,49062.7
+2023,12,Operations,OpEx,Depreciation,82240.33
+2023,12,Finance,COGS,Product Cost,85546.13
+2023,12,Finance,COGS,Freight In,85068.57
+2023,12,Finance,COGS,Packaging,47023.33
+2023,12,Finance,OpEx,Salaries,45157.16
+2023,12,Finance,OpEx,Marketing Spend,93525.32
+2023,12,Finance,OpEx,Software & SaaS,93472.92
+2023,12,Finance,OpEx,Office Rent,87902.7
+2023,12,Finance,OpEx,Travel & Entertainment,60163.58
+2023,12,Finance,OpEx,Professional Services,65366.9
+2023,12,Finance,OpEx,Utilities,116925.28
+2023,12,Finance,OpEx,Depreciation,106439.98
+2023,12,HR,COGS,Product Cost,108723.68
+2023,12,HR,COGS,Freight In,117077.64
+2023,12,HR,COGS,Packaging,111748.85
+2023,12,HR,OpEx,Salaries,60108.51
+2023,12,HR,OpEx,Marketing Spend,83269.26
+2023,12,HR,OpEx,Software & SaaS,12383.06
+2023,12,HR,OpEx,Office Rent,44139.12
+2023,12,HR,OpEx,Travel & Entertainment,17485.6
+2023,12,HR,OpEx,Professional Services,29116.66
+2023,12,HR,OpEx,Utilities,85689.09
+2023,12,HR,OpEx,Depreciation,64095.94
+2023,12,IT,COGS,Product Cost,108175.52
+2023,12,IT,COGS,Freight In,113687.19
+2023,12,IT,COGS,Packaging,86346.19
+2023,12,IT,OpEx,Salaries,57027.57
+2023,12,IT,OpEx,Marketing Spend,67399.83
+2023,12,IT,OpEx,Software & SaaS,40076.36
+2023,12,IT,OpEx,Office Rent,23869.13
+2023,12,IT,OpEx,Travel & Entertainment,100609.82
+2023,12,IT,OpEx,Professional Services,16522.35
+2023,12,IT,OpEx,Utilities,70347.54
+2023,12,IT,OpEx,Depreciation,22647.84
+2023,12,Customer Service,COGS,Product Cost,22921.73
+2023,12,Customer Service,COGS,Freight In,95644.71
+2023,12,Customer Service,COGS,Packaging,27273.32
+2023,12,Customer Service,OpEx,Salaries,15170.68
+2023,12,Customer Service,OpEx,Marketing Spend,42313.34
+2023,12,Customer Service,OpEx,Software & SaaS,13206.31
+2023,12,Customer Service,OpEx,Office Rent,43875.35
+2023,12,Customer Service,OpEx,Travel & Entertainment,56545.9
+2023,12,Customer Service,OpEx,Professional Services,119106.53
+2023,12,Customer Service,OpEx,Utilities,82299.54
+2023,12,Customer Service,OpEx,Depreciation,99241.41
+2024,1,Sales,Revenue,Product Sales,143185.24
+2024,1,Sales,Revenue,Service Revenue,25051.25
+2024,1,Sales,Revenue,Shipping Revenue,53925.05
+2024,1,Sales,COGS,Product Cost,98307.89
+2024,1,Sales,COGS,Freight In,75428.13
+2024,1,Sales,COGS,Packaging,112684.85
+2024,1,Sales,OpEx,Salaries,38723.4
+2024,1,Sales,OpEx,Marketing Spend,27692.82
+2024,1,Sales,OpEx,Software & SaaS,41076.09
+2024,1,Sales,OpEx,Office Rent,21581.03
+2024,1,Sales,OpEx,Travel & Entertainment,31081.42
+2024,1,Sales,OpEx,Professional Services,56860.55
+2024,1,Sales,OpEx,Utilities,36956.71
+2024,1,Sales,OpEx,Depreciation,99547.87
+2024,1,Marketing,COGS,Product Cost,85827.37
+2024,1,Marketing,COGS,Freight In,20658.71
+2024,1,Marketing,COGS,Packaging,28265.62
+2024,1,Marketing,OpEx,Salaries,18874.11
+2024,1,Marketing,OpEx,Marketing Spend,16255.64
+2024,1,Marketing,OpEx,Software & SaaS,36623.62
+2024,1,Marketing,OpEx,Office Rent,39789.3
+2024,1,Marketing,OpEx,Travel & Entertainment,27001.27
+2024,1,Marketing,OpEx,Professional Services,98667.19
+2024,1,Marketing,OpEx,Utilities,13116.79
+2024,1,Marketing,OpEx,Depreciation,116425.26
+2024,1,Operations,COGS,Product Cost,33098.34
+2024,1,Operations,COGS,Freight In,20055.06
+2024,1,Operations,COGS,Packaging,27031.94
+2024,1,Operations,OpEx,Salaries,100378.09
+2024,1,Operations,OpEx,Marketing Spend,80068.62
+2024,1,Operations,OpEx,Software & SaaS,101956.4
+2024,1,Operations,OpEx,Office Rent,80408.55
+2024,1,Operations,OpEx,Travel & Entertainment,11273.83
+2024,1,Operations,OpEx,Professional Services,91070.59
+2024,1,Operations,OpEx,Utilities,32429.31
+2024,1,Operations,OpEx,Depreciation,49652.89
+2024,1,Finance,COGS,Product Cost,18292.61
+2024,1,Finance,COGS,Freight In,39125.62
+2024,1,Finance,COGS,Packaging,56621.48
+2024,1,Finance,OpEx,Salaries,81938.44
+2024,1,Finance,OpEx,Marketing Spend,92308.91
+2024,1,Finance,OpEx,Software & SaaS,32018.3
+2024,1,Finance,OpEx,Office Rent,24969.81
+2024,1,Finance,OpEx,Travel & Entertainment,23191.1
+2024,1,Finance,OpEx,Professional Services,21953.46
+2024,1,Finance,OpEx,Utilities,83488.3
+2024,1,Finance,OpEx,Depreciation,88696.5
+2024,1,HR,COGS,Product Cost,90801.41
+2024,1,HR,COGS,Freight In,87195.41
+2024,1,HR,COGS,Packaging,103612.04
+2024,1,HR,OpEx,Salaries,33061.96
+2024,1,HR,OpEx,Marketing Spend,119643.59
+2024,1,HR,OpEx,Software & SaaS,116834.89
+2024,1,HR,OpEx,Office Rent,23997.76
+2024,1,HR,OpEx,Travel & Entertainment,50561.84
+2024,1,HR,OpEx,Professional Services,39668.27
+2024,1,HR,OpEx,Utilities,99873.03
+2024,1,HR,OpEx,Depreciation,116423.57
+2024,1,IT,COGS,Product Cost,31065.43
+2024,1,IT,COGS,Freight In,71067.65
+2024,1,IT,COGS,Packaging,100802.48
+2024,1,IT,OpEx,Salaries,86303.09
+2024,1,IT,OpEx,Marketing Spend,91049.06
+2024,1,IT,OpEx,Software & SaaS,106348.47
+2024,1,IT,OpEx,Office Rent,66965.87
+2024,1,IT,OpEx,Travel & Entertainment,111866.3
+2024,1,IT,OpEx,Professional Services,15012.83
+2024,1,IT,OpEx,Utilities,83221.8
+2024,1,IT,OpEx,Depreciation,85473.83
+2024,1,Customer Service,COGS,Product Cost,100340.72
+2024,1,Customer Service,COGS,Freight In,49678.34
+2024,1,Customer Service,COGS,Packaging,100468.85
+2024,1,Customer Service,OpEx,Salaries,49394.14
+2024,1,Customer Service,OpEx,Marketing Spend,87135.51
+2024,1,Customer Service,OpEx,Software & SaaS,63066.6
+2024,1,Customer Service,OpEx,Office Rent,110072.17
+2024,1,Customer Service,OpEx,Travel & Entertainment,39099.76
+2024,1,Customer Service,OpEx,Professional Services,13731.63
+2024,1,Customer Service,OpEx,Utilities,98740.57
+2024,1,Customer Service,OpEx,Depreciation,10958.0
+2024,2,Sales,Revenue,Product Sales,155828.54
+2024,2,Sales,Revenue,Service Revenue,77709.82
+2024,2,Sales,Revenue,Shipping Revenue,35022.3
+2024,2,Sales,COGS,Product Cost,60322.19
+2024,2,Sales,COGS,Freight In,98255.95
+2024,2,Sales,COGS,Packaging,75306.2
+2024,2,Sales,OpEx,Salaries,99713.22
+2024,2,Sales,OpEx,Marketing Spend,109353.35
+2024,2,Sales,OpEx,Software & SaaS,81854.71
+2024,2,Sales,OpEx,Office Rent,74109.05
+2024,2,Sales,OpEx,Travel & Entertainment,12435.32
+2024,2,Sales,OpEx,Professional Services,12679.3
+2024,2,Sales,OpEx,Utilities,49650.76
+2024,2,Sales,OpEx,Depreciation,48965.05
+2024,2,Marketing,COGS,Product Cost,57857.03
+2024,2,Marketing,COGS,Freight In,57755.42
+2024,2,Marketing,COGS,Packaging,119080.65
+2024,2,Marketing,OpEx,Salaries,99568.53
+2024,2,Marketing,OpEx,Marketing Spend,79545.65
+2024,2,Marketing,OpEx,Software & SaaS,13419.03
+2024,2,Marketing,OpEx,Office Rent,53685.28
+2024,2,Marketing,OpEx,Travel & Entertainment,83527.17
+2024,2,Marketing,OpEx,Professional Services,21456.81
+2024,2,Marketing,OpEx,Utilities,32142.1
+2024,2,Marketing,OpEx,Depreciation,95123.66
+2024,2,Operations,COGS,Product Cost,50890.63
+2024,2,Operations,COGS,Freight In,35425.31
+2024,2,Operations,COGS,Packaging,86179.86
+2024,2,Operations,OpEx,Salaries,37117.78
+2024,2,Operations,OpEx,Marketing Spend,65936.71
+2024,2,Operations,OpEx,Software & SaaS,114250.88
+2024,2,Operations,OpEx,Office Rent,60592.21
+2024,2,Operations,OpEx,Travel & Entertainment,27082.35
+2024,2,Operations,OpEx,Professional Services,57011.77
+2024,2,Operations,OpEx,Utilities,64931.3
+2024,2,Operations,OpEx,Depreciation,72689.97
+2024,2,Finance,COGS,Product Cost,46973.56
+2024,2,Finance,COGS,Freight In,76494.66
+2024,2,Finance,COGS,Packaging,48977.86
+2024,2,Finance,OpEx,Salaries,102699.58
+2024,2,Finance,OpEx,Marketing Spend,106343.12
+2024,2,Finance,OpEx,Software & SaaS,89765.02
+2024,2,Finance,OpEx,Office Rent,64231.27
+2024,2,Finance,OpEx,Travel & Entertainment,84915.94
+2024,2,Finance,OpEx,Professional Services,98112.22
+2024,2,Finance,OpEx,Utilities,21711.74
+2024,2,Finance,OpEx,Depreciation,103500.71
+2024,2,HR,COGS,Product Cost,40784.56
+2024,2,HR,COGS,Freight In,33460.5
+2024,2,HR,COGS,Packaging,53355.21
+2024,2,HR,OpEx,Salaries,24227.59
+2024,2,HR,OpEx,Marketing Spend,60783.67
+2024,2,HR,OpEx,Software & SaaS,39768.61
+2024,2,HR,OpEx,Office Rent,83294.56
+2024,2,HR,OpEx,Travel & Entertainment,40598.14
+2024,2,HR,OpEx,Professional Services,46999.21
+2024,2,HR,OpEx,Utilities,18884.58
+2024,2,HR,OpEx,Depreciation,35454.69
+2024,2,IT,COGS,Product Cost,23504.66
+2024,2,IT,COGS,Freight In,10720.47
+2024,2,IT,COGS,Packaging,105639.36
+2024,2,IT,OpEx,Salaries,89030.44
+2024,2,IT,OpEx,Marketing Spend,62451.07
+2024,2,IT,OpEx,Software & SaaS,84708.8
+2024,2,IT,OpEx,Office Rent,49215.79
+2024,2,IT,OpEx,Travel & Entertainment,112526.61
+2024,2,IT,OpEx,Professional Services,114211.01
+2024,2,IT,OpEx,Utilities,112437.79
+2024,2,IT,OpEx,Depreciation,62967.11
+2024,2,Customer Service,COGS,Product Cost,32690.58
+2024,2,Customer Service,COGS,Freight In,86913.31
+2024,2,Customer Service,COGS,Packaging,92720.93
+2024,2,Customer Service,OpEx,Salaries,119425.75
+2024,2,Customer Service,OpEx,Marketing Spend,90454.98
+2024,2,Customer Service,OpEx,Software & SaaS,58451.25
+2024,2,Customer Service,OpEx,Office Rent,76870.23
+2024,2,Customer Service,OpEx,Travel & Entertainment,73631.46
+2024,2,Customer Service,OpEx,Professional Services,115436.85
+2024,2,Customer Service,OpEx,Utilities,11311.15
+2024,2,Customer Service,OpEx,Depreciation,63868.88
+2024,3,Sales,Revenue,Product Sales,24387.42
+2024,3,Sales,Revenue,Service Revenue,110534.43
+2024,3,Sales,Revenue,Shipping Revenue,167211.37
+2024,3,Sales,COGS,Product Cost,115205.46
+2024,3,Sales,COGS,Freight In,96602.71
+2024,3,Sales,COGS,Packaging,111908.93
+2024,3,Sales,OpEx,Salaries,106204.5
+2024,3,Sales,OpEx,Marketing Spend,109286.43
+2024,3,Sales,OpEx,Software & SaaS,22253.86
+2024,3,Sales,OpEx,Office Rent,29966.67
+2024,3,Sales,OpEx,Travel & Entertainment,71537.55
+2024,3,Sales,OpEx,Professional Services,59849.36
+2024,3,Sales,OpEx,Utilities,99089.0
+2024,3,Sales,OpEx,Depreciation,15691.36
+2024,3,Marketing,COGS,Product Cost,102542.63
+2024,3,Marketing,COGS,Freight In,103499.01
+2024,3,Marketing,COGS,Packaging,21599.54
+2024,3,Marketing,OpEx,Salaries,62396.77
+2024,3,Marketing,OpEx,Marketing Spend,114115.4
+2024,3,Marketing,OpEx,Software & SaaS,91628.45
+2024,3,Marketing,OpEx,Office Rent,15683.84
+2024,3,Marketing,OpEx,Travel & Entertainment,27589.99
+2024,3,Marketing,OpEx,Professional Services,83682.58
+2024,3,Marketing,OpEx,Utilities,76719.09
+2024,3,Marketing,OpEx,Depreciation,86639.4
+2024,3,Operations,COGS,Product Cost,55317.24
+2024,3,Operations,COGS,Freight In,10028.46
+2024,3,Operations,COGS,Packaging,26581.77
+2024,3,Operations,OpEx,Salaries,82072.98
+2024,3,Operations,OpEx,Marketing Spend,105855.21
+2024,3,Operations,OpEx,Software & SaaS,23336.25
+2024,3,Operations,OpEx,Office Rent,92784.3
+2024,3,Operations,OpEx,Travel & Entertainment,29798.65
+2024,3,Operations,OpEx,Professional Services,80749.85
+2024,3,Operations,OpEx,Utilities,55487.94
+2024,3,Operations,OpEx,Depreciation,35803.49
+2024,3,Finance,COGS,Product Cost,46063.78
+2024,3,Finance,COGS,Freight In,95774.17
+2024,3,Finance,COGS,Packaging,89373.93
+2024,3,Finance,OpEx,Salaries,22648.66
+2024,3,Finance,OpEx,Marketing Spend,96851.59
+2024,3,Finance,OpEx,Software & SaaS,28408.49
+2024,3,Finance,OpEx,Office Rent,112954.13
+2024,3,Finance,OpEx,Travel & Entertainment,16235.58
+2024,3,Finance,OpEx,Professional Services,10332.78
+2024,3,Finance,OpEx,Utilities,113285.49
+2024,3,Finance,OpEx,Depreciation,11296.6
+2024,3,HR,COGS,Product Cost,90766.97
+2024,3,HR,COGS,Freight In,34313.86
+2024,3,HR,COGS,Packaging,58807.2
+2024,3,HR,OpEx,Salaries,56551.66
+2024,3,HR,OpEx,Marketing Spend,66724.18
+2024,3,HR,OpEx,Software & SaaS,45699.61
+2024,3,HR,OpEx,Office Rent,47189.28
+2024,3,HR,OpEx,Travel & Entertainment,74647.11
+2024,3,HR,OpEx,Professional Services,20666.26
+2024,3,HR,OpEx,Utilities,42634.36
+2024,3,HR,OpEx,Depreciation,58151.19
+2024,3,IT,COGS,Product Cost,52990.92
+2024,3,IT,COGS,Freight In,84487.01
+2024,3,IT,COGS,Packaging,29577.95
+2024,3,IT,OpEx,Salaries,47302.84
+2024,3,IT,OpEx,Marketing Spend,23732.4
+2024,3,IT,OpEx,Software & SaaS,24776.68
+2024,3,IT,OpEx,Office Rent,116441.09
+2024,3,IT,OpEx,Travel & Entertainment,70878.66
+2024,3,IT,OpEx,Professional Services,45634.8
+2024,3,IT,OpEx,Utilities,114987.34
+2024,3,IT,OpEx,Depreciation,54150.27
+2024,3,Customer Service,COGS,Product Cost,106441.59
+2024,3,Customer Service,COGS,Freight In,31271.67
+2024,3,Customer Service,COGS,Packaging,105680.12
+2024,3,Customer Service,OpEx,Salaries,109467.7
+2024,3,Customer Service,OpEx,Marketing Spend,96252.28
+2024,3,Customer Service,OpEx,Software & SaaS,88634.81
+2024,3,Customer Service,OpEx,Office Rent,59404.57
+2024,3,Customer Service,OpEx,Travel & Entertainment,58578.18
+2024,3,Customer Service,OpEx,Professional Services,71571.86
+2024,3,Customer Service,OpEx,Utilities,56141.17
+2024,3,Customer Service,OpEx,Depreciation,101734.75
+2024,4,Sales,Revenue,Product Sales,144396.91
+2024,4,Sales,Revenue,Service Revenue,91051.91
+2024,4,Sales,Revenue,Shipping Revenue,103852.12
+2024,4,Sales,COGS,Product Cost,19464.74
+2024,4,Sales,COGS,Freight In,99215.1
+2024,4,Sales,COGS,Packaging,80521.71
+2024,4,Sales,OpEx,Salaries,41866.66
+2024,4,Sales,OpEx,Marketing Spend,59235.92
+2024,4,Sales,OpEx,Software & SaaS,73697.01
+2024,4,Sales,OpEx,Office Rent,108204.43
+2024,4,Sales,OpEx,Travel & Entertainment,61998.06
+2024,4,Sales,OpEx,Professional Services,27611.84
+2024,4,Sales,OpEx,Utilities,106669.6
+2024,4,Sales,OpEx,Depreciation,91458.87
+2024,4,Marketing,COGS,Product Cost,83699.42
+2024,4,Marketing,COGS,Freight In,26194.18
+2024,4,Marketing,COGS,Packaging,118039.43
+2024,4,Marketing,OpEx,Salaries,58239.38
+2024,4,Marketing,OpEx,Marketing Spend,58443.55
+2024,4,Marketing,OpEx,Software & SaaS,63072.01
+2024,4,Marketing,OpEx,Office Rent,52787.61
+2024,4,Marketing,OpEx,Travel & Entertainment,65985.69
+2024,4,Marketing,OpEx,Professional Services,53330.35
+2024,4,Marketing,OpEx,Utilities,118432.53
+2024,4,Marketing,OpEx,Depreciation,109304.32
+2024,4,Operations,COGS,Product Cost,15519.16
+2024,4,Operations,COGS,Freight In,95517.76
+2024,4,Operations,COGS,Packaging,83505.33
+2024,4,Operations,OpEx,Salaries,27493.9
+2024,4,Operations,OpEx,Marketing Spend,116029.0
+2024,4,Operations,OpEx,Software & SaaS,22959.08
+2024,4,Operations,OpEx,Office Rent,108012.84
+2024,4,Operations,OpEx,Travel & Entertainment,118790.81
+2024,4,Operations,OpEx,Professional Services,37408.49
+2024,4,Operations,OpEx,Utilities,95847.13
+2024,4,Operations,OpEx,Depreciation,65654.22
+2024,4,Finance,COGS,Product Cost,96643.88
+2024,4,Finance,COGS,Freight In,35754.13
+2024,4,Finance,COGS,Packaging,29979.16
+2024,4,Finance,OpEx,Salaries,51872.32
+2024,4,Finance,OpEx,Marketing Spend,69361.73
+2024,4,Finance,OpEx,Software & SaaS,10092.42
+2024,4,Finance,OpEx,Office Rent,110856.07
+2024,4,Finance,OpEx,Travel & Entertainment,33414.31
+2024,4,Finance,OpEx,Professional Services,15079.55
+2024,4,Finance,OpEx,Utilities,13390.88
+2024,4,Finance,OpEx,Depreciation,39553.45
+2024,4,HR,COGS,Product Cost,117309.11
+2024,4,HR,COGS,Freight In,54622.85
+2024,4,HR,COGS,Packaging,23751.09
+2024,4,HR,OpEx,Salaries,57705.13
+2024,4,HR,OpEx,Marketing Spend,39366.44
+2024,4,HR,OpEx,Software & SaaS,76226.99
+2024,4,HR,OpEx,Office Rent,105231.71
+2024,4,HR,OpEx,Travel & Entertainment,99800.38
+2024,4,HR,OpEx,Professional Services,64816.85
+2024,4,HR,OpEx,Utilities,14837.43
+2024,4,HR,OpEx,Depreciation,113250.55
+2024,4,IT,COGS,Product Cost,40579.61
+2024,4,IT,COGS,Freight In,105906.75
+2024,4,IT,COGS,Packaging,15596.99
+2024,4,IT,OpEx,Salaries,75037.84
+2024,4,IT,OpEx,Marketing Spend,82652.38
+2024,4,IT,OpEx,Software & SaaS,108091.09
+2024,4,IT,OpEx,Office Rent,52627.12
+2024,4,IT,OpEx,Travel & Entertainment,82634.93
+2024,4,IT,OpEx,Professional Services,103235.98
+2024,4,IT,OpEx,Utilities,65410.74
+2024,4,IT,OpEx,Depreciation,58032.93
+2024,4,Customer Service,COGS,Product Cost,109719.99
+2024,4,Customer Service,COGS,Freight In,87866.02
+2024,4,Customer Service,COGS,Packaging,101569.4
+2024,4,Customer Service,OpEx,Salaries,38046.34
+2024,4,Customer Service,OpEx,Marketing Spend,65175.24
+2024,4,Customer Service,OpEx,Software & SaaS,67587.53
+2024,4,Customer Service,OpEx,Office Rent,69313.53
+2024,4,Customer Service,OpEx,Travel & Entertainment,17377.55
+2024,4,Customer Service,OpEx,Professional Services,65649.5
+2024,4,Customer Service,OpEx,Utilities,79054.41
+2024,4,Customer Service,OpEx,Depreciation,89837.23
+2024,5,Sales,Revenue,Product Sales,81728.74
+2024,5,Sales,Revenue,Service Revenue,41197.31
+2024,5,Sales,Revenue,Shipping Revenue,91592.3
+2024,5,Sales,COGS,Product Cost,27713.65
+2024,5,Sales,COGS,Freight In,34068.3
+2024,5,Sales,COGS,Packaging,101794.77
+2024,5,Sales,OpEx,Salaries,102487.84
+2024,5,Sales,OpEx,Marketing Spend,23494.03
+2024,5,Sales,OpEx,Software & SaaS,12619.15
+2024,5,Sales,OpEx,Office Rent,100442.09
+2024,5,Sales,OpEx,Travel & Entertainment,116682.32
+2024,5,Sales,OpEx,Professional Services,10739.31
+2024,5,Sales,OpEx,Utilities,114288.28
+2024,5,Sales,OpEx,Depreciation,95862.28
+2024,5,Marketing,COGS,Product Cost,111602.73
+2024,5,Marketing,COGS,Freight In,49971.64
+2024,5,Marketing,COGS,Packaging,39251.04
+2024,5,Marketing,OpEx,Salaries,61112.53
+2024,5,Marketing,OpEx,Marketing Spend,52964.66
+2024,5,Marketing,OpEx,Software & SaaS,55945.87
+2024,5,Marketing,OpEx,Office Rent,35374.06
+2024,5,Marketing,OpEx,Travel & Entertainment,20860.36
+2024,5,Marketing,OpEx,Professional Services,91244.68
+2024,5,Marketing,OpEx,Utilities,81819.87
+2024,5,Marketing,OpEx,Depreciation,96560.14
+2024,5,Operations,COGS,Product Cost,59513.15
+2024,5,Operations,COGS,Freight In,112543.47
+2024,5,Operations,COGS,Packaging,89153.44
+2024,5,Operations,OpEx,Salaries,104746.05
+2024,5,Operations,OpEx,Marketing Spend,53345.38
+2024,5,Operations,OpEx,Software & SaaS,23829.45
+2024,5,Operations,OpEx,Office Rent,91113.11
+2024,5,Operations,OpEx,Travel & Entertainment,80483.67
+2024,5,Operations,OpEx,Professional Services,44193.62
+2024,5,Operations,OpEx,Utilities,111923.09
+2024,5,Operations,OpEx,Depreciation,50013.25
+2024,5,Finance,COGS,Product Cost,78552.56
+2024,5,Finance,COGS,Freight In,68214.17
+2024,5,Finance,COGS,Packaging,65140.72
+2024,5,Finance,OpEx,Salaries,61482.16
+2024,5,Finance,OpEx,Marketing Spend,40346.13
+2024,5,Finance,OpEx,Software & SaaS,57423.72
+2024,5,Finance,OpEx,Office Rent,70941.16
+2024,5,Finance,OpEx,Travel & Entertainment,55556.95
+2024,5,Finance,OpEx,Professional Services,75440.3
+2024,5,Finance,OpEx,Utilities,96200.0
+2024,5,Finance,OpEx,Depreciation,67880.52
+2024,5,HR,COGS,Product Cost,40319.22
+2024,5,HR,COGS,Freight In,98044.7
+2024,5,HR,COGS,Packaging,55637.41
+2024,5,HR,OpEx,Salaries,32238.62
+2024,5,HR,OpEx,Marketing Spend,27844.98
+2024,5,HR,OpEx,Software & SaaS,38263.74
+2024,5,HR,OpEx,Office Rent,19785.82
+2024,5,HR,OpEx,Travel & Entertainment,119980.71
+2024,5,HR,OpEx,Professional Services,36297.19
+2024,5,HR,OpEx,Utilities,108652.15
+2024,5,HR,OpEx,Depreciation,22324.21
+2024,5,IT,COGS,Product Cost,38912.96
+2024,5,IT,COGS,Freight In,48900.59
+2024,5,IT,COGS,Packaging,45572.16
+2024,5,IT,OpEx,Salaries,45176.08
+2024,5,IT,OpEx,Marketing Spend,41850.46
+2024,5,IT,OpEx,Software & SaaS,53196.49
+2024,5,IT,OpEx,Office Rent,40412.81
+2024,5,IT,OpEx,Travel & Entertainment,60320.5
+2024,5,IT,OpEx,Professional Services,60030.5
+2024,5,IT,OpEx,Utilities,33223.3
+2024,5,IT,OpEx,Depreciation,59837.34
+2024,5,Customer Service,COGS,Product Cost,70082.78
+2024,5,Customer Service,COGS,Freight In,60190.42
+2024,5,Customer Service,COGS,Packaging,82240.39
+2024,5,Customer Service,OpEx,Salaries,116576.73
+2024,5,Customer Service,OpEx,Marketing Spend,110525.41
+2024,5,Customer Service,OpEx,Software & SaaS,106444.48
+2024,5,Customer Service,OpEx,Office Rent,32366.71
+2024,5,Customer Service,OpEx,Travel & Entertainment,88325.3
+2024,5,Customer Service,OpEx,Professional Services,88164.99
+2024,5,Customer Service,OpEx,Utilities,58109.94
+2024,5,Customer Service,OpEx,Depreciation,61037.28
+2024,6,Sales,Revenue,Product Sales,30221.75
+2024,6,Sales,Revenue,Service Revenue,62325.39
+2024,6,Sales,Revenue,Shipping Revenue,27848.67
+2024,6,Sales,COGS,Product Cost,74146.96
+2024,6,Sales,COGS,Freight In,100445.26
+2024,6,Sales,COGS,Packaging,24180.0
+2024,6,Sales,OpEx,Salaries,112769.87
+2024,6,Sales,OpEx,Marketing Spend,61757.96
+2024,6,Sales,OpEx,Software & SaaS,28493.27
+2024,6,Sales,OpEx,Office Rent,98187.84
+2024,6,Sales,OpEx,Travel & Entertainment,69034.83
+2024,6,Sales,OpEx,Professional Services,67773.18
+2024,6,Sales,OpEx,Utilities,22861.49
+2024,6,Sales,OpEx,Depreciation,60333.17
+2024,6,Marketing,COGS,Product Cost,72104.83
+2024,6,Marketing,COGS,Freight In,107509.0
+2024,6,Marketing,COGS,Packaging,99391.82
+2024,6,Marketing,OpEx,Salaries,82047.68
+2024,6,Marketing,OpEx,Marketing Spend,103411.62
+2024,6,Marketing,OpEx,Software & SaaS,76738.93
+2024,6,Marketing,OpEx,Office Rent,96528.9
+2024,6,Marketing,OpEx,Travel & Entertainment,104166.78
+2024,6,Marketing,OpEx,Professional Services,105026.2
+2024,6,Marketing,OpEx,Utilities,30666.0
+2024,6,Marketing,OpEx,Depreciation,59961.62
+2024,6,Operations,COGS,Product Cost,24146.67
+2024,6,Operations,COGS,Freight In,98181.65
+2024,6,Operations,COGS,Packaging,72934.43
+2024,6,Operations,OpEx,Salaries,108894.06
+2024,6,Operations,OpEx,Marketing Spend,52095.99
+2024,6,Operations,OpEx,Software & SaaS,99706.03
+2024,6,Operations,OpEx,Office Rent,55877.97
+2024,6,Operations,OpEx,Travel & Entertainment,13921.64
+2024,6,Operations,OpEx,Professional Services,56752.52
+2024,6,Operations,OpEx,Utilities,97118.96
+2024,6,Operations,OpEx,Depreciation,118395.22
+2024,6,Finance,COGS,Product Cost,67411.61
+2024,6,Finance,COGS,Freight In,90497.25
+2024,6,Finance,COGS,Packaging,45533.59
+2024,6,Finance,OpEx,Salaries,20047.8
+2024,6,Finance,OpEx,Marketing Spend,35851.93
+2024,6,Finance,OpEx,Software & SaaS,44526.67
+2024,6,Finance,OpEx,Office Rent,75483.02
+2024,6,Finance,OpEx,Travel & Entertainment,41219.98
+2024,6,Finance,OpEx,Professional Services,108336.53
+2024,6,Finance,OpEx,Utilities,107256.0
+2024,6,Finance,OpEx,Depreciation,30858.91
+2024,6,HR,COGS,Product Cost,15419.73
+2024,6,HR,COGS,Freight In,11593.09
+2024,6,HR,COGS,Packaging,76027.38
+2024,6,HR,OpEx,Salaries,37142.71
+2024,6,HR,OpEx,Marketing Spend,15951.88
+2024,6,HR,OpEx,Software & SaaS,113428.61
+2024,6,HR,OpEx,Office Rent,97033.9
+2024,6,HR,OpEx,Travel & Entertainment,39149.8
+2024,6,HR,OpEx,Professional Services,112066.0
+2024,6,HR,OpEx,Utilities,12645.34
+2024,6,HR,OpEx,Depreciation,61486.3
+2024,6,IT,COGS,Product Cost,71298.84
+2024,6,IT,COGS,Freight In,46140.0
+2024,6,IT,COGS,Packaging,113257.29
+2024,6,IT,OpEx,Salaries,105683.19
+2024,6,IT,OpEx,Marketing Spend,80737.63
+2024,6,IT,OpEx,Software & SaaS,49005.89
+2024,6,IT,OpEx,Office Rent,53762.06
+2024,6,IT,OpEx,Travel & Entertainment,58819.44
+2024,6,IT,OpEx,Professional Services,34776.61
+2024,6,IT,OpEx,Utilities,71315.79
+2024,6,IT,OpEx,Depreciation,61496.8
+2024,6,Customer Service,COGS,Product Cost,110005.11
+2024,6,Customer Service,COGS,Freight In,21632.81
+2024,6,Customer Service,COGS,Packaging,37176.95
+2024,6,Customer Service,OpEx,Salaries,94908.99
+2024,6,Customer Service,OpEx,Marketing Spend,24029.06
+2024,6,Customer Service,OpEx,Software & SaaS,60893.85
+2024,6,Customer Service,OpEx,Office Rent,25271.95
+2024,6,Customer Service,OpEx,Travel & Entertainment,16475.6
+2024,6,Customer Service,OpEx,Professional Services,32846.35
+2024,6,Customer Service,OpEx,Utilities,103940.89
+2024,6,Customer Service,OpEx,Depreciation,72633.34
+2024,7,Sales,Revenue,Product Sales,73470.7
+2024,7,Sales,Revenue,Service Revenue,82212.76
+2024,7,Sales,Revenue,Shipping Revenue,127292.14
+2024,7,Sales,COGS,Product Cost,108080.25
+2024,7,Sales,COGS,Freight In,62046.97
+2024,7,Sales,COGS,Packaging,107302.2
+2024,7,Sales,OpEx,Salaries,101448.11
+2024,7,Sales,OpEx,Marketing Spend,76404.03
+2024,7,Sales,OpEx,Software & SaaS,59491.44
+2024,7,Sales,OpEx,Office Rent,76056.56
+2024,7,Sales,OpEx,Travel & Entertainment,58576.48
+2024,7,Sales,OpEx,Professional Services,72409.52
+2024,7,Sales,OpEx,Utilities,44656.41
+2024,7,Sales,OpEx,Depreciation,19628.75
+2024,7,Marketing,COGS,Product Cost,29883.57
+2024,7,Marketing,COGS,Freight In,19852.95
+2024,7,Marketing,COGS,Packaging,30567.04
+2024,7,Marketing,OpEx,Salaries,101655.66
+2024,7,Marketing,OpEx,Marketing Spend,104201.24
+2024,7,Marketing,OpEx,Software & SaaS,45772.28
+2024,7,Marketing,OpEx,Office Rent,10424.08
+2024,7,Marketing,OpEx,Travel & Entertainment,37657.17
+2024,7,Marketing,OpEx,Professional Services,106420.76
+2024,7,Marketing,OpEx,Utilities,41911.15
+2024,7,Marketing,OpEx,Depreciation,27640.49
+2024,7,Operations,COGS,Product Cost,98920.03
+2024,7,Operations,COGS,Freight In,20219.52
+2024,7,Operations,COGS,Packaging,85902.0
+2024,7,Operations,OpEx,Salaries,87829.79
+2024,7,Operations,OpEx,Marketing Spend,60972.74
+2024,7,Operations,OpEx,Software & SaaS,111183.32
+2024,7,Operations,OpEx,Office Rent,53777.08
+2024,7,Operations,OpEx,Travel & Entertainment,45105.41
+2024,7,Operations,OpEx,Professional Services,15165.31
+2024,7,Operations,OpEx,Utilities,109270.51
+2024,7,Operations,OpEx,Depreciation,111391.48
+2024,7,Finance,COGS,Product Cost,63064.41
+2024,7,Finance,COGS,Freight In,110760.2
+2024,7,Finance,COGS,Packaging,92567.08
+2024,7,Finance,OpEx,Salaries,11569.12
+2024,7,Finance,OpEx,Marketing Spend,108946.36
+2024,7,Finance,OpEx,Software & SaaS,33287.7
+2024,7,Finance,OpEx,Office Rent,47631.71
+2024,7,Finance,OpEx,Travel & Entertainment,56654.14
+2024,7,Finance,OpEx,Professional Services,112501.0
+2024,7,Finance,OpEx,Utilities,41205.49
+2024,7,Finance,OpEx,Depreciation,55450.67
+2024,7,HR,COGS,Product Cost,70801.4
+2024,7,HR,COGS,Freight In,60877.32
+2024,7,HR,COGS,Packaging,41822.44
+2024,7,HR,OpEx,Salaries,80149.46
+2024,7,HR,OpEx,Marketing Spend,88291.17
+2024,7,HR,OpEx,Software & SaaS,48907.78
+2024,7,HR,OpEx,Office Rent,93678.82
+2024,7,HR,OpEx,Travel & Entertainment,105024.95
+2024,7,HR,OpEx,Professional Services,100454.45
+2024,7,HR,OpEx,Utilities,42635.49
+2024,7,HR,OpEx,Depreciation,32076.56
+2024,7,IT,COGS,Product Cost,44386.95
+2024,7,IT,COGS,Freight In,117015.42
+2024,7,IT,COGS,Packaging,99938.83
+2024,7,IT,OpEx,Salaries,21904.78
+2024,7,IT,OpEx,Marketing Spend,119163.34
+2024,7,IT,OpEx,Software & SaaS,84208.12
+2024,7,IT,OpEx,Office Rent,99871.41
+2024,7,IT,OpEx,Travel & Entertainment,73790.74
+2024,7,IT,OpEx,Professional Services,55302.52
+2024,7,IT,OpEx,Utilities,112147.09
+2024,7,IT,OpEx,Depreciation,111021.52
+2024,7,Customer Service,COGS,Product Cost,34082.07
+2024,7,Customer Service,COGS,Freight In,26879.08
+2024,7,Customer Service,COGS,Packaging,53467.77
+2024,7,Customer Service,OpEx,Salaries,38191.58
+2024,7,Customer Service,OpEx,Marketing Spend,10957.52
+2024,7,Customer Service,OpEx,Software & SaaS,116783.81
+2024,7,Customer Service,OpEx,Office Rent,20183.93
+2024,7,Customer Service,OpEx,Travel & Entertainment,48843.92
+2024,7,Customer Service,OpEx,Professional Services,79728.73
+2024,7,Customer Service,OpEx,Utilities,31775.61
+2024,7,Customer Service,OpEx,Depreciation,35283.74
+2024,8,Sales,Revenue,Product Sales,18789.7
+2024,8,Sales,Revenue,Service Revenue,32448.21
+2024,8,Sales,Revenue,Shipping Revenue,42131.92
+2024,8,Sales,COGS,Product Cost,103087.94
+2024,8,Sales,COGS,Freight In,18522.63
+2024,8,Sales,COGS,Packaging,27078.11
+2024,8,Sales,OpEx,Salaries,25701.79
+2024,8,Sales,OpEx,Marketing Spend,95707.95
+2024,8,Sales,OpEx,Software & SaaS,93293.03
+2024,8,Sales,OpEx,Office Rent,117683.42
+2024,8,Sales,OpEx,Travel & Entertainment,26811.19
+2024,8,Sales,OpEx,Professional Services,50620.87
+2024,8,Sales,OpEx,Utilities,118817.29
+2024,8,Sales,OpEx,Depreciation,112881.54
+2024,8,Marketing,COGS,Product Cost,108754.69
+2024,8,Marketing,COGS,Freight In,12813.49
+2024,8,Marketing,COGS,Packaging,84455.82
+2024,8,Marketing,OpEx,Salaries,99098.8
+2024,8,Marketing,OpEx,Marketing Spend,15987.87
+2024,8,Marketing,OpEx,Software & SaaS,69234.67
+2024,8,Marketing,OpEx,Office Rent,119859.35
+2024,8,Marketing,OpEx,Travel & Entertainment,64871.01
+2024,8,Marketing,OpEx,Professional Services,78607.25
+2024,8,Marketing,OpEx,Utilities,117468.89
+2024,8,Marketing,OpEx,Depreciation,44177.42
+2024,8,Operations,COGS,Product Cost,117859.63
+2024,8,Operations,COGS,Freight In,43946.84
+2024,8,Operations,COGS,Packaging,57457.26
+2024,8,Operations,OpEx,Salaries,10536.12
+2024,8,Operations,OpEx,Marketing Spend,79716.08
+2024,8,Operations,OpEx,Software & SaaS,54932.22
+2024,8,Operations,OpEx,Office Rent,85050.41
+2024,8,Operations,OpEx,Travel & Entertainment,90165.42
+2024,8,Operations,OpEx,Professional Services,46892.93
+2024,8,Operations,OpEx,Utilities,96584.26
+2024,8,Operations,OpEx,Depreciation,72795.05
+2024,8,Finance,COGS,Product Cost,51470.4
+2024,8,Finance,COGS,Freight In,103530.47
+2024,8,Finance,COGS,Packaging,110441.38
+2024,8,Finance,OpEx,Salaries,59271.85
+2024,8,Finance,OpEx,Marketing Spend,63662.58
+2024,8,Finance,OpEx,Software & SaaS,43458.72
+2024,8,Finance,OpEx,Office Rent,55415.65
+2024,8,Finance,OpEx,Travel & Entertainment,88937.53
+2024,8,Finance,OpEx,Professional Services,62093.43
+2024,8,Finance,OpEx,Utilities,85022.62
+2024,8,Finance,OpEx,Depreciation,31168.07
+2024,8,HR,COGS,Product Cost,36505.97
+2024,8,HR,COGS,Freight In,106276.24
+2024,8,HR,COGS,Packaging,55780.63
+2024,8,HR,OpEx,Salaries,48878.18
+2024,8,HR,OpEx,Marketing Spend,42808.84
+2024,8,HR,OpEx,Software & SaaS,52496.87
+2024,8,HR,OpEx,Office Rent,117835.26
+2024,8,HR,OpEx,Travel & Entertainment,53544.12
+2024,8,HR,OpEx,Professional Services,70378.72
+2024,8,HR,OpEx,Utilities,92083.08
+2024,8,HR,OpEx,Depreciation,115130.18
+2024,8,IT,COGS,Product Cost,77768.13
+2024,8,IT,COGS,Freight In,116904.97
+2024,8,IT,COGS,Packaging,118347.79
+2024,8,IT,OpEx,Salaries,92930.27
+2024,8,IT,OpEx,Marketing Spend,97594.55
+2024,8,IT,OpEx,Software & SaaS,109998.53
+2024,8,IT,OpEx,Office Rent,67215.56
+2024,8,IT,OpEx,Travel & Entertainment,87800.4
+2024,8,IT,OpEx,Professional Services,19534.53
+2024,8,IT,OpEx,Utilities,40038.0
+2024,8,IT,OpEx,Depreciation,117251.86
+2024,8,Customer Service,COGS,Product Cost,82135.13
+2024,8,Customer Service,COGS,Freight In,69890.97
+2024,8,Customer Service,COGS,Packaging,23343.56
+2024,8,Customer Service,OpEx,Salaries,30967.54
+2024,8,Customer Service,OpEx,Marketing Spend,74417.87
+2024,8,Customer Service,OpEx,Software & SaaS,80994.15
+2024,8,Customer Service,OpEx,Office Rent,32384.02
+2024,8,Customer Service,OpEx,Travel & Entertainment,76271.46
+2024,8,Customer Service,OpEx,Professional Services,79480.16
+2024,8,Customer Service,OpEx,Utilities,98775.83
+2024,8,Customer Service,OpEx,Depreciation,84079.34
+2024,9,Sales,Revenue,Product Sales,149068.91
+2024,9,Sales,Revenue,Service Revenue,69545.54
+2024,9,Sales,Revenue,Shipping Revenue,124839.63
+2024,9,Sales,COGS,Product Cost,10649.43
+2024,9,Sales,COGS,Freight In,73793.42
+2024,9,Sales,COGS,Packaging,33787.4
+2024,9,Sales,OpEx,Salaries,36660.25
+2024,9,Sales,OpEx,Marketing Spend,80087.57
+2024,9,Sales,OpEx,Software & SaaS,84677.82
+2024,9,Sales,OpEx,Office Rent,10535.78
+2024,9,Sales,OpEx,Travel & Entertainment,18750.44
+2024,9,Sales,OpEx,Professional Services,30195.01
+2024,9,Sales,OpEx,Utilities,75428.47
+2024,9,Sales,OpEx,Depreciation,30602.75
+2024,9,Marketing,COGS,Product Cost,30122.57
+2024,9,Marketing,COGS,Freight In,11998.46
+2024,9,Marketing,COGS,Packaging,36937.34
+2024,9,Marketing,OpEx,Salaries,60214.94
+2024,9,Marketing,OpEx,Marketing Spend,53873.83
+2024,9,Marketing,OpEx,Software & SaaS,85818.38
+2024,9,Marketing,OpEx,Office Rent,10627.35
+2024,9,Marketing,OpEx,Travel & Entertainment,74001.75
+2024,9,Marketing,OpEx,Professional Services,92354.85
+2024,9,Marketing,OpEx,Utilities,51383.99
+2024,9,Marketing,OpEx,Depreciation,115543.31
+2024,9,Operations,COGS,Product Cost,93353.65
+2024,9,Operations,COGS,Freight In,103492.96
+2024,9,Operations,COGS,Packaging,38289.65
+2024,9,Operations,OpEx,Salaries,105025.53
+2024,9,Operations,OpEx,Marketing Spend,62905.55
+2024,9,Operations,OpEx,Software & SaaS,18000.36
+2024,9,Operations,OpEx,Office Rent,64209.43
+2024,9,Operations,OpEx,Travel & Entertainment,22679.58
+2024,9,Operations,OpEx,Professional Services,78899.17
+2024,9,Operations,OpEx,Utilities,85894.54
+2024,9,Operations,OpEx,Depreciation,24671.18
+2024,9,Finance,COGS,Product Cost,116409.86
+2024,9,Finance,COGS,Freight In,102814.27
+2024,9,Finance,COGS,Packaging,78556.9
+2024,9,Finance,OpEx,Salaries,90605.36
+2024,9,Finance,OpEx,Marketing Spend,104715.23
+2024,9,Finance,OpEx,Software & SaaS,89979.93
+2024,9,Finance,OpEx,Office Rent,88473.6
+2024,9,Finance,OpEx,Travel & Entertainment,29659.33
+2024,9,Finance,OpEx,Professional Services,22458.15
+2024,9,Finance,OpEx,Utilities,11388.07
+2024,9,Finance,OpEx,Depreciation,76033.38
+2024,9,HR,COGS,Product Cost,29574.33
+2024,9,HR,COGS,Freight In,70102.29
+2024,9,HR,COGS,Packaging,90963.02
+2024,9,HR,OpEx,Salaries,88253.87
+2024,9,HR,OpEx,Marketing Spend,49704.06
+2024,9,HR,OpEx,Software & SaaS,14722.42
+2024,9,HR,OpEx,Office Rent,34226.68
+2024,9,HR,OpEx,Travel & Entertainment,61405.47
+2024,9,HR,OpEx,Professional Services,41914.67
+2024,9,HR,OpEx,Utilities,109589.23
+2024,9,HR,OpEx,Depreciation,107959.11
+2024,9,IT,COGS,Product Cost,12922.95
+2024,9,IT,COGS,Freight In,19178.53
+2024,9,IT,COGS,Packaging,22189.84
+2024,9,IT,OpEx,Salaries,118593.77
+2024,9,IT,OpEx,Marketing Spend,101227.01
+2024,9,IT,OpEx,Software & SaaS,91054.04
+2024,9,IT,OpEx,Office Rent,10776.53
+2024,9,IT,OpEx,Travel & Entertainment,46640.2
+2024,9,IT,OpEx,Professional Services,106214.02
+2024,9,IT,OpEx,Utilities,57554.13
+2024,9,IT,OpEx,Depreciation,11731.45
+2024,9,Customer Service,COGS,Product Cost,77627.09
+2024,9,Customer Service,COGS,Freight In,63166.02
+2024,9,Customer Service,COGS,Packaging,113710.27
+2024,9,Customer Service,OpEx,Salaries,104284.3
+2024,9,Customer Service,OpEx,Marketing Spend,84107.99
+2024,9,Customer Service,OpEx,Software & SaaS,31712.5
+2024,9,Customer Service,OpEx,Office Rent,40911.31
+2024,9,Customer Service,OpEx,Travel & Entertainment,83121.77
+2024,9,Customer Service,OpEx,Professional Services,45458.71
+2024,9,Customer Service,OpEx,Utilities,68037.95
+2024,9,Customer Service,OpEx,Depreciation,28019.83
+2024,10,Sales,Revenue,Product Sales,156820.45
+2024,10,Sales,Revenue,Service Revenue,49751.33
+2024,10,Sales,Revenue,Shipping Revenue,52490.85
+2024,10,Sales,COGS,Product Cost,64135.12
+2024,10,Sales,COGS,Freight In,71504.58
+2024,10,Sales,COGS,Packaging,119580.75
+2024,10,Sales,OpEx,Salaries,53197.37
+2024,10,Sales,OpEx,Marketing Spend,101385.56
+2024,10,Sales,OpEx,Software & SaaS,66093.06
+2024,10,Sales,OpEx,Office Rent,88967.48
+2024,10,Sales,OpEx,Travel & Entertainment,64730.57
+2024,10,Sales,OpEx,Professional Services,28369.77
+2024,10,Sales,OpEx,Utilities,118009.1
+2024,10,Sales,OpEx,Depreciation,89759.27
+2024,10,Marketing,COGS,Product Cost,72117.86
+2024,10,Marketing,COGS,Freight In,85856.53
+2024,10,Marketing,COGS,Packaging,24347.97
+2024,10,Marketing,OpEx,Salaries,19899.0
+2024,10,Marketing,OpEx,Marketing Spend,100905.87
+2024,10,Marketing,OpEx,Software & SaaS,56989.54
+2024,10,Marketing,OpEx,Office Rent,52168.69
+2024,10,Marketing,OpEx,Travel & Entertainment,107437.44
+2024,10,Marketing,OpEx,Professional Services,50026.44
+2024,10,Marketing,OpEx,Utilities,14560.32
+2024,10,Marketing,OpEx,Depreciation,17275.76
+2024,10,Operations,COGS,Product Cost,88458.29
+2024,10,Operations,COGS,Freight In,114606.0
+2024,10,Operations,COGS,Packaging,89091.67
+2024,10,Operations,OpEx,Salaries,83512.27
+2024,10,Operations,OpEx,Marketing Spend,48680.81
+2024,10,Operations,OpEx,Software & SaaS,58392.66
+2024,10,Operations,OpEx,Office Rent,66123.66
+2024,10,Operations,OpEx,Travel & Entertainment,31476.69
+2024,10,Operations,OpEx,Professional Services,27988.04
+2024,10,Operations,OpEx,Utilities,97248.4
+2024,10,Operations,OpEx,Depreciation,59261.41
+2024,10,Finance,COGS,Product Cost,12776.38
+2024,10,Finance,COGS,Freight In,69732.72
+2024,10,Finance,COGS,Packaging,37109.79
+2024,10,Finance,OpEx,Salaries,67333.72
+2024,10,Finance,OpEx,Marketing Spend,110530.54
+2024,10,Finance,OpEx,Software & SaaS,92837.0
+2024,10,Finance,OpEx,Office Rent,100304.07
+2024,10,Finance,OpEx,Travel & Entertainment,54756.18
+2024,10,Finance,OpEx,Professional Services,54232.88
+2024,10,Finance,OpEx,Utilities,109233.11
+2024,10,Finance,OpEx,Depreciation,47216.08
+2024,10,HR,COGS,Product Cost,53901.65
+2024,10,HR,COGS,Freight In,63233.32
+2024,10,HR,COGS,Packaging,96916.28
+2024,10,HR,OpEx,Salaries,43706.6
+2024,10,HR,OpEx,Marketing Spend,108944.63
+2024,10,HR,OpEx,Software & SaaS,61337.14
+2024,10,HR,OpEx,Office Rent,24183.0
+2024,10,HR,OpEx,Travel & Entertainment,32619.93
+2024,10,HR,OpEx,Professional Services,87436.55
+2024,10,HR,OpEx,Utilities,35300.33
+2024,10,HR,OpEx,Depreciation,106137.32
+2024,10,IT,COGS,Product Cost,82283.04
+2024,10,IT,COGS,Freight In,30855.62
+2024,10,IT,COGS,Packaging,77899.55
+2024,10,IT,OpEx,Salaries,74686.17
+2024,10,IT,OpEx,Marketing Spend,68532.69
+2024,10,IT,OpEx,Software & SaaS,71119.17
+2024,10,IT,OpEx,Office Rent,49683.7
+2024,10,IT,OpEx,Travel & Entertainment,29211.68
+2024,10,IT,OpEx,Professional Services,28853.7
+2024,10,IT,OpEx,Utilities,114457.09
+2024,10,IT,OpEx,Depreciation,89722.87
+2024,10,Customer Service,COGS,Product Cost,108092.41
+2024,10,Customer Service,COGS,Freight In,27975.0
+2024,10,Customer Service,COGS,Packaging,13301.41
+2024,10,Customer Service,OpEx,Salaries,36694.63
+2024,10,Customer Service,OpEx,Marketing Spend,83257.6
+2024,10,Customer Service,OpEx,Software & SaaS,76706.94
+2024,10,Customer Service,OpEx,Office Rent,94236.98
+2024,10,Customer Service,OpEx,Travel & Entertainment,41459.74
+2024,10,Customer Service,OpEx,Professional Services,60040.38
+2024,10,Customer Service,OpEx,Utilities,35577.05
+2024,10,Customer Service,OpEx,Depreciation,53218.85
+2024,11,Sales,Revenue,Product Sales,35824.27
+2024,11,Sales,Revenue,Service Revenue,27193.69
+2024,11,Sales,Revenue,Shipping Revenue,81931.16
+2024,11,Sales,COGS,Product Cost,28262.38
+2024,11,Sales,COGS,Freight In,62065.33
+2024,11,Sales,COGS,Packaging,117868.7
+2024,11,Sales,OpEx,Salaries,35814.17
+2024,11,Sales,OpEx,Marketing Spend,10327.03
+2024,11,Sales,OpEx,Software & SaaS,27384.13
+2024,11,Sales,OpEx,Office Rent,55211.25
+2024,11,Sales,OpEx,Travel & Entertainment,39718.67
+2024,11,Sales,OpEx,Professional Services,38798.35
+2024,11,Sales,OpEx,Utilities,20105.28
+2024,11,Sales,OpEx,Depreciation,31586.97
+2024,11,Marketing,COGS,Product Cost,118344.41
+2024,11,Marketing,COGS,Freight In,106103.33
+2024,11,Marketing,COGS,Packaging,28846.0
+2024,11,Marketing,OpEx,Salaries,71226.52
+2024,11,Marketing,OpEx,Marketing Spend,33886.42
+2024,11,Marketing,OpEx,Software & SaaS,13537.0
+2024,11,Marketing,OpEx,Office Rent,50018.69
+2024,11,Marketing,OpEx,Travel & Entertainment,22891.27
+2024,11,Marketing,OpEx,Professional Services,81764.58
+2024,11,Marketing,OpEx,Utilities,39798.46
+2024,11,Marketing,OpEx,Depreciation,26202.8
+2024,11,Operations,COGS,Product Cost,61390.75
+2024,11,Operations,COGS,Freight In,73345.0
+2024,11,Operations,COGS,Packaging,72439.2
+2024,11,Operations,OpEx,Salaries,41770.08
+2024,11,Operations,OpEx,Marketing Spend,18915.86
+2024,11,Operations,OpEx,Software & SaaS,89045.21
+2024,11,Operations,OpEx,Office Rent,78800.59
+2024,11,Operations,OpEx,Travel & Entertainment,36140.07
+2024,11,Operations,OpEx,Professional Services,50379.62
+2024,11,Operations,OpEx,Utilities,22236.78
+2024,11,Operations,OpEx,Depreciation,54865.75
+2024,11,Finance,COGS,Product Cost,80584.95
+2024,11,Finance,COGS,Freight In,37684.29
+2024,11,Finance,COGS,Packaging,29583.68
+2024,11,Finance,OpEx,Salaries,65121.9
+2024,11,Finance,OpEx,Marketing Spend,37850.47
+2024,11,Finance,OpEx,Software & SaaS,45552.95
+2024,11,Finance,OpEx,Office Rent,78394.8
+2024,11,Finance,OpEx,Travel & Entertainment,64542.67
+2024,11,Finance,OpEx,Professional Services,72691.14
+2024,11,Finance,OpEx,Utilities,36385.2
+2024,11,Finance,OpEx,Depreciation,61118.95
+2024,11,HR,COGS,Product Cost,38719.96
+2024,11,HR,COGS,Freight In,81600.57
+2024,11,HR,COGS,Packaging,34226.54
+2024,11,HR,OpEx,Salaries,107178.76
+2024,11,HR,OpEx,Marketing Spend,85610.06
+2024,11,HR,OpEx,Software & SaaS,47356.48
+2024,11,HR,OpEx,Office Rent,107751.58
+2024,11,HR,OpEx,Travel & Entertainment,45671.0
+2024,11,HR,OpEx,Professional Services,18384.16
+2024,11,HR,OpEx,Utilities,20096.91
+2024,11,HR,OpEx,Depreciation,117766.15
+2024,11,IT,COGS,Product Cost,36247.32
+2024,11,IT,COGS,Freight In,80394.75
+2024,11,IT,COGS,Packaging,52232.05
+2024,11,IT,OpEx,Salaries,32614.69
+2024,11,IT,OpEx,Marketing Spend,99976.71
+2024,11,IT,OpEx,Software & SaaS,39551.62
+2024,11,IT,OpEx,Office Rent,56835.11
+2024,11,IT,OpEx,Travel & Entertainment,74937.18
+2024,11,IT,OpEx,Professional Services,12913.34
+2024,11,IT,OpEx,Utilities,75442.62
+2024,11,IT,OpEx,Depreciation,92494.67
+2024,11,Customer Service,COGS,Product Cost,76784.95
+2024,11,Customer Service,COGS,Freight In,26173.87
+2024,11,Customer Service,COGS,Packaging,17024.77
+2024,11,Customer Service,OpEx,Salaries,75749.34
+2024,11,Customer Service,OpEx,Marketing Spend,14067.15
+2024,11,Customer Service,OpEx,Software & SaaS,56721.47
+2024,11,Customer Service,OpEx,Office Rent,39288.61
+2024,11,Customer Service,OpEx,Travel & Entertainment,73943.91
+2024,11,Customer Service,OpEx,Professional Services,109043.11
+2024,11,Customer Service,OpEx,Utilities,25267.25
+2024,11,Customer Service,OpEx,Depreciation,18953.63
+2024,12,Sales,Revenue,Product Sales,169431.07
+2024,12,Sales,Revenue,Service Revenue,47096.01
+2024,12,Sales,Revenue,Shipping Revenue,43339.08
+2024,12,Sales,COGS,Product Cost,78308.24
+2024,12,Sales,COGS,Freight In,119453.34
+2024,12,Sales,COGS,Packaging,115811.65
+2024,12,Sales,OpEx,Salaries,22410.21
+2024,12,Sales,OpEx,Marketing Spend,70960.26
+2024,12,Sales,OpEx,Software & SaaS,39070.08
+2024,12,Sales,OpEx,Office Rent,70279.55
+2024,12,Sales,OpEx,Travel & Entertainment,14035.49
+2024,12,Sales,OpEx,Professional Services,53453.25
+2024,12,Sales,OpEx,Utilities,76496.2
+2024,12,Sales,OpEx,Depreciation,116138.78
+2024,12,Marketing,COGS,Product Cost,38739.54
+2024,12,Marketing,COGS,Freight In,16781.96
+2024,12,Marketing,COGS,Packaging,19325.5
+2024,12,Marketing,OpEx,Salaries,25005.64
+2024,12,Marketing,OpEx,Marketing Spend,80580.24
+2024,12,Marketing,OpEx,Software & SaaS,63717.14
+2024,12,Marketing,OpEx,Office Rent,102833.48
+2024,12,Marketing,OpEx,Travel & Entertainment,17450.27
+2024,12,Marketing,OpEx,Professional Services,73669.68
+2024,12,Marketing,OpEx,Utilities,87509.38
+2024,12,Marketing,OpEx,Depreciation,91385.44
+2024,12,Operations,COGS,Product Cost,75958.46
+2024,12,Operations,COGS,Freight In,45603.54
+2024,12,Operations,COGS,Packaging,58049.85
+2024,12,Operations,OpEx,Salaries,108743.65
+2024,12,Operations,OpEx,Marketing Spend,76968.48
+2024,12,Operations,OpEx,Software & SaaS,35258.43
+2024,12,Operations,OpEx,Office Rent,64880.37
+2024,12,Operations,OpEx,Travel & Entertainment,82608.52
+2024,12,Operations,OpEx,Professional Services,68810.64
+2024,12,Operations,OpEx,Utilities,52894.8
+2024,12,Operations,OpEx,Depreciation,61595.11
+2024,12,Finance,COGS,Product Cost,20967.55
+2024,12,Finance,COGS,Freight In,34026.0
+2024,12,Finance,COGS,Packaging,83991.8
+2024,12,Finance,OpEx,Salaries,10488.61
+2024,12,Finance,OpEx,Marketing Spend,103167.29
+2024,12,Finance,OpEx,Software & SaaS,117276.48
+2024,12,Finance,OpEx,Office Rent,98933.72
+2024,12,Finance,OpEx,Travel & Entertainment,106202.99
+2024,12,Finance,OpEx,Professional Services,94424.85
+2024,12,Finance,OpEx,Utilities,78086.94
+2024,12,Finance,OpEx,Depreciation,56808.84
+2024,12,HR,COGS,Product Cost,77914.18
+2024,12,HR,COGS,Freight In,43797.96
+2024,12,HR,COGS,Packaging,110897.41
+2024,12,HR,OpEx,Salaries,63478.66
+2024,12,HR,OpEx,Marketing Spend,97691.83
+2024,12,HR,OpEx,Software & SaaS,19746.29
+2024,12,HR,OpEx,Office Rent,52836.19
+2024,12,HR,OpEx,Travel & Entertainment,51765.86
+2024,12,HR,OpEx,Professional Services,41428.35
+2024,12,HR,OpEx,Utilities,12567.33
+2024,12,HR,OpEx,Depreciation,104006.59
+2024,12,IT,COGS,Product Cost,42273.4
+2024,12,IT,COGS,Freight In,118093.43
+2024,12,IT,COGS,Packaging,35754.62
+2024,12,IT,OpEx,Salaries,36444.3
+2024,12,IT,OpEx,Marketing Spend,40406.18
+2024,12,IT,OpEx,Software & SaaS,95017.07
+2024,12,IT,OpEx,Office Rent,113973.5
+2024,12,IT,OpEx,Travel & Entertainment,100525.25
+2024,12,IT,OpEx,Professional Services,55909.2
+2024,12,IT,OpEx,Utilities,49877.37
+2024,12,IT,OpEx,Depreciation,60462.21
+2024,12,Customer Service,COGS,Product Cost,106303.18
+2024,12,Customer Service,COGS,Freight In,99365.96
+2024,12,Customer Service,COGS,Packaging,48788.18
+2024,12,Customer Service,OpEx,Salaries,27018.07
+2024,12,Customer Service,OpEx,Marketing Spend,28758.57
+2024,12,Customer Service,OpEx,Software & SaaS,99954.55
+2024,12,Customer Service,OpEx,Office Rent,41948.38
+2024,12,Customer Service,OpEx,Travel & Entertainment,75183.38
+2024,12,Customer Service,OpEx,Professional Services,19052.01
+2024,12,Customer Service,OpEx,Utilities,45708.29
+2024,12,Customer Service,OpEx,Depreciation,27357.83

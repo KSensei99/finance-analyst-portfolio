@@ -1,0 +1,15 @@
+gl_category,gl_account
+Revenue,Product Sales
+Revenue,Service Revenue
+Revenue,Shipping Revenue
+COGS,Product Cost
+COGS,Freight In
+COGS,Packaging
+OpEx,Salaries
+OpEx,Marketing Spend
+OpEx,Software & SaaS
+OpEx,Office Rent
+OpEx,Travel & Entertainment
+OpEx,Professional Services
+OpEx,Utilities
+OpEx,Depreciation

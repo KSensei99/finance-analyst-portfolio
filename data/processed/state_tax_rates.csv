@@ -1,0 +1,52 @@
+state_code,state_name,state_tax_rate,nexus
+AL,Alabama,0.04,1
+AK,Alaska,0.0,0
+AZ,Arizona,0.056,1
+AR,Arkansas,0.065,1
+CA,California,0.0725,1
+CO,Colorado,0.029,1
+CT,Connecticut,0.0635,1
+DE,Delaware,0.0,0
+FL,Florida,0.06,1
+GA,Georgia,0.04,1
+HI,Hawaii,0.04,1
+ID,Idaho,0.06,1
+IL,Illinois,0.0625,1
+IN,Indiana,0.07,1
+IA,Iowa,0.06,1
+KS,Kansas,0.065,1
+KY,Kentucky,0.06,1
+LA,Louisiana,0.0445,1
+ME,Maine,0.055,1
+MD,Maryland,0.06,1
+MA,Massachusetts,0.0625,1
+MI,Michigan,0.06,1
+MN,Minnesota,0.06875,1
+MS,Mississippi,0.07,1
+MO,Missouri,0.04225,1
+MT,Montana,0.0,0
+NE,Nebraska,0.055,1
+NV,Nevada,0.0685,1
+NH,New Hampshire,0.0,0
+NJ,New Jersey,0.066,1
+NM,New Mexico,0.05125,1
+NY,New York,0.04,1
+NC,North Carolina,0.0475,1
+ND,North Dakota,0.05,1
+OH,Ohio,0.0575,1
+OK,Oklahoma,0.045,1
+OR,Oregon,0.0,0
+PA,Pennsylvania,0.06,1
+RI,Rhode Island,0.07,1
+SC,South Carolina,0.06,1
+SD,South Dakota,0.045,1
+TN,Tennessee,0.07,1
+TX,Texas,0.0625,1
+UT,Utah,0.0485,1
+VT,Vermont,0.06,1
+VA,Virginia,0.053,1
+WA,Washington,0.065,1
+WV,West Virginia,0.06,1
+WI,Wisconsin,0.05,1
+WY,Wyoming,0.04,1
+DC,District of Columbia,0.06,1

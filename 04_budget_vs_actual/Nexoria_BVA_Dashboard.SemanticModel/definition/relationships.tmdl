@@ -1,0 +1,12 @@
+relationship rel_date
+	fromColumn: fact_finances.Date
+	toColumn: dim_date.Date
+
+relationship rel_department
+	fromColumn: fact_finances.department
+	toColumn: dim_department.department
+
+relationship rel_account
+	fromColumn: fact_finances.gl_account
+	toColumn: dim_account.gl_account
+
