@@ -11,7 +11,7 @@ We built a statistical forecasting pipeline in Python using `statsmodels` and `m
    * **Holt-Winters Exponential Smoothing (HW)**: Fits additive trend and additive seasonal components (seasonal cycle = 12 months). Excellent for capturing repeating annual cycles.
    * **Seasonal ARIMA (SARIMA)**: Fits a SARIMA(1,1,0)(0,1,0)12 seasonal model, incorporating seasonal differencing and autoregressive terms to handle seasonal variance and trend.
 3. **80% Confidence Intervals**: The SARIMA model calculates lower and upper bounds of forecast uncertainty (confidence intervals), providing risk ranges for cash flow modeling.
-4. **Data Visualization**: Saves a polished line chart [revenue_forecast.png](file:///C:/Users/marsh/Downloads/Upwork/finance-analyst-portfolio/07_forecasting/forecast_charts/revenue_forecast.png) comparing models and shading the uncertainty bounds.
+4. **Data Visualization**: Saves a polished line chart [revenue_forecast.png](./07_forecasting/forecast_charts/revenue_forecast.png) comparing models and shading the uncertainty bounds.
 
 ## Model Performance & Business Insights
 * **Seasonality Capture**: Both Holt-Winters and SARIMA successfully predict the critical Q4 seasonality spike (e.g. November/December revenue peaks), projecting sales to exceed $700K and $800K respectively.
@@ -19,10 +19,10 @@ We built a statistical forecasting pipeline in Python using `statsmodels` and `m
 * **Risk Management**: Shaded confidence intervals allow the procurement team to plan for "best-case" and "worst-case" supply scenarios.
 
 ## Folder Contents
-* [revenue_forecast.py](file:///C:/Users/marsh/Downloads/Upwork/finance-analyst-portfolio/07_forecasting/revenue_forecast.py) — Python modeling and graphing script.
-* [forecast_results.csv](file:///C:/Users/marsh/Downloads/Upwork/finance-analyst-portfolio/07_forecasting/forecast_results.csv) — Table containing historical revenue alongside model forecasts and confidence intervals.
+* [revenue_forecast.py](./07_forecasting/revenue_forecast.py) — Python modeling and graphing script.
+* [forecast_results.csv](./07_forecasting/forecast_results.csv) — Table containing historical revenue alongside model forecasts and confidence intervals.
 * `forecast_charts/` — Folder containing the exported plot.
-  * [revenue_forecast.png](file:///C:/Users/marsh/Downloads/Upwork/finance-analyst-portfolio/07_forecasting/forecast_charts/revenue_forecast.png) — Chart showing historical and projected monthly sales.
+  * [revenue_forecast.png](./07_forecasting/forecast_charts/revenue_forecast.png) — Chart showing historical and projected monthly sales.
 
 ## Execution Instructions
 To run the forecasting models and regenerate charts:

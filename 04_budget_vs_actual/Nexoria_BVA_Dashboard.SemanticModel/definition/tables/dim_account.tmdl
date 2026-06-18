@@ -21,7 +21,7 @@ table dim_account
 		mode: import
 		source =
 				let
-				    Source = Csv.Document(File.Contents("C:\Users\marsh\Downloads\Upwork\finance-analyst-portfolio\04_budget_vs_actual\dim_account.csv"),[Delimiter=",", Columns=2, Encoding=1252, QuoteStyle=QuoteStyle.None]),
+				    Source = Csv.Document(File.Contents("C:\finance-analyst-portfolio\04_budget_vs_actual\dim_account.csv"),[Delimiter=",", Columns=2, Encoding=1252, QuoteStyle=QuoteStyle.None]),
 				    #"Promoted Headers" = Table.PromoteHeaders(Source, [PromoteAllScalars=true]),
 				    #"Changed Type" = Table.TransformColumnTypes(#"Promoted Headers",{{"gl_category", type text}, {"gl_account", type text}})
 				in

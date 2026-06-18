@@ -17,6 +17,6 @@ We built a weighted cost allocation model in Python using `pandas`:
 * **Audit Trail**: Reconciles allocated costs back to carrier invoices with 100% mathematical coverage.
 
 ## Folder Contents
-* [shipping_allocator.py](file:///C:/Users/marsh/Downloads/Upwork/finance-analyst-portfolio/03_shipping_allocation/shipping_allocator.py) — The Python Pandas script that performs the weighted cost allocation.
-* [shipping_allocation_report.csv](file:///C:/Users/marsh/Downloads/Upwork/finance-analyst-portfolio/03_shipping_allocation/shipping_allocation_report.csv) — The allocated per-order shipping cost dataset.
-* [shipping_allocation_summary.xlsx](file:///C:/Users/marsh/Downloads/Upwork/finance-analyst-portfolio/03_shipping_allocation/shipping_allocation_summary.xlsx) — Excel workbook containing pivot table summaries and gross margin analysis.
+* [shipping_allocator.py](./03_shipping_allocation/shipping_allocator.py) — The Python Pandas script that performs the weighted cost allocation.
+* [shipping_allocation_report.csv](./03_shipping_allocation/shipping_allocation_report.csv) — The allocated per-order shipping cost dataset.
+* [shipping_allocation_summary.xlsx](./03_shipping_allocation/shipping_allocation_summary.xlsx) — Excel workbook containing pivot table summaries and gross margin analysis.

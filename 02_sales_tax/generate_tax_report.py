@@ -4,8 +4,10 @@ from openpyxl import Workbook
 from openpyxl.styles import Font, PatternFill, Alignment, NamedStyle, Border, Side
 from openpyxl.utils.dataframe import dataframe_to_rows
 
-db_path = r'C:\Users\marsh\Downloads\Upwork\finance-analyst-portfolio\data\nexoria.db'
-output_excel = r'C:\Users\marsh\Downloads\Upwork\finance-analyst-portfolio\02_sales_tax\sales_tax_report.xlsx'
+import os
+base_dir = os.path.dirname(os.path.abspath(__file__))
+db_path = os.path.join(base_dir, "..", "data", "nexoria.db")
+output_excel = os.path.join(base_dir, "sales_tax_report.xlsx")
 
 # 1. Pull data from SQLite using the order-level query
 conn = sqlite3.connect(db_path)

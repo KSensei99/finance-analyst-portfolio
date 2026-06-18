@@ -5,7 +5,7 @@ Nexoria Commerce Inc. issues invoices with payment terms such as NET30 or NET45.
 
 ## The Automation Solution
 We developed a dynamic AR Aging and collection reporting engine:
-1. **Aging Bucket Calculator**: [ar_aging_report.py](file:///C:/Users/marsh/Downloads/Upwork/finance-analyst-portfolio/06_ar_aging/ar_aging_report.py) connects to the central database and pulls all unpaid invoices, calculating days outstanding relative to the current date and assigning them to standard accounting buckets:
+1. **Aging Bucket Calculator**: [ar_aging_report.py](./06_ar_aging/ar_aging_report.py) connects to the central database and pulls all unpaid invoices, calculating days outstanding relative to the current date and assigning them to standard accounting buckets:
    * **Current** (not yet due)
    * **1–30 Days Overdue**
    * **31–60 Days Overdue**
@@ -28,8 +28,8 @@ We developed a dynamic AR Aging and collection reporting engine:
 * **Process Speed**: Generates a complete, audited monthly aging packet in **under 5 seconds**.
 
 ## Folder Contents
-* [ar_aging_report.py](file:///C:/Users/marsh/Downloads/Upwork/finance-analyst-portfolio/06_ar_aging/ar_aging_report.py) — Python ETL and reporting script.
-* [ar_aging_report.xlsx](file:///C:/Users/marsh/Downloads/Upwork/finance-analyst-portfolio/06_ar_aging/ar_aging_report.xlsx) — Output Excel report with conditional warnings and detailed sheets.
+* [ar_aging_report.py](./06_ar_aging/ar_aging_report.py) — Python ETL and reporting script.
+* [ar_aging_report.xlsx](./06_ar_aging/ar_aging_report.xlsx) — Output Excel report with conditional warnings and detailed sheets.
 
 ## Execution Instructions
 To regenerate the AR aging report from the database:

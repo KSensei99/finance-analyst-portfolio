@@ -5,8 +5,10 @@ from openpyxl import Workbook
 from openpyxl.styles import Font, PatternFill, Alignment, Border, Side
 from openpyxl.utils.dataframe import dataframe_to_rows
 
-db_path = r'C:\Users\marsh\Downloads\Upwork\finance-analyst-portfolio\data\nexoria.db'
-output_dir = r'C:\Users\marsh\Downloads\Upwork\finance-analyst-portfolio\03_shipping_allocation'
+import os
+base_dir = os.path.dirname(os.path.abspath(__file__))
+db_path = os.path.join(base_dir, "..", "data", "nexoria.db")
+output_dir = base_dir
 
 # 1. Read Data
 conn = sqlite3.connect(db_path)

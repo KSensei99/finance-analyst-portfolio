@@ -14,18 +14,18 @@ To address this bottleneck, we implemented a dual-path automation system:
 * **Accuracy**: Automated template formulas guarantee mathematical consistency and eliminate data entry errors.
 
 ## Folder Contents
-* [NexoriaInvoicing.bas](file:///C:/Users/marsh/Downloads/Upwork/finance-analyst-portfolio/01_invoicing/NexoriaInvoicing.bas) — The VBA macro code containing `GenerateInvoices` and `GetTaxRate`.
-* [NexoriaInvoicing.xlsx](file:///C:/Users/marsh/Downloads/Upwork/finance-analyst-portfolio/01_invoicing/NexoriaInvoicing.xlsx) — Excel workbook pre-loaded with sample orders, tax rates, and the invoice template.
-* [build_invoice_template.py](file:///C:/Users/marsh/Downloads/Upwork/finance-analyst-portfolio/01_invoicing/build_invoice_template.py) — Python script that creates the initial invoice template with openpyxl.
-* [create_vba_invoicing_workbook.py](file:///C:/Users/marsh/Downloads/Upwork/finance-analyst-portfolio/01_invoicing/create_vba_invoicing_workbook.py) — Python script to load data and build `NexoriaInvoicing.xlsx`.
-* [invoice_generator.py](file:///C:/Users/marsh/Downloads/Upwork/finance-analyst-portfolio/01_invoicing/invoice_generator.py) — The Python ReportLab PDF invoice generator.
+* [NexoriaInvoicing.bas](./01_invoicing/NexoriaInvoicing.bas) — The VBA macro code containing `GenerateInvoices` and `GetTaxRate`.
+* [NexoriaInvoicing.xlsx](./01_invoicing/NexoriaInvoicing.xlsx) — Excel workbook pre-loaded with sample orders, tax rates, and the invoice template.
+* [build_invoice_template.py](./01_invoicing/build_invoice_template.py) — Python script that creates the initial invoice template with openpyxl.
+* [create_vba_invoicing_workbook.py](./01_invoicing/create_vba_invoicing_workbook.py) — Python script to load data and build `NexoriaInvoicing.xlsx`.
+* [invoice_generator.py](./01_invoicing/invoice_generator.py) — The Python ReportLab PDF invoice generator.
 * `invoices/` — Folder containing the generated sample PDF invoices.
 
 ## VBA Macro Setup Instructions
-1. Open [NexoriaInvoicing.xlsx](file:///C:/Users/marsh/Downloads/Upwork/finance-analyst-portfolio/01_invoicing/NexoriaInvoicing.xlsx) in Excel.
+1. Open [NexoriaInvoicing.xlsx](./01_invoicing/NexoriaInvoicing.xlsx) in Excel.
 2. Save the workbook as **Excel Macro-Enabled Workbook (`.xlsm`)**.
 3. Press `Alt + F11` to open the VBA Editor.
-4. Click **File -> Import File...** and select [NexoriaInvoicing.bas](file:///C:/Users/marsh/Downloads/Upwork/finance-analyst-portfolio/01_invoicing/NexoriaInvoicing.bas).
+4. Click **File -> Import File...** and select [NexoriaInvoicing.bas](./01_invoicing/NexoriaInvoicing.bas).
 5. Close the VBA editor.
 6. Create a folder named `Invoices` in the same directory as the workbook.
 7. In the `Orders` sheet, clear any "Invoiced" flags in column L to re-run, then run the `GenerateInvoices` macro.

@@ -50,7 +50,7 @@ table fact_finances
 		mode: import
 		source =
 				let
-				    Source = Csv.Document(File.Contents("C:\Users\marsh\Downloads\Upwork\finance-analyst-portfolio\04_budget_vs_actual\fact_finances.csv"),[Delimiter=",", Columns=5, Encoding=1252, QuoteStyle=QuoteStyle.None]),
+				    Source = Csv.Document(File.Contents("C:\finance-analyst-portfolio\04_budget_vs_actual\fact_finances.csv"),[Delimiter=",", Columns=5, Encoding=1252, QuoteStyle=QuoteStyle.None]),
 				    #"Promoted Headers" = Table.PromoteHeaders(Source, [PromoteAllScalars=true]),
 				    #"Changed Type" = Table.TransformColumnTypes(#"Promoted Headers",{{"Date", type date}, {"department", type text}, {"gl_account", type text}, {"Scenario", type text}, {"amount", type number}})
 				in

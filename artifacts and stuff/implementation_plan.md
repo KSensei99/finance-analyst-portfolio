@@ -1,6 +1,6 @@
 # 3 Phase Analysis — Nexoria vs Apex Supply Guide
 
-> **Objective:** Compare the [Apex Supply Co. Portfolio Guide](file:///C:/Users/marsh/Downloads/apex_supply_portfolio_guide.html) against the current [Nexoria Finance Portfolio](file:///C:/Users/marsh/Downloads/Upwork/finance-analyst-portfolio) project, rate every dimension, identify gaps, and produce a hardened implementation plan.
+> **Objective:** Compare the [Apex Supply Co. Portfolio Guide](apex_supply_portfolio_guide.html) against the current [Nexoria Finance Portfolio](finance-analyst-portfolio) project, rate every dimension, identify gaps, and produce a hardened implementation plan.
 
 ---
 

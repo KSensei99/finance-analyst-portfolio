@@ -15,7 +15,7 @@ We built a structured tax calculator and validation engine:
 * **Client Trust**: Stopped invoice variance issues, improving billing integrity.
 
 ## Folder Contents
-* [sales_tax_queries.sql](file:///C:/Users/marsh/Downloads/Upwork/finance-analyst-portfolio/02_sales_tax/sales_tax_queries.sql) — SQL queries used to aggregate sales and calculate tax liabilities.
-* [generate_tax_report.py](file:///C:/Users/marsh/Downloads/Upwork/finance-analyst-portfolio/02_sales_tax/generate_tax_report.py) — Python script that queries SQLite database and outputs the formatted validation report.
-* [sales_tax_report.xlsx](file:///C:/Users/marsh/Downloads/Upwork/finance-analyst-portfolio/02_sales_tax/sales_tax_report.xlsx) — Reconciled sales tax report with validation sheets and variance logs.
-* [power_query_steps.md](file:///C:/Users/marsh/Downloads/Upwork/finance-analyst-portfolio/02_sales_tax/power_query_steps.md) — Documentation showing how to recreate the Power Query extraction step-by-step.
+* [sales_tax_queries.sql](./02_sales_tax/sales_tax_queries.sql) — SQL queries used to aggregate sales and calculate tax liabilities.
+* [generate_tax_report.py](./02_sales_tax/generate_tax_report.py) — Python script that queries SQLite database and outputs the formatted validation report.
+* [sales_tax_report.xlsx](./02_sales_tax/sales_tax_report.xlsx) — Reconciled sales tax report with validation sheets and variance logs.
+* [power_query_steps.md](./02_sales_tax/power_query_steps.md) — Documentation showing how to recreate the Power Query extraction step-by-step.

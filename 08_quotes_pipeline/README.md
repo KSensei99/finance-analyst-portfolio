@@ -19,8 +19,8 @@ We built an automated, one-click quote conversion pipeline using Google Apps Scr
 * **Audit Trail**: Logs all transactions to a central pipeline tracker sheet automatically.
 
 ## Folder Contents
-* [QuoteToInvoice.gs](file:///C:/Users/marsh/Downloads/Upwork/finance-analyst-portfolio/08_quotes_pipeline/QuoteToInvoice.gs) — Google Apps Script macro code.
-* [quotes_sample.csv](file:///C:/Users/marsh/Downloads/Upwork/finance-analyst-portfolio/08_quotes_pipeline/quotes_sample.csv) — Sample quotes data to populate the test sheet.
+* [QuoteToInvoice.gs](./08_quotes_pipeline/QuoteToInvoice.gs) — Google Apps Script macro code.
+* [quotes_sample.csv](./08_quotes_pipeline/quotes_sample.csv) — Sample quotes data to populate the test sheet.
 
 ---
 
@@ -29,7 +29,7 @@ We built an automated, one-click quote conversion pipeline using Google Apps Scr
 ### Step 1: Set Up the Google Spreadsheet
 1. Create a new Google Spreadsheet and name it **Nexoria Quote-to-Invoice Tracker**.
 2. Create three worksheets (tabs) named:
-   * **Quotes**: Paste the contents of [quotes_sample.csv](file:///C:/Users/marsh/Downloads/Upwork/finance-analyst-portfolio/08_quotes_pipeline/quotes_sample.csv) here.
+   * **Quotes**: Paste the contents of [quotes_sample.csv](./08_quotes_pipeline/quotes_sample.csv) here.
    * **TaxRates**: Paste the state-to-tax-rate mappings (State in Col A, Rate in Col B).
    * **Pipeline**: Add headers in Row 1: `Invoice ID`, `Quote ID`, `Customer`, `Total ($)`, `Status`, `Date`.
 
@@ -56,7 +56,7 @@ We built an automated, one-click quote conversion pipeline using Google Apps Scr
 ### Step 4: Inject the Apps Script
 1. In your Google Spreadsheet, click **Extensions -> Apps Script**.
 2. Clear any default code in the editor.
-3. Paste the contents of [QuoteToInvoice.gs](file:///C:/Users/marsh/Downloads/Upwork/finance-analyst-portfolio/08_quotes_pipeline/QuoteToInvoice.gs).
+3. Paste the contents of [QuoteToInvoice.gs](./08_quotes_pipeline/QuoteToInvoice.gs).
 4. Save the project and click **Run** (you will be prompted to authorize permissions for Google Sheets, Docs, Drive, and Gmail).
 5. Reload the Google Spreadsheet. You will see a new menu item **Nexoria Tools** appear.
 

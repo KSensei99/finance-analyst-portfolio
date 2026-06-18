@@ -2,8 +2,9 @@ import sqlite3
 import pandas as pd
 import os
 
-db_path = r'C:\Users\marsh\Downloads\Upwork\finance-analyst-portfolio\data\nexoria.db'
-output_dir = r'C:\Users\marsh\Downloads\Upwork\finance-analyst-portfolio\04_budget_vs_actual'
+base_dir = os.path.dirname(os.path.abspath(__file__))
+db_path = os.path.join(base_dir, "..", "data", "nexoria.db")
+output_dir = base_dir
 
 if not os.path.exists(output_dir):
     os.makedirs(output_dir)

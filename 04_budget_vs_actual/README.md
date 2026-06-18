@@ -20,11 +20,11 @@ We built a premium, star-schema Power BI report that links all data sources to a
 * **Proactive Variance Control**: Under-budget and over-budget highlights allow the finance team to isolate cost overruns within seconds.
 
 ## Folder Contents
-* [Nexoria_BVA_Dashboard.pdf](file:///C:/Users/marsh/Downloads/Upwork/finance-analyst-portfolio/04_budget_vs_actual/Nexoria_BVA_Dashboard.pdf) — Exported PDF version of the 2-page dashboard layout.
-* [Nexoria_BVA_Dashboard.pbip](file:///C:/Users/marsh/Downloads/Upwork/finance-analyst-portfolio/04_budget_vs_actual/Nexoria_BVA_Dashboard.pbip) — Power BI Project report (includes `.Report` and `.SemanticModel` folders for developer Git versioning).
-* [POWERBI_LIVE_LINK.txt](file:///C:/Users/marsh/Downloads/Upwork/finance-analyst-portfolio/04_budget_vs_actual/POWERBI_LIVE_LINK.txt) — Placeholder file for the published dashboard link.
-* [PowerBI_Instructions.md](file:///C:/Users/marsh/Downloads/Upwork/finance-analyst-portfolio/04_budget_vs_actual/PowerBI_Instructions.md) — Setup and build documentation for replicating the report.
-* [export_powerbi_data.py](file:///C:/Users/marsh/Downloads/Upwork/finance-analyst-portfolio/04_budget_vs_actual/export_powerbi_data.py) — Python script that extracts the clean CSV dimensions and facts from SQLite.
+* [Nexoria_BVA_Dashboard.pdf](./04_budget_vs_actual/Nexoria_BVA_Dashboard.pdf) — Exported PDF version of the 2-page dashboard layout.
+* [Nexoria_BVA_Dashboard.pbip](./04_budget_vs_actual/Nexoria_BVA_Dashboard.pbip) — Power BI Project report (includes `.Report` and `.SemanticModel` folders for developer Git versioning).
+* [POWERBI_LIVE_LINK.txt](./04_budget_vs_actual/POWERBI_LIVE_LINK.txt) — Placeholder file for the published dashboard link.
+* [PowerBI_Instructions.md](./04_budget_vs_actual/PowerBI_Instructions.md) — Setup and build documentation for replicating the report.
+* [export_powerbi_data.py](./04_budget_vs_actual/export_powerbi_data.py) — Python script that extracts the clean CSV dimensions and facts from SQLite.
 * `dim_account.csv` — Dim table containing GL account codes and groupings.
 * `dim_department.csv` — Dim table containing department mapping.
 * `fact_finances.csv` — Fact table containing monthly actual and budget amounts.
