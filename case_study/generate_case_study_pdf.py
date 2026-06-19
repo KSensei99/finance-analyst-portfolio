@@ -230,19 +230,33 @@ def convert_md_to_pdf(md_path, pdf_path):
         if stripped.startswith('```'):
             if in_code_block:
                 # End of code block
-                # Draw a code block table
-                code_table_data = [[Paragraph("<br/>".join(code_block_lines), code_style)]]
-                code_table = Table(code_table_data, colWidths=[504])
-                code_table.setStyle(TableStyle([
-                    ('BACKGROUND', (0,0), (-1,-1), TINT_BG),
-                    ('BOX', (0,0), (-1,-1), 0.5, colors.HexColor("#D1D5DB")),
-                    ('VALIGN', (0,0), (-1,-1), 'TOP'),
-                    ('TOPPADDING', (0,0), (-1,-1), 8),
-                    ('BOTTOMPADDING', (0,0), (-1,-1), 8),
-                    ('LEFTPADDING', (0,0), (-1,-1), 10),
-                    ('RIGHTPADDING', (0,0), (-1,-1), 10),
-                ]))
-                story.append(code_table)
+                # Check if this code block represents the system architecture diagram
+                is_architecture = any("Central SQLite Database" in l or "nexoria.db" in l for l in code_block_lines)
+                if is_architecture:
+                    from reportlab.platypus import Image as RLImage
+                    img_path = os.path.join(base_dir, "..", "docs", "architecture_diagram.png")
+                    img = RLImage(img_path, width=280, height=280)
+                    img_table = Table([[img]], colWidths=[504])
+                    img_table.setStyle(TableStyle([
+                        ('ALIGN', (0,0), (-1,-1), 'CENTER'),
+                        ('BOTTOMPADDING', (0,0), (-1,-1), 10),
+                        ('TOPPADDING', (0,0), (-1,-1), 10),
+                    ]))
+                    story.append(img_table)
+                else:
+                    # Draw a code block table
+                    code_table_data = [[Paragraph("<br/>".join(code_block_lines), code_style)]]
+                    code_table = Table(code_table_data, colWidths=[504])
+                    code_table.setStyle(TableStyle([
+                        ('BACKGROUND', (0,0), (-1,-1), TINT_BG),
+                        ('BOX', (0,0), (-1,-1), 0.5, colors.HexColor("#D1D5DB")),
+                        ('VALIGN', (0,0), (-1,-1), 'TOP'),
+                        ('TOPPADDING', (0,0), (-1,-1), 8),
+                        ('BOTTOMPADDING', (0,0), (-1,-1), 8),
+                        ('LEFTPADDING', (0,0), (-1,-1), 10),
+                        ('RIGHTPADDING', (0,0), (-1,-1), 10),
+                    ]))
+                    story.append(code_table)
                 story.append(Spacer(1, 10))
                 code_block_lines.clear()
                 in_code_block = False
