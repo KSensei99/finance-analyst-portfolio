@@ -368,16 +368,16 @@ def convert_md_to_pdf(md_path, pdf_path):
                 # Check if this code block represents the system architecture diagram
                 is_architecture = any("Relational Data Layer" in l or "Central SQLite Database" in l or "nexoria" in l or "01. Invoicing" in l for l in code_block_lines)
                 if is_architecture:
-                    drawing = create_architecture_drawing()
-                    drawing_table = Table([[drawing]], colWidths=[522])
-                    drawing_table.setStyle(TableStyle([
+                    from reportlab.platypus import Image as RLImage
+                    img_path = os.path.join(base_dir, "..", "docs", "architecture_diagram.png")
+                    img = RLImage(img_path, width=240, height=240)
+                    img_table = Table([[img]], colWidths=[522])
+                    img_table.setStyle(TableStyle([
                         ('ALIGN', (0,0), (-1,-1), 'CENTER'),
-                        ('LEFTPADDING', (0,0), (-1,-1), 0),
-                        ('RIGHTPADDING', (0,0), (-1,-1), 0),
-                        ('TOPPADDING', (0,0), (-1,-1), 0),
-                        ('BOTTOMPADDING', (0,0), (-1,-1), 0),
+                        ('BOTTOMPADDING', (0,0), (-1,-1), 6),
+                        ('TOPPADDING', (0,0), (-1,-1), 6),
                     ]))
-                    story.append(drawing_table)
+                    story.append(img_table)
                 else:
                     # Draw a code block table
                     code_table_data = [[Paragraph("<br/>".join(code_block_lines), code_style)]]
